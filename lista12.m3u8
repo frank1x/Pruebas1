@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 CUID="1000" tvg-id="Willax" tvg-name="Willax Dailymotion" group-title="Nacionales", WILLAX
-https://stream-04.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmoeBzKBZmXkKEDinbMq3dcxRxsucQCSBCBG7bvUe6GZg)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmukEjmzAJXRUPYkM90TQ3lezqjI_4a6TMwrkAZjNwrxG)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 CUID="1001" tvg-id="Latina" tvg-name="Latina (720p) [Geo-blocked]" group-title="Nacionales", FRECLAT
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 #EXTINF:-1 CUID="1002" tvg-id="Panamericana TV" tvg-name="Panamericana TV (298p) [Not 24/7]" group-title="Nacionales", PANAMI
