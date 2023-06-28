@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 CUID="1005" tvg-id="ATV" tvg-name="ATV (720p) [Not 24/7]" group-title="Nacionales", ATVPERU
+#EXTINF:-1 CUID="1000" tvg-id="atv" tvg-name="ATV" group-title="Nacionales",ATVPERU
 https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8
