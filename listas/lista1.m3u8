@@ -1,27 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Wiilax" tvg-name="Willax Dailymotion" tvg-logo="https://images2.imgbox.com/31/0b/lDe6aaVA_o.png", Willax
-https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmrh4GqoV8Ez30DrmuMCdrffmXyEgMPe2VVGN9CmImqpR)/dm/3/x7x4dgx/s/live-1.m3u8
-
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmjAzVRmBPvTDz61z0ji-pM07HQORvBluTS4skLNTUBF5)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina (720p) [Geo-blocked]" tvg-logo="https://thumbs2.imgbox.com/ac/f7/iNu5leT9_t.png", Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
-
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV (298p) [Not 24/7]" tvg-logo="https://images2.imgbox.com/73/a8/56q2nywK_o.png", Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
-
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="Exitosa TV" tvg-logo="https://images2.imgbox.com/35/5f/IuARpI2B_o.png", Exitosa TV
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
-
-#EXTINF:-1 tvg-id="PBO.pe" tvg-name="PBO Digital (720p) [Not 24/7]" tvg-logo="https://images2.imgbox.com/05/4b/NLnPBQqA_o.png", PBO Digital
+#EXTINF:-1 tvg-id="PBO.pe" tvg-name="PBO Digital (720p) [Not 24/7]" tvg-logo="https://images2.imgbox.com/05/4b/NLnPBQqA_o.png", PBO
 https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
-
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV (720p) [Not 24/7]" tvg-logo="https://images2.imgbox.com/be/a9/Yggfw5sm_o.png", ATV
 https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8
-
-#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV+ Noticias (720p) [Not 24/7]" tvg-logo="https://images2.imgbox.com/26/ed/VHN1eyrT_o.png", ATV+ Noticias
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV+ Noticias (720p) [Not 24/7]" tvg-logo="https://images2.imgbox.com/26/ed/VHN1eyrT_o.png", ATV+
 https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
-
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-name="ATV Sur (720p) [Not 24/7]" tvg-logo="https://images2.imgbox.com/1a/6c/WBEwaRYY_o.png", ATV Sur
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-name="Nativa (720p) [Not 24/7]" tvg-logo="https://thumbs2.imgbox.com/df/0a/8668KvsJ_t.png", Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
