@@ -17,5 +17,7 @@ https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8
 https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-name="ATV Sur (720p) [Not 24/7]" tvg-logo="https://images2.imgbox.com/1a/6c/WBEwaRYY_o.png", ATV Sur
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CANAL.N.HD.(Canal.N.HD).pe" tvg-name="Canal N" tvg-logo="https://images2.imgbox.com/a4/13/MedzLMwo_o.png", Canal N
+https://a8nc.short.gy/CanalN
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-name="Nativa (720p) [Not 24/7]" tvg-logo="https://thumbs2.imgbox.com/df/0a/8668KvsJ_t.png", Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
