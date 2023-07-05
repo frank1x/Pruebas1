@@ -11,6 +11,8 @@ https://a8nc.short.gy/PANAMER
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF:-1 tvg-id="PBO.pe" tvg-name="PBO" tvg-logo="https://images2.imgbox.com/05/4b/NLnPBQqA_o.png", PBO
 https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
+#EXTINF:-1 tvg-id="TVPeru" tvg-name="TV Peru" tvg-logo="https://images2.imgbox.com/39/37/2y0AqF1e_o.png", TV Peru
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_1.m3u8
 #EXTINF:-1 tvg-id="ATV.HD.(ATV.HD).pe" tvg-name="ATV" tvg-logo="https://images2.imgbox.com/be/a9/Yggfw5sm_o.png", ATV
 https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV+" tvg-logo="https://images2.imgbox.com/26/ed/VHN1eyrT_o.png", ATV+
