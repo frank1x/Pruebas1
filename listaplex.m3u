@@ -21,3 +21,7 @@ https://a8nc.short.gy/ATVSur
 https://a8nc.short.gy/CanalN
 #EXTINF:-1 CUID="1010" tvg-id="Nativa.pe" tvg-name="Nativa" tvg-logo="https://thumbs2.imgbox.com/df/0a/8668KvsJ_t.png" group-title="News", Nativa
 https://a8nc.short.gy/Nativa
+#EXTINF:-1 CUID="1011" tvg-id="M.DEPORTES.HD.(M.Deportes.HD).pe" tvg-name="Movistar Deportes" tvg-logo="https://raw.githubusercontent.com/frank1x/Pruebas1/main/images/Movistar_Deportes.png" group-title="Sports", Movistar Deportes
+https://a8nc.short.gy/movistardep
+#EXTINF:-1 CUID="1012" tvg-id="GOLPERU.HD.(GOLPERU.HD).pe" tvg-name="GOL Peru" tvg-logo="https://raw.githubusercontent.com/frank1x/Pruebas1/main/images/Gol_Peru_2019.png" group-title="Sports", GOL Peru
+https://a8nc.short.gy/golper
