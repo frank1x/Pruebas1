@@ -9,14 +9,12 @@ https://a8nc.short.gy/AmericaPE
 https://a8nc.short.gy/PANAMER
 #EXTINF:-1 CUID="1004" tvg-id="ExitosaTV.pe" tvg-name="Exitosa TV" tvg-logo="https://images2.imgbox.com/35/5f/IuARpI2B_o.png" group-title="News", Exitosa TV
 https://a8nc.short.gy/Exitosa
-#EXTINF:-1 CUID="1005" tvg-id="TVPeru" tvg-name="TV Peru" tvg-logo="https://images2.imgbox.com/39/37/2y0AqF1e_o.png" group-title="News", TV Peru
+#EXTINF:-1 CUID="1005" tvg-id="TVPeru" tvg-name="TV Peru" tvg-logo="https://raw.githubusercontent.com/frank1x/Pruebas1/main/images/tvpe.png" group-title="News", TV Peru
 https://a8nc.short.gy/TVPeru
 #EXTINF:-1 CUID="1006" tvg-id="ATV.HD.(ATV.HD).pe" tvg-name="ATV" tvg-logo="https://images2.imgbox.com/be/a9/Yggfw5sm_o.png" group-title="News", ATV
 https://a8nc.short.gy/ATV
-#EXTINF:-1 CUID="1007" tvg-id="ATVPlus.pe" tvg-name="ATV+" tvg-logo="https://images2.imgbox.com/26/ed/VHN1eyrT_o.png" group-title="News", ATV+
+#EXTINF:-1 CUID="1007" tvg-id="ATVPlus.pe" tvg-name="ATV+" tvg-logo="https://raw.githubusercontent.com/frank1x/Pruebas1/main/images/atvplus.png" group-title="News", ATV+
 https://a8nc.short.gy/ATVPlus
-#EXTINF:-1 CUID="1008" tvg-id="ATVSur.pe" tvg-name="ATV Sur" tvg-logo="https://images2.imgbox.com/1a/6c/WBEwaRYY_o.png" group-title="News", ATV Sur
-https://a8nc.short.gy/ATVSur
 #EXTINF:-1 CUID="1009" tvg-id="CANAL.N.HD.(Canal.N.HD).pe" tvg-name="Canal N" tvg-logo="https://images2.imgbox.com/a4/13/MedzLMwo_o.png" group-title="News", Canal N
 https://a8nc.short.gy/CanalN
 #EXTINF:-1 CUID="1010" tvg-id="Nativa.pe" tvg-name="Nativa" tvg-logo="https://thumbs2.imgbox.com/df/0a/8668KvsJ_t.png" group-title="News", Nativa
