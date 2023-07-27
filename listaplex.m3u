@@ -15,9 +15,69 @@ https://a8nc.short.gy/TVPeru
 https://a8nc.short.gy/ATV
 #EXTINF:-1 CUID="1007" tvg-id="ATVPlus.pe" tvg-name="ATV+" tvg-logo="https://raw.githubusercontent.com/frank1x/Pruebas1/main/images/atvplus.png" group-title="News", ATV+
 https://a8nc.short.gy/ATVPlus
-#EXTINF:-1 CUID="1009" tvg-id="CANAL.N.HD.(Canal.N.HD).pe" tvg-name="Canal N" tvg-logo="https://images2.imgbox.com/a4/13/MedzLMwo_o.png" group-title="News", Canal N
+#EXTINF:-1 CUID="1008" tvg-id="CANAL.N.HD.(Canal.N.HD).pe" tvg-name="Canal N" tvg-logo="https://images2.imgbox.com/a4/13/MedzLMwo_o.png" group-title="News", Canal N
 https://a8nc.short.gy/CanalN
-#EXTINF:-1 CUID="1011" tvg-id="M.DEPORTES.HD.(M.Deportes.HD).pe" tvg-name="Movistar Deportes" tvg-logo="https://raw.githubusercontent.com/frank1x/Pruebas1/main/images/Movistar_Deportes.png" group-title="Sports", Movistar Deportes
+#EXTINF:-1 CUID="1009" tvg-id="M.DEPORTES.HD.(M.Deportes.HD).pe" tvg-name="Movistar Deportes" tvg-logo="https://raw.githubusercontent.com/frank1x/Pruebas1/main/images/Movistar_Deportes.png" group-title="Sports", Movistar Deportes
 https://a8nc.short.gy/movistardep
-#EXTINF:-1 CUID="1012" tvg-id="GOLPERU.HD.(GOLPERU.HD).pe" tvg-name="GOL Peru" tvg-logo="https://raw.githubusercontent.com/frank1x/Pruebas1/main/images/Gol_Peru_2019.png" group-title="Sports", GOL Peru
+#EXTINF:-1 CUID="1010" tvg-id="GOLPERU.HD.(GOLPERU.HD).pe" tvg-name="GOL Peru" tvg-logo="https://raw.githubusercontent.com/frank1x/Pruebas1/main/images/Gol_Peru_2019.png" group-title="Sports", GOL Peru
 https://a8nc.short.gy/golper
+#EXTINF:-1 CUID="1011" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1012" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1013" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1014" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1015" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1016" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1017" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1018" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1019" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1020" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1021" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1022" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1023" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1024" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1025" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1026" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1027" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1028" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1029" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1030" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1031" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1032" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1033" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1034" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1035" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1066" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1037" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1038" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1039" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
+#EXTINF:-1 CUID="1040" tvg-id="TEST" tvg-name="TEST" tvg-logo="" group-title="TEST", TEST
+https://a8nc.short.gy/test
