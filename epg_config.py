@@ -1,8 +1,8 @@
 # epg_config.py
 # CONFIGURACIÓN DE FUENTES EPG Y CANALES A PROCESAR
 
-# Nombre del archivo de salida
-OUTPUT_FILENAME = "/home/alien/Mis_scripts/Pruebas1/epg/epg_all.xml"
+# Ruta del archivo EPG (relativa al repositorio)
+EPG_OUTPUT_PATH = "epg/epg_all.xml"
 
 # Formato: [url, nuevo_timeoffset, [lista_de_ids_de_canales]]
 # Si la lista de canales está vacía [], se procesan TODOS los canales
