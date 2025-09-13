@@ -1,0 +1,9 @@
+# Ignorar todos los .log
+*.log
+
+# Ignorar carpetas de caché de Python
+__pycache__/
+
+# Ignorar archivos temporales de editor
+*.swp
+*.swo
