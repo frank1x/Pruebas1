@@ -30,10 +30,6 @@ epg_sources = [
     [
         "https://www.open-epg.com/files/peru2.xml.gz",
         "+0000",
-        ["PANAMERICANA TELEVISION HD.pe", "TV PERU HD.pe", "ATV HD.pe", "GLOBAL TV.pe"]  # Solo procesar este canal
+        ["PANAMERICANA TELEVISION HD.pe", "TV PERU HD.pe", "ATV HD.pe", "GLOBAL TV.pe", "M DEPORTES.pe"]  # Solo procesar este canal
     ],
-    # Ejemplo: procesar todos los canales de otra fuente
-    # ["https://otra.fuente.epg/epg2.xml.gz", "-0400", []],
-    # Ejemplo: procesar múltiples canales específicos
-    # ["https://tercera.fuente.epg/epg3.xml.gz", "-0300", ["Canal.1", "Canal.2", "Canal.3"]],
 ]

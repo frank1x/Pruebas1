@@ -16,8 +16,9 @@ from epg_config import epg_sources, EPG_OUTPUT_PATH
 class EPGProcessor:
     def __init__(self):
         self.epg_sources = epg_sources
-        self.repo_root = Path("/home/alien/Mis_scripts/epg/Pruebas1")
-        self.output_path = self.repo_root / EPG_OUTPUT_PATH
+        # Obtener el directorio actual del script
+        self.script_dir = Path(__file__).parent
+        self.output_path = self.script_dir / EPG_OUTPUT_PATH
         self.github_url = f"https://raw.githubusercontent.com/frank1x/Pruebas1/main/{EPG_OUTPUT_PATH}"
 
     def download_epg(self, url: str) -> str:
@@ -143,19 +144,26 @@ class EPGProcessor:
                 print("Git no está instalado")
                 return False
 
-            # Cambiar al directorio del repositorio
-            original_cwd = os.getcwd()
-            os.chdir(self.repo_root)
+            # Verificar que estamos en el directorio correcto del repositorio
+            if not (self.script_dir / ".git").exists():
+                print(f"Error: No se encuentra repositorio git en {self.script_dir}")
+                return False
 
-            # Verificar si hay cambios
-            status_result = subprocess.run(["git", "status", "--porcelain", EPG_OUTPUT_PATH],
-                                         capture_output=True, text=True)
-            if not status_result.stdout.strip():
-                print("No hay cambios en el archivo EPG")
+            # Cambiar al directorio del script (que es el repositorio)
+            original_cwd = os.getcwd()
+            os.chdir(self.script_dir)
+
+            # Verificar si el archivo ha cambiado usando git diff
+            diff_result = subprocess.run(["git", "diff", "--quiet", EPG_OUTPUT_PATH],
+                                       capture_output=True, text=True)
+
+            # git diff --quiet devuelve 0 si no hay cambios, 1 si hay cambios
+            if diff_result.returncode == 0:
+                print("No hay cambios en el archivo EPG - omitiendo commit")
                 os.chdir(original_cwd)
                 return True
 
-            # Subir cambios
+            # Proceder con el commit y push
             commit_message = f"Actualizar EPG - {datetime.now().strftime('%Y-%m-%d %H:%M')}"
             commands = [
                 ["git", "add", EPG_OUTPUT_PATH],
@@ -185,7 +193,7 @@ class EPGProcessor:
         print("=" * 60)
         print("INICIANDO PROCESAMIENTO DE EPG")
         print("=" * 60)
-        print(f"Repositorio: {self.repo_root}")
+        print(f"Directorio del script: {self.script_dir}")
         print(f"Archivo salida: {self.output_path}")
         print("=" * 60)
 
