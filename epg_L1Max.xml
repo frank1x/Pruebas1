@@ -3,372 +3,427 @@
   <channel id="L1Max">
     <display-name lang="es">L1Max</display-name>
   </channel>
-  <programme start="20250912220000 -0500" stop="20250912225900 -0500" channel="L1Max">
+  <programme start="20250919134500 -0500" stop="20250919161400 -0500" channel="L1Max">
+    <title lang="es">Deportivo Garcilaso vs. Melgar : Fútbol Peruano Primera División - Deportivo Garcilaso vs. Melgar</title>
+    <desc lang="es">Acción de la fecha 9 del Torneo Clausura. Deportivo Garcilaso enfrenta a FBC Mel</desc>
+  </programme>
+  <programme start="20250919161500 -0500" stop="20250919184400 -0500" channel="L1Max">
+    <title lang="es">Comerciantes Unidos vs. Sport Huancayo : Fútbol Peruano Primera División - Comerciantes Unidos vs. Sport Huancayo</title>
+    <desc lang="es">Acción de la fecha 9 del Torneo Clausura. Comerciantes Unidos enfrenta a Sport H</desc>
+  </programme>
+  <programme start="20250919184500 -0500" stop="20250919205900 -0500" channel="L1Max">
+    <title lang="es">Sporting Cristal vs. Alianza Atlético : Fútbol Peruano Primera División - Sporting Cristal vs. Alianza Atlético</title>
+    <desc lang="es">Jornada 9 del Torneo de Clausura de la Liga 1 de Perú. Sporting Cristal busca co</desc>
+  </programme>
+  <programme start="20250919210000 -0500" stop="20250919215900 -0500" channel="L1Max">
+    <title lang="es">Match gol</title>
+    <desc lang="es">Resumen completo de los partidos y los mejores goles del fin de semana del campe</desc>
+  </programme>
+  <programme start="20250919220000 -0500" stop="20250919225900 -0500" channel="L1Max">
     <title lang="es">Liga 1 Radio</title>
     <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
   </programme>
-  <programme start="20250912230000 -0500" stop="20250912231400 -0500" channel="L1Max">
-    <title lang="es">Liga 1, la previa - UTC vs. Ayacucho</title>
-    <desc lang="es">Análisis previo al partido de la fecha 8 del Torneo Clausura 2025 de la Liga 1.</desc>
+  <programme start="20250919230000 -0500" stop="20250920012900 -0500" channel="L1Max">
+    <title lang="es">Deportivo Garcilaso vs. Melgar : Fútbol Peruano Primera División - Deportivo Garcilaso vs. Melgar</title>
+    <desc lang="es">Acción de la fecha 9 del Torneo Clausura. Deportivo Garcilaso enfrenta a FBC Mel</desc>
   </programme>
-  <programme start="20250912231500 -0500" stop="20250913012900 -0500" channel="L1Max">
-    <title lang="es">UTC vs. Ayacucho : Fútbol Peruano Primera División - UTC vs. Ayacucho</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. UTC enfrenta a Ayacucho. Desde el Esta</desc>
-  </programme>
-  <programme start="20250913013000 -0500" stop="20250913022900 -0500" channel="L1Max">
+  <programme start="20250920013000 -0500" stop="20250920022900 -0500" channel="L1Max">
     <title lang="es">Liga 1 Radio</title>
     <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
   </programme>
-  <programme start="20250913023000 -0500" stop="20250913035900 -0500" channel="L1Max">
-    <title lang="es">Sport Huancayo vs. Los Chankas : Fútbol Peruano Primera División - Sport Huancayo vs. Los Chankas</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. Sport Huancayo enfrenta a Los Chankas.</desc>
+  <programme start="20250920023000 -0500" stop="20250920035900 -0500" channel="L1Max">
+    <title lang="es">Cienciano vs. Sport Boys : Fútbol Peruano Primera División - Cienciano vs. Sport Boys</title>
+    <desc lang="es">Acción de la fecha 9 del Torneo Clausura. Cienciano enfrenta a Sport Boys. Desde</desc>
   </programme>
-  <programme start="20250913040000 -0500" stop="20250913044400 -0500" channel="L1Max">
-    <title lang="es">Sport Huancayo vs. Los Chankas : Fútbol Peruano Primera División - Sport Huancayo vs. Los Chankas</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. Sport Huancayo enfrenta a Los Chankas.</desc>
+  <programme start="20250920040000 -0500" stop="20250920045900 -0500" channel="L1Max">
+    <title lang="es">Cienciano vs. Sport Boys : Fútbol Peruano Primera División - Cienciano vs. Sport Boys</title>
+    <desc lang="es">Acción de la fecha 9 del Torneo Clausura. Cienciano enfrenta a Sport Boys. Desde</desc>
   </programme>
-  <programme start="20250913044500 -0500" stop="20250913045900 -0500" channel="L1Max">
-    <title lang="es">Fillers L1 - Show de goles Perú</title>
-    <desc lang="es">Las mejores anotaciones de la fecha 1 del torneo Apertura 2025 de la Liga 1 de P</desc>
-  </programme>
-  <programme start="20250913050000 -0500" stop="20250913055900 -0500" channel="L1Max">
+  <programme start="20250920050000 -0500" stop="20250920055900 -0500" channel="L1Max">
     <title lang="es">Liga 1 Radio</title>
     <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
   </programme>
-  <programme start="20250913060000 -0500" stop="20250913065900 -0500" channel="L1Max">
+  <programme start="20250920060000 -0500" stop="20250920065900 -0500" channel="L1Max">
+    <title lang="es">Match gol</title>
+    <desc lang="es">Resumen completo de los partidos y los mejores goles del fin de semana del campe</desc>
+  </programme>
+  <programme start="20250920070000 -0500" stop="20250920075900 -0500" channel="L1Max">
     <title lang="es">Liga 1 Radio</title>
     <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
   </programme>
-  <programme start="20250913070000 -0500" stop="20250913075900 -0500" channel="L1Max">
+  <programme start="20250920080000 -0500" stop="20250920085900 -0500" channel="L1Max">
     <title lang="es">Liga 1 Radio</title>
     <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
   </programme>
-  <programme start="20250913080000 -0500" stop="20250913095900 -0500" channel="L1Max">
-    <title lang="es">Superliga de Dinamarca - Brøndby IF vs. FC København</title>
-    <desc lang="es">Acción del partido de la jornada 8 de la Superliga de Dinamarca 2025-26. Brondby</desc>
+  <programme start="20250920090000 -0500" stop="20250920095900 -0500" channel="L1Max">
+    <title lang="es">Match gol</title>
+    <desc lang="es">Resumen completo de los partidos y los mejores goles del fin de semana del campe</desc>
   </programme>
-  <programme start="20250913100000 -0500" stop="20250913105900 -0500" channel="L1Max">
+  <programme start="20250920100000 -0500" stop="20250920105900 -0500" channel="L1Max">
     <title lang="es">Liga 1 Radio</title>
     <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
   </programme>
-  <programme start="20250913110000 -0500" stop="20250913115900 -0500" channel="L1Max">
-    <title lang="es">Liga 1 Radio</title>
-    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  <programme start="20250920110000 -0500" stop="20250920115900 -0500" channel="L1Max">
+    <title lang="es">Match gol</title>
+    <desc lang="es">Resumen completo de los partidos y los mejores goles del fin de semana del campe</desc>
   </programme>
-  <programme start="20250913120000 -0500" stop="20250913121400 -0500" channel="L1Max">
+  <programme start="20250920120000 -0500" stop="20250920121400 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Mejores atajadas Apertura 2025</title>
+    <desc lang="es">Las acciones más destacadas de los arqueros durante el Torneo Apertura 2025 de l</desc>
+  </programme>
+  <programme start="20250920121500 -0500" stop="20250920122900 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Liga 1 Apertura 2025: Mejores goles</title>
+    <desc lang="es">Un especial con las mejores anotaciones de la Liga 1 del Torneo de Apertura 2025</desc>
+  </programme>
+  <programme start="20250920123000 -0500" stop="20250920131400 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - Sporting Cristal vs. Alianza Sullana</title>
+    <desc lang="es">Análisis previo al partido de la fecha 9 del Torneo Clausura 2025 de la Liga 1.</desc>
+  </programme>
+  <programme start="20250920131500 -0500" stop="20250920152900 -0500" channel="L1Max">
+    <title lang="es">Sporting Cristal vs. Alianza Atlético : Fútbol Peruano Primera División - Sporting Cristal vs. Alianza Atlético</title>
+    <desc lang="es">Jornada 9 del Torneo de Clausura de la Liga 1 de Perú. Sporting Cristal busca co</desc>
+  </programme>
+  <programme start="20250920153000 -0500" stop="20250920175900 -0500" channel="L1Max">
+    <title lang="es">Comerciantes Unidos vs. Sport Huancayo : Fútbol Peruano Primera División - Comerciantes Unidos vs. Sport Huancayo</title>
+    <desc lang="es">Acción de la fecha 9 del Torneo Clausura. Comerciantes Unidos enfrenta a Sport H</desc>
+  </programme>
+  <programme start="20250920180000 -0500" stop="20250920184400 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - UTC Cajamarca vs. Universitario</title>
+    <desc lang="es">Análisis previo al partido de la fecha 10 del Torneo Clausura 2025 de la Liga 1.</desc>
+  </programme>
+  <programme start="20250920184500 -0500" stop="20250920211400 -0500" channel="L1Max">
+    <title lang="es">UTC vs. Universitario : Fútbol Peruano Primera División - UTC vs. Universitario</title>
+    <desc lang="es">Fecha 10 del Torneo Clausura 2025 de la Liga 1. UTC se enfrenta a Universitario.</desc>
+  </programme>
+  <programme start="20250920211500 -0500" stop="20250920212900 -0500" channel="L1Max">
+    <title lang="es">Liga 1, el post - UTC Cajamarca vs. Universitario</title>
+    <desc lang="es">Todo el análisis e información de lo acontecido en el partido de la jornada 10 d</desc>
+  </programme>
+  <programme start="20250920213000 -0500" stop="20250920225900 -0500" channel="L1Max">
+    <title lang="es">Sporting Cristal vs. Alianza Atlético : Fútbol Peruano Primera División - Sporting Cristal vs. Alianza Atlético</title>
+    <desc lang="es">Jornada 9 del Torneo de Clausura de la Liga 1 de Perú. Sporting Cristal busca co</desc>
+  </programme>
+  <programme start="20250920230000 -0500" stop="20250920234400 -0500" channel="L1Max">
+    <title lang="es">Deportivo Garcilaso vs. Melgar : Fútbol Peruano Primera División - Deportivo Garcilaso vs. Melgar</title>
+    <desc lang="es">Acción de la fecha 9 del Torneo Clausura. Deportivo Garcilaso enfrenta a FBC Mel</desc>
+  </programme>
+  <programme start="20250920234500 -0500" stop="20250920235900 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Liga 1 Apertura 2025: Mejores goles</title>
+    <desc lang="es">Un especial con las mejores anotaciones de la Liga 1 del Torneo de Apertura 2025</desc>
+  </programme>
+  <programme start="20250921000000 -0500" stop="20250921004400 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - UTC Cajamarca vs. Universitario</title>
+    <desc lang="es">Análisis previo al partido de la fecha 10 del Torneo Clausura 2025 de la Liga 1.</desc>
+  </programme>
+  <programme start="20250921004500 -0500" stop="20250921031400 -0500" channel="L1Max">
+    <title lang="es">UTC vs. Universitario : Fútbol Peruano Primera División - UTC vs. Universitario</title>
+    <desc lang="es">Fecha 10 del Torneo Clausura 2025 de la Liga 1. UTC se enfrenta a Universitario.</desc>
+  </programme>
+  <programme start="20250921031500 -0500" stop="20250921032900 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Especial: U, ganador del Apertura 2025</title>
+    <desc lang="es">El camino de Universitario rumbo al campeonato del Torneo Apertura 2025. Los par</desc>
+  </programme>
+  <programme start="20250921033000 -0500" stop="20250921034400 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Facu Callejo, goleador Apertura 2025</title>
+    <desc lang="es">Un repaso a los goles del delantero de Cusco FC durante el Apertura 2025, que le</desc>
+  </programme>
+  <programme start="20250921034500 -0500" stop="20250921035900 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Mejores atajadas Apertura 2025</title>
+    <desc lang="es">Las acciones más destacadas de los arqueros durante el Torneo Apertura 2025 de l</desc>
+  </programme>
+  <programme start="20250921040000 -0500" stop="20250921062900 -0500" channel="L1Max">
+    <title lang="es">Comerciantes Unidos vs. Sport Huancayo : Fútbol Peruano Primera División - Comerciantes Unidos vs. Sport Huancayo</title>
+    <desc lang="es">Acción de la fecha 9 del Torneo Clausura. Comerciantes Unidos enfrenta a Sport H</desc>
+  </programme>
+  <programme start="20250921063000 -0500" stop="20250921085900 -0500" channel="L1Max">
+    <title lang="es">UTC vs. Universitario : Fútbol Peruano Primera División - UTC vs. Universitario</title>
+    <desc lang="es">Fecha 10 del Torneo Clausura 2025 de la Liga 1. UTC se enfrenta a Universitario.</desc>
+  </programme>
+  <programme start="20250921090000 -0500" stop="20250921105900 -0500" channel="L1Max">
+    <title lang="es">Superliga de Dinamarca - FC København vs. Silkeborg IF</title>
+  </programme>
+  <programme start="20250921110000 -0500" stop="20250921115900 -0500" channel="L1Max">
+    <title lang="es">Match gol</title>
+    <desc lang="es">Resumen completo de los partidos y los mejores goles del fin de semana del campe</desc>
+  </programme>
+  <programme start="20250921120000 -0500" stop="20250921121400 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Mejores atajadas Apertura 2025</title>
+    <desc lang="es">Las acciones más destacadas de los arqueros durante el Torneo Apertura 2025 de l</desc>
+  </programme>
+  <programme start="20250921121500 -0500" stop="20250921122900 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Liga 1 Apertura 2025: Mejores goles</title>
+    <desc lang="es">Un especial con las mejores anotaciones de la Liga 1 del Torneo de Apertura 2025</desc>
+  </programme>
+  <programme start="20250921123000 -0500" stop="20250921124400 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - FBC Melgar vs. Los Chankas</title>
+    <desc lang="es">Los comentarios y el análisis de cara al juego de la fecha 10 del Torneo Clausur</desc>
+  </programme>
+  <programme start="20250921124500 -0500" stop="20250921145900 -0500" channel="L1Max">
+    <title lang="es">Melgar vs. Los Chankas : Fútbol Peruano Primera División - Melgar vs. Los Chankas</title>
+  </programme>
+  <programme start="20250921150000 -0500" stop="20250921171400 -0500" channel="L1Max">
+    <title lang="es">Juan Pablo II College vs. Sporting Cristal : Fútbol Peruano Primera División - Juan Pablo II College vs. Sporting Cristal</title>
+  </programme>
+  <programme start="20250921171500 -0500" stop="20250921192900 -0500" channel="L1Max">
+    <title lang="es">Sport Huancayo vs. Cienciano : Fútbol Peruano Primera División - Sport Huancayo vs. Cienciano</title>
+  </programme>
+  <programme start="20250921193000 -0500" stop="20250921194400 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - Alianza Lima vs. Comerciantes Unidos</title>
+    <desc lang="es">Comentarios y análisis de cara al partido Alianza Lima contra Comerciantes Unido</desc>
+  </programme>
+  <programme start="20250921194500 -0500" stop="20250921221400 -0500" channel="L1Max">
+    <title lang="es">Alianza Lima vs. Comerciantes Unidos : Fútbol Peruano Primera División - Alianza Lima vs. Comerciantes Unidos</title>
+  </programme>
+  <programme start="20250921221500 -0500" stop="20250921222900 -0500" channel="L1Max">
+    <title lang="es">Liga 1, el post - Alianza Lima vs. Comerciantes Unidos</title>
+    <desc lang="es">La información y los mejores momentos del juego Alianza Lima contra Comerciantes</desc>
+  </programme>
+  <programme start="20250921223000 -0500" stop="20250921224400 -0500" channel="L1Max">
     <title lang="es">Fillers L1 - Show de goles, fecha 1</title>
     <desc lang="es">Se presentan las mejores anotaciones que ocurrieron durante la primera fecha del</desc>
   </programme>
-  <programme start="20250913121500 -0500" stop="20250913122900 -0500" channel="L1Max">
+  <programme start="20250921224500 -0500" stop="20250921225900 -0500" channel="L1Max">
     <title lang="es">Fillers L1 - Liga 1 Apertura 2025: Mejores goles</title>
     <desc lang="es">Un especial con las mejores anotaciones de la Liga 1 del Torneo de Apertura 2025</desc>
   </programme>
-  <programme start="20250913123000 -0500" stop="20250913124400 -0500" channel="L1Max">
-    <title lang="es">Liga 1, la previa - UTC vs. Ayacucho</title>
-    <desc lang="es">Análisis previo al partido de la fecha 8 del Torneo Clausura 2025 de la Liga 1.</desc>
+  <programme start="20250921230000 -0500" stop="20250922012900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
   </programme>
-  <programme start="20250913124500 -0500" stop="20250913145900 -0500" channel="L1Max">
-    <title lang="es">UTC vs. Ayacucho : Fútbol Peruano Primera División - UTC vs. Ayacucho</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. UTC enfrenta a Ayacucho. Desde el Esta</desc>
+  <programme start="20250922013000 -0500" stop="20250922014400 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - FBC Melgar vs. Los Chankas</title>
+    <desc lang="es">Los comentarios y el análisis de cara al juego de la fecha 10 del Torneo Clausur</desc>
   </programme>
-  <programme start="20250913150000 -0500" stop="20250913172900 -0500" channel="L1Max">
-    <title lang="es">Alianza Atlético vs. Juan Pablo II College : Fútbol Peruano Primera División - Alianza Atlético vs. Juan Pablo II College</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. Alianza Atlético enfrenta a Juan Pablo</desc>
+  <programme start="20250922014500 -0500" stop="20250922035900 -0500" channel="L1Max">
+    <title lang="es">Melgar vs. Los Chankas : Fútbol Peruano Primera División - Melgar vs. Los Chankas</title>
   </programme>
-  <programme start="20250913173000 -0500" stop="20250913184400 -0500" channel="L1Max">
-    <title lang="es">Liga 1, la previa - Alianza Lima vs. Deportivo Garcilaso</title>
-    <desc lang="es">Análisis previo al partido de la fecha 8 del Torneo Clausura 2025 de la Liga 1.</desc>
+  <programme start="20250922040000 -0500" stop="20250922041400 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Especial: U, ganador del Apertura 2025</title>
+    <desc lang="es">El camino de Universitario rumbo al campeonato del Torneo Apertura 2025. Los par</desc>
   </programme>
-  <programme start="20250913184500 -0500" stop="20250913211400 -0500" channel="L1Max">
-    <title lang="es">Alianza Lima vs. Deportivo Garcilaso : Fútbol Peruano Primera División - Alianza Lima vs. Deportivo Garcilaso</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. Alianza Lima enfrenta a Deportivo Garc</desc>
+  <programme start="20250922041500 -0500" stop="20250922042900 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Facu Callejo, goleador Apertura 2025</title>
+    <desc lang="es">Un repaso a los goles del delantero de Cusco FC durante el Apertura 2025, que le</desc>
   </programme>
-  <programme start="20250913211500 -0500" stop="20250913212900 -0500" channel="L1Max">
-    <title lang="es">Liga 1, el post - Alianza Lima vs. Deportivo Garcilaso</title>
-    <desc lang="es">Análisis posterior al partido de la fecha 8 del Torneo Clausura 2025 de la Liga</desc>
+  <programme start="20250922043000 -0500" stop="20250922044400 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Mejores atajadas Apertura 2025</title>
+    <desc lang="es">Las acciones más destacadas de los arqueros durante el Torneo Apertura 2025 de l</desc>
   </programme>
-  <programme start="20250913213000 -0500" stop="20250913231400 -0500" channel="L1Max">
-    <title lang="es">Alianza Atlético vs. Juan Pablo II College : Fútbol Peruano Primera División - Alianza Atlético vs. Juan Pablo II College</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. Alianza Atlético enfrenta a Juan Pablo</desc>
-  </programme>
-  <programme start="20250913231500 -0500" stop="20250913235900 -0500" channel="L1Max">
-    <title lang="es">UTC vs. Ayacucho : Fútbol Peruano Primera División - UTC vs. Ayacucho</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. UTC enfrenta a Ayacucho. Desde el Esta</desc>
-  </programme>
-  <programme start="20250914000000 -0500" stop="20250914011400 -0500" channel="L1Max">
-    <title lang="es">Liga 1, la previa - Alianza Lima vs. Deportivo Garcilaso</title>
-    <desc lang="es">Análisis previo al partido de la fecha 8 del Torneo Clausura 2025 de la Liga 1.</desc>
-  </programme>
-  <programme start="20250914011500 -0500" stop="20250914034400 -0500" channel="L1Max">
-    <title lang="es">Alianza Lima vs. Deportivo Garcilaso : Fútbol Peruano Primera División - Alianza Lima vs. Deportivo Garcilaso</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. Alianza Lima enfrenta a Deportivo Garc</desc>
-  </programme>
-  <programme start="20250914034500 -0500" stop="20250914035900 -0500" channel="L1Max">
-    <title lang="es">Liga 1, el post - Alianza Lima vs. Deportivo Garcilaso</title>
-    <desc lang="es">Análisis posterior al partido de la fecha 8 del Torneo Clausura 2025 de la Liga</desc>
-  </programme>
-  <programme start="20250914040000 -0500" stop="20250914055900 -0500" channel="L1Max">
-    <title lang="es">Superliga de Dinamarca - Brøndby IF vs. FC København</title>
-    <desc lang="es">Acción del partido de la jornada 8 de la Superliga de Dinamarca 2025-26. Brondby</desc>
-  </programme>
-  <programme start="20250914060000 -0500" stop="20250914081400 -0500" channel="L1Max">
-    <title lang="es">Fútbol Brasileirao - Grêmio vs. Mirassol</title>
-  </programme>
-  <programme start="20250914081500 -0500" stop="20250914092900 -0500" channel="L1Max">
-    <title lang="es">Liga 1, la previa - Alianza Lima vs. Deportivo Garcilaso</title>
-    <desc lang="es">Análisis previo al partido de la fecha 8 del Torneo Clausura 2025 de la Liga 1.</desc>
-  </programme>
-  <programme start="20250914093000 -0500" stop="20250914115900 -0500" channel="L1Max">
-    <title lang="es">Alianza Lima vs. Deportivo Garcilaso : Fútbol Peruano Primera División - Alianza Lima vs. Deportivo Garcilaso</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. Alianza Lima enfrenta a Deportivo Garc</desc>
-  </programme>
-  <programme start="20250914120000 -0500" stop="20250914121400 -0500" channel="L1Max">
-    <title lang="es">Liga 1, la previa - Alianza Universidad vs. Cienciano</title>
-    <desc lang="es">Análisis previo al partido de la fecha 8 del Torneo Clausura 2025 de la Liga 1.</desc>
-  </programme>
-  <programme start="20250914121500 -0500" stop="20250914142900 -0500" channel="L1Max">
-    <title lang="es">Alianza Universidad de Huánuco vs. Cienciano : Fútbol Peruano Primera División - Alianza Universidad de Huánuco vs. Cienciano</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. Alianza Universidad enfrenta a Ciencia</desc>
-  </programme>
-  <programme start="20250914143000 -0500" stop="20250914144400 -0500" channel="L1Max">
-    <title lang="es">Liga 1, la previa - FBC Melgar vs. Universitario</title>
-    <desc lang="es">Análisis previo al partido de la fecha 8 del Torneo Clausura 2025 de la Liga 1.</desc>
-  </programme>
-  <programme start="20250914144500 -0500" stop="20250914171400 -0500" channel="L1Max">
-    <title lang="es">Melgar vs. Universitario : Fútbol Peruano Primera División - Melgar vs. Universitario</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. FBC Melgar enfrenta a Universitario. D</desc>
-  </programme>
-  <programme start="20250914171500 -0500" stop="20250914194400 -0500" channel="L1Max">
-    <title lang="es">Cusco FC vs. Sporting Cristal : Fútbol Peruano Primera División - Cusco FC vs. Sporting Cristal</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. Cusco FC enfrenta a Sporting Cristal.</desc>
-  </programme>
-  <programme start="20250914194500 -0500" stop="20250914195900 -0500" channel="L1Max">
+  <programme start="20250922044500 -0500" stop="20250922045900 -0500" channel="L1Max">
     <title lang="es">Fillers L1 - Liga 1 Apertura 2025: Mejores goles</title>
     <desc lang="es">Un especial con las mejores anotaciones de la Liga 1 del Torneo de Apertura 2025</desc>
   </programme>
-  <programme start="20250914200000 -0500" stop="20250914201400 -0500" channel="L1Max">
-    <title lang="es">Liga 1, la previa - FBC Melgar vs. Universitario</title>
-    <desc lang="es">Análisis previo al partido de la fecha 8 del Torneo Clausura 2025 de la Liga 1.</desc>
-  </programme>
-  <programme start="20250914201500 -0500" stop="20250914224400 -0500" channel="L1Max">
-    <title lang="es">Melgar vs. Universitario : Fútbol Peruano Primera División - Melgar vs. Universitario</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. FBC Melgar enfrenta a Universitario. D</desc>
-  </programme>
-  <programme start="20250914224500 -0500" stop="20250914225900 -0500" channel="L1Max">
-    <title lang="es">Fillers L1 - Show de goles Perú</title>
-    <desc lang="es">Las mejores anotaciones de la fecha 1 del torneo Apertura 2025 de la Liga 1 de P</desc>
-  </programme>
-  <programme start="20250914230000 -0500" stop="20250915012900 -0500" channel="L1Max">
+  <programme start="20250922050000 -0500" stop="20250922072900 -0500" channel="L1Max">
     <title lang="es">El Chiringuito</title>
     <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
   </programme>
-  <programme start="20250915013000 -0500" stop="20250915035900 -0500" channel="L1Max">
-    <title lang="es">Cusco FC vs. Sporting Cristal : Fútbol Peruano Primera División - Cusco FC vs. Sporting Cristal</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. Cusco FC enfrenta a Sporting Cristal.</desc>
+  <programme start="20250922073000 -0500" stop="20250922094400 -0500" channel="L1Max">
+    <title lang="es">Sport Huancayo vs. Cienciano : Fútbol Peruano Primera División - Sport Huancayo vs. Cienciano</title>
   </programme>
-  <programme start="20250915040000 -0500" stop="20250915041400 -0500" channel="L1Max">
-    <title lang="es">Fillers L1 - Show de goles Perú</title>
-    <desc lang="es">Las mejores anotaciones de la fecha 1 del torneo Apertura 2025 de la Liga 1 de P</desc>
+  <programme start="20250922094500 -0500" stop="20250922115900 -0500" channel="L1Max">
+    <title lang="es">Juan Pablo II College vs. Sporting Cristal : Fútbol Peruano Primera División - Juan Pablo II College vs. Sporting Cristal</title>
   </programme>
-  <programme start="20250915041500 -0500" stop="20250915042900 -0500" channel="L1Max">
-    <title lang="es">Fillers L1 - Show de goles Perú</title>
-    <desc lang="es">Las mejores anotaciones de la fecha 1 del torneo Apertura 2025 de la Liga 1 de P</desc>
+  <programme start="20250922120000 -0500" stop="20250922142900 -0500" channel="L1Max">
+    <title lang="es">Alianza Lima vs. Comerciantes Unidos : Fútbol Peruano Primera División - Alianza Lima vs. Comerciantes Unidos</title>
   </programme>
-  <programme start="20250915043000 -0500" stop="20250915044400 -0500" channel="L1Max">
-    <title lang="es">Fillers L1 - Show de Goles LIGA 1: Apertura Fecha 13</title>
-    <desc lang="es">Las anotaciones más sobresalientes que ocurrieron durante la jornada 13 del Torn</desc>
+  <programme start="20250922143000 -0500" stop="20250922144400 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - Alianza Sullana vs. Ayacucho FC</title>
+    <desc lang="es">Los comentarios y el análisis de cara al juego de la fecha 10 del Torneo Clausur</desc>
   </programme>
-  <programme start="20250915044500 -0500" stop="20250915045900 -0500" channel="L1Max">
-    <title lang="es">Fillers L1 - Show de goles Perú</title>
-    <desc lang="es">Las mejores anotaciones de la fecha 1 del torneo Apertura 2025 de la Liga 1 de P</desc>
+  <programme start="20250922144500 -0500" stop="20250922171400 -0500" channel="L1Max">
+    <title lang="es">Alianza Atlético vs. Ayacucho : Fútbol Peruano Primera División - Alianza Atlético vs. Ayacucho</title>
   </programme>
-  <programme start="20250915050000 -0500" stop="20250915072900 -0500" channel="L1Max">
-    <title lang="es">El Chiringuito</title>
-    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  <programme start="20250922171500 -0500" stop="20250922181400 -0500" channel="L1Max">
+    <title lang="es">Match gol</title>
+    <desc lang="es">Resumen completo de los partidos y los mejores goles del fin de semana del campe</desc>
   </programme>
-  <programme start="20250915073000 -0500" stop="20250915094400 -0500" channel="L1Max">
-    <title lang="es">Sport Huancayo vs. Los Chankas : Fútbol Peruano Primera División - Sport Huancayo vs. Los Chankas</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. Sport Huancayo enfrenta a Los Chankas.</desc>
+  <programme start="20250922181500 -0500" stop="20250922182900 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Show de goles, fecha 1</title>
+    <desc lang="es">Se presentan las mejores anotaciones que ocurrieron durante la primera fecha del</desc>
   </programme>
-  <programme start="20250915094500 -0500" stop="20250915115900 -0500" channel="L1Max">
-    <title lang="es">Alianza Universidad de Huánuco vs. Cienciano : Fútbol Peruano Primera División - Alianza Universidad de Huánuco vs. Cienciano</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. Alianza Universidad enfrenta a Ciencia</desc>
+  <programme start="20250922183000 -0500" stop="20250922184400 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Mejores atajadas Apertura 2025</title>
+    <desc lang="es">Las acciones más destacadas de los arqueros durante el Torneo Apertura 2025 de l</desc>
   </programme>
-  <programme start="20250915120000 -0500" stop="20250915142900 -0500" channel="L1Max">
-    <title lang="es">Alianza Lima vs. Deportivo Garcilaso : Fútbol Peruano Primera División - Alianza Lima vs. Deportivo Garcilaso</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. Alianza Lima enfrenta a Deportivo Garc</desc>
+  <programme start="20250922184500 -0500" stop="20250922185900 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Liga 1 Apertura 2025: Mejores goles</title>
+    <desc lang="es">Un especial con las mejores anotaciones de la Liga 1 del Torneo de Apertura 2025</desc>
   </programme>
-  <programme start="20250915143000 -0500" stop="20250915165900 -0500" channel="L1Max">
-    <title lang="es">Cusco FC vs. Sporting Cristal : Fútbol Peruano Primera División - Cusco FC vs. Sporting Cristal</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. Cusco FC enfrenta a Sporting Cristal.</desc>
+  <programme start="20250922190000 -0500" stop="20250922212900 -0500" channel="L1Max">
+    <title lang="es">Cusco FC vs. ADT de Tarma : Fútbol Peruano Primera División - Cusco FC vs. ADT de Tarma</title>
   </programme>
-  <programme start="20250915170000 -0500" stop="20250915192900 -0500" channel="L1Max">
-    <title lang="es">Melgar vs. Universitario : Fútbol Peruano Primera División - Melgar vs. Universitario</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. FBC Melgar enfrenta a Universitario. D</desc>
-  </programme>
-  <programme start="20250915193000 -0500" stop="20250915215900 -0500" channel="L1Max">
-    <title lang="es">Alianza Lima vs. Deportivo Garcilaso : Fútbol Peruano Primera División - Alianza Lima vs. Deportivo Garcilaso</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. Alianza Lima enfrenta a Deportivo Garc</desc>
-  </programme>
-  <programme start="20250915220000 -0500" stop="20250915225900 -0500" channel="L1Max">
+  <programme start="20250922213000 -0500" stop="20250922225900 -0500" channel="L1Max">
     <title lang="es">Liga 1 Radio</title>
     <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
   </programme>
-  <programme start="20250915230000 -0500" stop="20250915232900 -0500" channel="L1Max">
+  <programme start="20250922230000 -0500" stop="20250922225900 -0500" channel="L1Max">
     <title lang="es">El Chiringuito</title>
     <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
   </programme>
-  <programme start="20250915233000 -0500" stop="20250916015900 -0500" channel="L1Max">
+  <programme start="20250922230000 -0500" stop="20250923012900 -0500" channel="L1Max">
     <title lang="es">El Chiringuito</title>
     <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
   </programme>
-  <programme start="20250916020000 -0500" stop="20250916032900 -0500" channel="L1Max">
+  <programme start="20250923013000 -0500" stop="20250923025900 -0500" channel="L1Max">
     <title lang="es">Liga 1 Radio</title>
     <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
   </programme>
-  <programme start="20250916033000 -0500" stop="20250916035900 -0500" channel="L1Max">
-    <title lang="es">Melgar vs. Universitario : Fútbol Peruano Primera División - Melgar vs. Universitario</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. FBC Melgar enfrenta a Universitario. D</desc>
+  <programme start="20250923030000 -0500" stop="20250923035900 -0500" channel="L1Max">
+    <title lang="es">Cusco FC vs. ADT de Tarma : Fútbol Peruano Primera División - Cusco FC vs. ADT de Tarma</title>
   </programme>
-  <programme start="20250916040000 -0500" stop="20250916064400 -0500" channel="L1Max">
-    <title lang="es">Melgar vs. Universitario : Fútbol Peruano Primera División - Melgar vs. Universitario</title>
-    <desc lang="es">Acción de la fecha 8 del Torneo Clausura. FBC Melgar enfrenta a Universitario. D</desc>
+  <programme start="20250923040000 -0500" stop="20250923052900 -0500" channel="L1Max">
+    <title lang="es">Cusco FC vs. ADT de Tarma : Fútbol Peruano Primera División - Cusco FC vs. ADT de Tarma</title>
   </programme>
-  <programme start="20250916064500 -0500" stop="20250916071400 -0500" channel="L1Max">
-    <title lang="es">Liga 1, la previa</title>
-    <desc lang="es">Antesala con la información más detallada de la Liga 1, Primera División del fút</desc>
-  </programme>
-  <programme start="20250916071500 -0500" stop="20250916094400 -0500" channel="L1Max">
-    <title lang="es">Fútbol Peruano Primera División</title>
-  </programme>
-  <programme start="20250916094500 -0500" stop="20250916095900 -0500" channel="L1Max">
-    <title lang="es">Liga 1, la previa</title>
-    <desc lang="es">Antesala con la información más detallada de la Liga 1, Primera División del fút</desc>
-  </programme>
-  <programme start="20250916100000 -0500" stop="20250916122900 -0500" channel="L1Max">
-    <title lang="es">Fútbol Peruano Primera División</title>
-  </programme>
-  <programme start="20250916123000 -0500" stop="20250916124400 -0500" channel="L1Max">
-    <title lang="es">Liga 1, la previa</title>
-    <desc lang="es">Antesala con la información más detallada de la Liga 1, Primera División del fút</desc>
-  </programme>
-  <programme start="20250916124500 -0500" stop="20250916151400 -0500" channel="L1Max">
-    <title lang="es">Fútbol Peruano Primera División</title>
-  </programme>
-  <programme start="20250916151500 -0500" stop="20250916174400 -0500" channel="L1Max">
-    <title lang="es">Fútbol Peruano Primera División</title>
-  </programme>
-  <programme start="20250916174500 -0500" stop="20250916201400 -0500" channel="L1Max">
-    <title lang="es">Fútbol Peruano Primera División</title>
-  </programme>
-  <programme start="20250916201500 -0500" stop="20250916202900 -0500" channel="L1Max">
-    <title lang="es">Liga 1, la previa</title>
-    <desc lang="es">Antesala con la información más detallada de la Liga 1, Primera División del fút</desc>
-  </programme>
-  <programme start="20250916203000 -0500" stop="20250916225900 -0500" channel="L1Max">
-    <title lang="es">Fútbol Peruano Primera División</title>
-  </programme>
-  <programme start="20250916230000 -0500" stop="20250916232900 -0500" channel="L1Max">
-    <title lang="es">Fútbol Peruano Primera División</title>
-  </programme>
-  <programme start="20250916233000 -0500" stop="20250917012900 -0500" channel="L1Max">
+  <programme start="20250923053000 -0500" stop="20250923075900 -0500" channel="L1Max">
     <title lang="es">El Chiringuito</title>
     <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
   </programme>
-  <programme start="20250917013000 -0500" stop="20250917035900 -0500" channel="L1Max">
-    <title lang="es">Fútbol Peruano Primera División</title>
+  <programme start="20250923080000 -0500" stop="20250923092900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
   </programme>
-  <programme start="20250917040000 -0500" stop="20250917041400 -0500" channel="L1Max">
+  <programme start="20250923093000 -0500" stop="20250923094400 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Mejores atajadas Apertura 2025</title>
+    <desc lang="es">Las acciones más destacadas de los arqueros durante el Torneo Apertura 2025 de l</desc>
+  </programme>
+  <programme start="20250923094500 -0500" stop="20250923095900 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Liga 1 Apertura 2025: Mejores goles</title>
+    <desc lang="es">Un especial con las mejores anotaciones de la Liga 1 del Torneo de Apertura 2025</desc>
+  </programme>
+  <programme start="20250923100000 -0500" stop="20250923112900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20250923113000 -0500" stop="20250923125900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20250923130000 -0500" stop="20250923135900 -0500" channel="L1Max">
+    <title lang="es">Hablemos de Max</title>
+  </programme>
+  <programme start="20250923140000 -0500" stop="20250923162900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20250923163000 -0500" stop="20250923172900 -0500" channel="L1Max">
+    <title lang="es">Hablemos de Max</title>
+  </programme>
+  <programme start="20250923173000 -0500" stop="20250923195900 -0500" channel="L1Max">
+    <title lang="es">UTC vs. Universitario : Fútbol Peruano Primera División - UTC vs. Universitario</title>
+    <desc lang="es">Fecha 10 del Torneo Clausura 2025 de la Liga 1. UTC se enfrenta a Universitario.</desc>
+  </programme>
+  <programme start="20250923200000 -0500" stop="20250923205900 -0500" channel="L1Max">
+    <title lang="es">Hablemos de Max</title>
+  </programme>
+  <programme start="20250923210000 -0500" stop="20250923215900 -0500" channel="L1Max">
+    <title lang="es">Match gol</title>
+    <desc lang="es">Resumen completo de los partidos y los mejores goles del fin de semana del campe</desc>
+  </programme>
+  <programme start="20250923220000 -0500" stop="20250923225900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20250923230000 -0500" stop="20250923225900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20250923230000 -0500" stop="20250924012900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20250924013000 -0500" stop="20250924022900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20250924023000 -0500" stop="20250924035900 -0500" channel="L1Max">
+    <title lang="es">Alianza Lima vs. Comerciantes Unidos : Fútbol Peruano Primera División - Alianza Lima vs. Comerciantes Unidos</title>
+  </programme>
+  <programme start="20250924040000 -0500" stop="20250924045900 -0500" channel="L1Max">
+    <title lang="es">Alianza Lima vs. Comerciantes Unidos : Fútbol Peruano Primera División - Alianza Lima vs. Comerciantes Unidos</title>
+  </programme>
+  <programme start="20250924050000 -0500" stop="20250924094400 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20250924094500 -0500" stop="20250924095900 -0500" channel="L1Max">
     <title lang="es">Liga1MAX</title>
   </programme>
-  <programme start="20250917041500 -0500" stop="20250917064400 -0500" channel="L1Max">
+  <programme start="20250924100000 -0500" stop="20250924122900 -0500" channel="L1Max">
     <title lang="es">Fútbol Peruano Primera División</title>
   </programme>
-  <programme start="20250917064500 -0500" stop="20250917071400 -0500" channel="L1Max">
+  <programme start="20250924123000 -0500" stop="20250924124400 -0500" channel="L1Max">
     <title lang="es">Liga 1, la previa</title>
     <desc lang="es">Antesala con la información más detallada de la Liga 1, Primera División del fút</desc>
   </programme>
-  <programme start="20250917071500 -0500" stop="20250917094400 -0500" channel="L1Max">
+  <programme start="20250924124500 -0500" stop="20250924151400 -0500" channel="L1Max">
     <title lang="es">Fútbol Peruano Primera División</title>
   </programme>
-  <programme start="20250917094500 -0500" stop="20250917095900 -0500" channel="L1Max">
+  <programme start="20250924151500 -0500" stop="20250924174400 -0500" channel="L1Max">
+    <title lang="es">Fútbol Peruano Primera División</title>
+  </programme>
+  <programme start="20250924174500 -0500" stop="20250924175900 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa</title>
+    <desc lang="es">Antesala con la información más detallada de la Liga 1, Primera División del fút</desc>
+  </programme>
+  <programme start="20250924180000 -0500" stop="20250924202900 -0500" channel="L1Max">
+    <title lang="es">Fútbol Peruano Primera División</title>
+  </programme>
+  <programme start="20250924203000 -0500" stop="20250924225900 -0500" channel="L1Max">
+    <title lang="es">Fútbol Peruano Primera División</title>
+  </programme>
+  <programme start="20250924230000 -0500" stop="20250924225900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20250924230000 -0500" stop="20250925012900 -0500" channel="L1Max">
+    <title lang="es">Fútbol Peruano Primera División</title>
+  </programme>
+  <programme start="20250925013000 -0500" stop="20250925035900 -0500" channel="L1Max">
+    <title lang="es">Fútbol Peruano Primera División</title>
+  </programme>
+  <programme start="20250925040000 -0500" stop="20250925041400 -0500" channel="L1Max">
     <title lang="es">Liga1MAX</title>
   </programme>
-  <programme start="20250917100000 -0500" stop="20250917122900 -0500" channel="L1Max">
+  <programme start="20250925041500 -0500" stop="20250925064400 -0500" channel="L1Max">
     <title lang="es">Fútbol Peruano Primera División</title>
   </programme>
-  <programme start="20250917123000 -0500" stop="20250917124400 -0500" channel="L1Max">
-    <title lang="es">Liga 1, la previa</title>
-    <desc lang="es">Antesala con la información más detallada de la Liga 1, Primera División del fút</desc>
-  </programme>
-  <programme start="20250917124500 -0500" stop="20250917151400 -0500" channel="L1Max">
-    <title lang="es">Fútbol Peruano Primera División</title>
-  </programme>
-  <programme start="20250917151500 -0500" stop="20250917174400 -0500" channel="L1Max">
-    <title lang="es">Fútbol Peruano Primera División</title>
-  </programme>
-  <programme start="20250917174500 -0500" stop="20250917175900 -0500" channel="L1Max">
-    <title lang="es">Liga 1, la previa</title>
-    <desc lang="es">Antesala con la información más detallada de la Liga 1, Primera División del fút</desc>
-  </programme>
-  <programme start="20250917180000 -0500" stop="20250917202900 -0500" channel="L1Max">
-    <title lang="es">Fútbol Peruano Primera División</title>
-  </programme>
-  <programme start="20250917203000 -0500" stop="20250917225900 -0500" channel="L1Max">
-    <title lang="es">Fútbol Peruano Primera División</title>
-  </programme>
-  <programme start="20250917230000 -0500" stop="20250917225900 -0500" channel="L1Max">
-    <title lang="es">Fútbol Peruano Primera División</title>
-  </programme>
-  <programme start="20250917230000 -0500" stop="20250918012900 -0500" channel="L1Max">
-    <title lang="es">Fútbol Peruano Primera División</title>
-  </programme>
-  <programme start="20250918013000 -0500" stop="20250918035900 -0500" channel="L1Max">
-    <title lang="es">Fútbol Peruano Primera División</title>
-  </programme>
-  <programme start="20250918040000 -0500" stop="20250918041400 -0500" channel="L1Max">
+  <programme start="20250925064500 -0500" stop="20250925065900 -0500" channel="L1Max">
     <title lang="es">Liga1MAX</title>
   </programme>
-  <programme start="20250918041500 -0500" stop="20250918064400 -0500" channel="L1Max">
+  <programme start="20250925070000 -0500" stop="20250925092900 -0500" channel="L1Max">
     <title lang="es">Fútbol Peruano Primera División</title>
   </programme>
-  <programme start="20250918064500 -0500" stop="20250918065900 -0500" channel="L1Max">
+  <programme start="20250925093000 -0500" stop="20250925094400 -0500" channel="L1Max">
     <title lang="es">Liga1MAX</title>
   </programme>
-  <programme start="20250918070000 -0500" stop="20250918092900 -0500" channel="L1Max">
-    <title lang="es">Fútbol Peruano Primera División</title>
-  </programme>
-  <programme start="20250918093000 -0500" stop="20250918094400 -0500" channel="L1Max">
-    <title lang="es">Liga1MAX</title>
-  </programme>
-  <programme start="20250918094500 -0500" stop="20250918095900 -0500" channel="L1Max">
+  <programme start="20250925094500 -0500" stop="20250925095900 -0500" channel="L1Max">
     <title lang="es">Liga 1, la previa</title>
     <desc lang="es">Antesala con la información más detallada de la Liga 1, Primera División del fút</desc>
   </programme>
-  <programme start="20250918100000 -0500" stop="20250918122900 -0500" channel="L1Max">
+  <programme start="20250925100000 -0500" stop="20250925122900 -0500" channel="L1Max">
     <title lang="es">Fútbol Peruano Primera División</title>
   </programme>
-  <programme start="20250918123000 -0500" stop="20250918124400 -0500" channel="L1Max">
+  <programme start="20250925123000 -0500" stop="20250925124400 -0500" channel="L1Max">
     <title lang="es">Liga 1, la previa</title>
     <desc lang="es">Antesala con la información más detallada de la Liga 1, Primera División del fút</desc>
   </programme>
-  <programme start="20250918124500 -0500" stop="20250918151400 -0500" channel="L1Max">
+  <programme start="20250925124500 -0500" stop="20250925151400 -0500" channel="L1Max">
     <title lang="es">Fútbol Peruano Primera División</title>
   </programme>
-  <programme start="20250918151500 -0500" stop="20250918174400 -0500" channel="L1Max">
+  <programme start="20250925151500 -0500" stop="20250925174400 -0500" channel="L1Max">
     <title lang="es">Fútbol Peruano Primera División</title>
   </programme>
-  <programme start="20250918174500 -0500" stop="20250918175900 -0500" channel="L1Max">
+  <programme start="20250925174500 -0500" stop="20250925175900 -0500" channel="L1Max">
     <title lang="es">Liga 1, la previa</title>
     <desc lang="es">Antesala con la información más detallada de la Liga 1, Primera División del fút</desc>
   </programme>
-  <programme start="20250918180000 -0500" stop="20250918202900 -0500" channel="L1Max">
+  <programme start="20250925180000 -0500" stop="20250925202900 -0500" channel="L1Max">
     <title lang="es">Fútbol Peruano Primera División</title>
   </programme>
-  <programme start="20250918203000 -0500" stop="20250918225900 -0500" channel="L1Max">
+  <programme start="20250925203000 -0500" stop="20250925225900 -0500" channel="L1Max">
     <title lang="es">Fútbol Peruano Primera División</title>
   </programme>
-  <programme start="20250918230000 -0500" stop="20250919000000 -0500" channel="L1Max">
+  <programme start="20250925230000 -0500" stop="20250926000000 -0500" channel="L1Max">
     <title lang="es">Fútbol Peruano Primera División</title>
   </programme>
 </tv>
