@@ -8,9 +8,19 @@ EPG_OUTPUT_PATH = "epg/epg_all.xml"
 # Si la lista de canales está vacía [], se procesan TODOS los canales
 epg_sources = [
     [
+        "https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz", 
+        "-0600",
+        ["Canal.Warner.TV.(Argentina).ar", "Canal.Sony.(Argentina).ar"]  # Solo procesar este canal
+    ],
+    [
         "https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz",
         "+0000",
         ["DSPORTS.(ARG).dtvsp"]  # Solo procesar este canal
+    ],
+    [
+        "https://www.open-epg.com/files/argentina3.xml.gz",
+        "+0000",
+        ["SONY MOVIES.ar"]  # Solo procesar este canal
     ],
     [
         "https://www.open-epg.com/files/peru1.xml.gz",
@@ -21,15 +31,5 @@ epg_sources = [
         "https://www.open-epg.com/files/peru2.xml.gz",
         "+0000",
         ["PANAMERICANA TELEVISION HD.pe", "TV PERU HD.pe", "ATV HD.pe", "GLOBAL TV.pe", "M DEPORTES.pe"]  # Solo procesar este canal
-    ],
-    [
-        "https://epg.jesmann.com/iptv/Colombia.xml.gz",
-        "+0000",
-        ["SonyMovies(SONYML).co", "CanalSony(SETLVHD).co", "CaracolTVCanal1HD(CARAHD).co", "WarnerChannel(WBLHD).co", "TyCSportsHD(TYCHD).co"]  # Solo procesar este canal
-    ],
-    [
-        "https://epg.jesmann.com/iptv/Chile.xml.gz",
-        "+0000",
-        ["ETCTV(ETCHILE).cl"]  # Solo procesar este canal
     ],
 ]
