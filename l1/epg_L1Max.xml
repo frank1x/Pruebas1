@@ -1,0 +1,463 @@
+<?xml version="1.0" ?>
+<tv source-info-name="CSV EPG Generator" generator-info-name="Python EPG Script" generator-info-url="">
+  <channel id="L1Max">
+    <display-name lang="es">L1Max</display-name>
+  </channel>
+  <programme start="20251004124500 -0500" stop="20251004145900 -0500" channel="L1Max">
+    <title lang="es">Los Chankas vs. Cusco FC : Fútbol Peruano Primera División - Los Chankas vs. Cusco FC</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. Desde el Estadio Los Chankas, en</desc>
+  </programme>
+  <programme start="20251004150000 -0500" stop="20251004172900 -0500" channel="L1Max">
+    <title lang="es">AD Tarma vs. Sporting Cristal : Fútbol Peruano Primera División - AD Tarma vs. Sporting Cristal</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. ADT se enfrenta a Sporting Crist</desc>
+  </programme>
+  <programme start="20251004173000 -0500" stop="20251004174400 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - Los Chankas vs. Cusco FC</title>
+    <desc lang="es">Todo el análisis e información de cara al partido de la jornada 13 del Torneo Cl</desc>
+  </programme>
+  <programme start="20251004174500 -0500" stop="20251004195900 -0500" channel="L1Max">
+    <title lang="es">Los Chankas vs. Cusco FC : Fútbol Peruano Primera División - Los Chankas vs. Cusco FC</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. Desde el Estadio Los Chankas, en</desc>
+  </programme>
+  <programme start="20251004200000 -0500" stop="20251004221400 -0500" channel="L1Max">
+    <title lang="es">Fútbol Brasileirao - Red Bull Bragantino vs. Grêmio</title>
+  </programme>
+  <programme start="20251004221500 -0500" stop="20251005004400 -0500" channel="L1Max">
+    <title lang="es">AD Tarma vs. Sporting Cristal : Fútbol Peruano Primera División - AD Tarma vs. Sporting Cristal</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. ADT se enfrenta a Sporting Crist</desc>
+  </programme>
+  <programme start="20251005004500 -0500" stop="20251005005900 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Liga 1 Apertura 2025: Mejores goles</title>
+    <desc lang="es">Un especial con las mejores anotaciones de la Liga 1 del Torneo de Apertura 2025</desc>
+  </programme>
+  <programme start="20251005010000 -0500" stop="20251005011400 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - Los Chankas vs. Cusco FC</title>
+    <desc lang="es">Todo el análisis e información de cara al partido de la jornada 13 del Torneo Cl</desc>
+  </programme>
+  <programme start="20251005011500 -0500" stop="20251005032900 -0500" channel="L1Max">
+    <title lang="es">Los Chankas vs. Cusco FC : Fútbol Peruano Primera División - Los Chankas vs. Cusco FC</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. Desde el Estadio Los Chankas, en</desc>
+  </programme>
+  <programme start="20251005033000 -0500" stop="20251005035900 -0500" channel="L1Max">
+    <title lang="es">AD Tarma vs. Sporting Cristal : Fútbol Peruano Primera División - AD Tarma vs. Sporting Cristal</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. ADT se enfrenta a Sporting Crist</desc>
+  </programme>
+  <programme start="20251005040000 -0500" stop="20251005055900 -0500" channel="L1Max">
+    <title lang="es">AD Tarma vs. Sporting Cristal : Fútbol Peruano Primera División - AD Tarma vs. Sporting Cristal</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. ADT se enfrenta a Sporting Crist</desc>
+  </programme>
+  <programme start="20251005060000 -0500" stop="20251005082900 -0500" channel="L1Max">
+    <title lang="es">Comerciantes Unidos vs. UTC : Fútbol Peruano Primera División - Comerciantes Unidos vs. UTC</title>
+    <desc lang="es">Acción de la jornada 13 del Clausura 2025 de la Liga 1. Comerciantes busca salir</desc>
+  </programme>
+  <programme start="20251005083000 -0500" stop="20251005084400 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - Los Chankas vs. Cusco FC</title>
+    <desc lang="es">Todo el análisis e información de cara al partido de la jornada 13 del Torneo Cl</desc>
+  </programme>
+  <programme start="20251005084500 -0500" stop="20251005105900 -0500" channel="L1Max">
+    <title lang="es">Los Chankas vs. Cusco FC : Fútbol Peruano Primera División - Los Chankas vs. Cusco FC</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. Desde el Estadio Los Chankas, en</desc>
+  </programme>
+  <programme start="20251005110000 -0500" stop="20251005114400 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - Alianza UDH vs. Alianza Lima</title>
+    <desc lang="es">Antesala con la información más detallada de la Liga 1, Primera División del fút</desc>
+  </programme>
+  <programme start="20251005114500 -0500" stop="20251005141400 -0500" channel="L1Max">
+    <title lang="es">Alianza Universidad de Huánuco vs. Alianza Lima : Fútbol Peruano Primera División - Alianza Universidad de Huánuco vs. Alianza Lima</title>
+    <desc lang="es">Acción de la fecha 13 del Torneo Clausura. Alianza Universidad enfrenta a Alianz</desc>
+  </programme>
+  <programme start="20251005141500 -0500" stop="20251005142900 -0500" channel="L1Max">
+    <title lang="es">Liga 1, el post - Alianza Universidad vs. Alianza Lima</title>
+    <desc lang="es">Análisis posterior al partido de la fecha 13 del Torneo Clausura 2025 de la Liga</desc>
+  </programme>
+  <programme start="20251005143000 -0500" stop="20251005144400 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - Atlético Grau vs. FBC Melgar</title>
+    <desc lang="es">Análisis previo al partido de la fecha 13 del Torneo Clausura 2025 de la Liga 1.</desc>
+  </programme>
+  <programme start="20251005144500 -0500" stop="20251005165900 -0500" channel="L1Max">
+    <title lang="es">Atlético Grau vs. Melgar : Fútbol Peruano Primera División - Atlético Grau vs. Melgar</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. Desde el Estadio Campeones del 3</desc>
+  </programme>
+  <programme start="20251005170000 -0500" stop="20251005171400 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - Deportivo Garcilaso vs. Alianza Sullana</title>
+    <desc lang="es">Todo el análisis e información de cara al partido de la jornada 13 del Torneo Cl</desc>
+  </programme>
+  <programme start="20251005171500 -0500" stop="20251005194400 -0500" channel="L1Max">
+    <title lang="es">Deportivo Garcilaso vs. Alianza Atlético : Fútbol Peruano Primera División - Deportivo Garcilaso vs. Alianza Atlético</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. Desde el estadio Inca Garcilaso</desc>
+  </programme>
+  <programme start="20251005194500 -0500" stop="20251005195900 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - Atlético Grau vs. FBC Melgar</title>
+    <desc lang="es">Análisis previo al partido de la fecha 13 del Torneo Clausura 2025 de la Liga 1.</desc>
+  </programme>
+  <programme start="20251005200000 -0500" stop="20251005221400 -0500" channel="L1Max">
+    <title lang="es">Atlético Grau vs. Melgar : Fútbol Peruano Primera División - Atlético Grau vs. Melgar</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. Desde el Estadio Campeones del 3</desc>
+  </programme>
+  <programme start="20251005221500 -0500" stop="20251005221400 -0500" channel="L1Max">
+    <title lang="es">AD Tarma vs. Sporting Cristal : Fútbol Peruano Primera División - AD Tarma vs. Sporting Cristal</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. ADT se enfrenta a Sporting Crist</desc>
+  </programme>
+  <programme start="20251005221500 -0500" stop="20251005222900 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Show de goles, fecha 1</title>
+    <desc lang="es">Se presentan las mejores anotaciones que ocurrieron durante la primera fecha del</desc>
+  </programme>
+  <programme start="20251005223000 -0500" stop="20251005224400 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Especial: U, ganador del Apertura 2025</title>
+    <desc lang="es">El camino de Universitario rumbo al campeonato del Torneo Apertura 2025. Los par</desc>
+  </programme>
+  <programme start="20251005224500 -0500" stop="20251005225900 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Facu Callejo, goleador Apertura 2025</title>
+    <desc lang="es">Un repaso a los goles del delantero de Cusco FC durante el Apertura 2025, que le</desc>
+  </programme>
+  <programme start="20251005230000 -0500" stop="20251006012900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20251006013000 -0500" stop="20251006021400 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - Alianza UDH vs. Alianza Lima</title>
+    <desc lang="es">Antesala con la información más detallada de la Liga 1, Primera División del fút</desc>
+  </programme>
+  <programme start="20251006021500 -0500" stop="20251006035900 -0500" channel="L1Max">
+    <title lang="es">Alianza Universidad de Huánuco vs. Alianza Lima : Fútbol Peruano Primera División - Alianza Universidad de Huánuco vs. Alianza Lima</title>
+    <desc lang="es">Acción de la fecha 13 del Torneo Clausura. Alianza Universidad enfrenta a Alianz</desc>
+  </programme>
+  <programme start="20251006040000 -0500" stop="20251006044400 -0500" channel="L1Max">
+    <title lang="es">Alianza Universidad de Huánuco vs. Alianza Lima : Fútbol Peruano Primera División - Alianza Universidad de Huánuco vs. Alianza Lima</title>
+    <desc lang="es">Acción de la fecha 13 del Torneo Clausura. Alianza Universidad enfrenta a Alianz</desc>
+  </programme>
+  <programme start="20251006044500 -0500" stop="20251006045900 -0500" channel="L1Max">
+    <title lang="es">Liga 1, el post - Alianza Universidad vs. Alianza Lima</title>
+    <desc lang="es">Análisis posterior al partido de la fecha 13 del Torneo Clausura 2025 de la Liga</desc>
+  </programme>
+  <programme start="20251006050000 -0500" stop="20251006072900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20251006073000 -0500" stop="20251006092900 -0500" channel="L1Max">
+    <title lang="es">Superliga de Dinamarca - FC København vs. FC Midtjylland</title>
+    <desc lang="es">Acción de la jornada 11 de la Superliga Danesa 2025-26. Copenhague y Midtjylland</desc>
+  </programme>
+  <programme start="20251006093000 -0500" stop="20251006115900 -0500" channel="L1Max">
+    <title lang="es">Deportivo Garcilaso vs. Alianza Atlético : Fútbol Peruano Primera División - Deportivo Garcilaso vs. Alianza Atlético</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. Desde el estadio Inca Garcilaso</desc>
+  </programme>
+  <programme start="20251006120000 -0500" stop="20251006121400 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - Atlético Grau vs. FBC Melgar</title>
+    <desc lang="es">Análisis previo al partido de la fecha 13 del Torneo Clausura 2025 de la Liga 1.</desc>
+  </programme>
+  <programme start="20251006121500 -0500" stop="20251006142900 -0500" channel="L1Max">
+    <title lang="es">Atlético Grau vs. Melgar : Fútbol Peruano Primera División - Atlético Grau vs. Melgar</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. Desde el Estadio Campeones del 3</desc>
+  </programme>
+  <programme start="20251006143000 -0500" stop="20251006144400 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - Los Chankas vs. Cusco FC</title>
+    <desc lang="es">Todo el análisis e información de cara al partido de la jornada 13 del Torneo Cl</desc>
+  </programme>
+  <programme start="20251006144500 -0500" stop="20251006165900 -0500" channel="L1Max">
+    <title lang="es">Los Chankas vs. Cusco FC : Fútbol Peruano Primera División - Los Chankas vs. Cusco FC</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. Desde el Estadio Los Chankas, en</desc>
+  </programme>
+  <programme start="20251006170000 -0500" stop="20251006192900 -0500" channel="L1Max">
+    <title lang="es">AD Tarma vs. Sporting Cristal : Fútbol Peruano Primera División - AD Tarma vs. Sporting Cristal</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. ADT se enfrenta a Sporting Crist</desc>
+  </programme>
+  <programme start="20251006193000 -0500" stop="20251006215900 -0500" channel="L1Max">
+    <title lang="es">Alianza Universidad de Huánuco vs. Alianza Lima : Fútbol Peruano Primera División - Alianza Universidad de Huánuco vs. Alianza Lima</title>
+    <desc lang="es">Acción de la fecha 13 del Torneo Clausura. Alianza Universidad enfrenta a Alianz</desc>
+  </programme>
+  <programme start="20251006220000 -0500" stop="20251006225900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251006230000 -0500" stop="20251006232900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20251006233000 -0500" stop="20251007015900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20251007020000 -0500" stop="20251007032900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251007033000 -0500" stop="20251007035900 -0500" channel="L1Max">
+    <title lang="es">AD Tarma vs. Sporting Cristal : Fútbol Peruano Primera División - AD Tarma vs. Sporting Cristal</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. ADT se enfrenta a Sporting Crist</desc>
+  </programme>
+  <programme start="20251007040000 -0500" stop="20251007055900 -0500" channel="L1Max">
+    <title lang="es">AD Tarma vs. Sporting Cristal : Fútbol Peruano Primera División - AD Tarma vs. Sporting Cristal</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. ADT se enfrenta a Sporting Crist</desc>
+  </programme>
+  <programme start="20251007060000 -0500" stop="20251007082900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20251007083000 -0500" stop="20251007095900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251007100000 -0500" stop="20251007112900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251007113000 -0500" stop="20251007125900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251007130000 -0500" stop="20251007135900 -0500" channel="L1Max">
+    <title lang="es">Hablemos de Max</title>
+  </programme>
+  <programme start="20251007140000 -0500" stop="20251007162900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20251007163000 -0500" stop="20251007172900 -0500" channel="L1Max">
+    <title lang="es">Hablemos de Max</title>
+  </programme>
+  <programme start="20251007173000 -0500" stop="20251007174400 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - Los Chankas vs. Cusco FC</title>
+    <desc lang="es">Todo el análisis e información de cara al partido de la jornada 13 del Torneo Cl</desc>
+  </programme>
+  <programme start="20251007174500 -0500" stop="20251007195900 -0500" channel="L1Max">
+    <title lang="es">Los Chankas vs. Cusco FC : Fútbol Peruano Primera División - Los Chankas vs. Cusco FC</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. Desde el Estadio Los Chankas, en</desc>
+  </programme>
+  <programme start="20251007200000 -0500" stop="20251007205900 -0500" channel="L1Max">
+    <title lang="es">Hablemos de Max</title>
+  </programme>
+  <programme start="20251007210000 -0500" stop="20251007215900 -0500" channel="L1Max">
+    <title lang="es">Match gol</title>
+    <desc lang="es">Resumen completo de los partidos y los mejores goles del fin de semana del campe</desc>
+  </programme>
+  <programme start="20251007220000 -0500" stop="20251007225900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251007230000 -0500" stop="20251007232900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20251007233000 -0500" stop="20251008012900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20251008013000 -0500" stop="20251008022900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251008023000 -0500" stop="20251008035900 -0500" channel="L1Max">
+    <title lang="es">Deportivo Garcilaso vs. Alianza Atlético : Fútbol Peruano Primera División - Deportivo Garcilaso vs. Alianza Atlético</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. Desde el estadio Inca Garcilaso</desc>
+  </programme>
+  <programme start="20251008040000 -0500" stop="20251008045900 -0500" channel="L1Max">
+    <title lang="es">Deportivo Garcilaso vs. Alianza Atlético : Fútbol Peruano Primera División - Deportivo Garcilaso vs. Alianza Atlético</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. Desde el estadio Inca Garcilaso</desc>
+  </programme>
+  <programme start="20251008050000 -0500" stop="20251008072900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20251008073000 -0500" stop="20251008074400 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Mejores atajadas Apertura 2025</title>
+    <desc lang="es">Las acciones más destacadas de los arqueros durante el Torneo Apertura 2025 de l</desc>
+  </programme>
+  <programme start="20251008074500 -0500" stop="20251008075900 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Liga 1 Apertura 2025: Mejores goles</title>
+    <desc lang="es">Un especial con las mejores anotaciones de la Liga 1 del Torneo de Apertura 2025</desc>
+  </programme>
+  <programme start="20251008080000 -0500" stop="20251008085900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251008090000 -0500" stop="20251008095900 -0500" channel="L1Max">
+    <title lang="es">Match gol</title>
+    <desc lang="es">Resumen completo de los partidos y los mejores goles del fin de semana del campe</desc>
+  </programme>
+  <programme start="20251008100000 -0500" stop="20251008105900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251008110000 -0500" stop="20251008115900 -0500" channel="L1Max">
+    <title lang="es">Match gol</title>
+    <desc lang="es">Resumen completo de los partidos y los mejores goles del fin de semana del campe</desc>
+  </programme>
+  <programme start="20251008120000 -0500" stop="20251008142900 -0500" channel="L1Max">
+    <title lang="es">Deportivo Garcilaso vs. Alianza Atlético : Fútbol Peruano Primera División - Deportivo Garcilaso vs. Alianza Atlético</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. Desde el estadio Inca Garcilaso</desc>
+  </programme>
+  <programme start="20251008143000 -0500" stop="20251008165900 -0500" channel="L1Max">
+    <title lang="es">AD Tarma vs. Sporting Cristal : Fútbol Peruano Primera División - AD Tarma vs. Sporting Cristal</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. ADT se enfrenta a Sporting Crist</desc>
+  </programme>
+  <programme start="20251008170000 -0500" stop="20251008192900 -0500" channel="L1Max">
+    <title lang="es">Alianza Universidad de Huánuco vs. Alianza Lima : Fútbol Peruano Primera División - Alianza Universidad de Huánuco vs. Alianza Lima</title>
+    <desc lang="es">Acción de la fecha 13 del Torneo Clausura. Alianza Universidad enfrenta a Alianz</desc>
+  </programme>
+  <programme start="20251008193000 -0500" stop="20251008194400 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - Los Chankas vs. Cusco FC</title>
+    <desc lang="es">Todo el análisis e información de cara al partido de la jornada 13 del Torneo Cl</desc>
+  </programme>
+  <programme start="20251008194500 -0500" stop="20251008215900 -0500" channel="L1Max">
+    <title lang="es">Los Chankas vs. Cusco FC : Fútbol Peruano Primera División - Los Chankas vs. Cusco FC</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. Desde el Estadio Los Chankas, en</desc>
+  </programme>
+  <programme start="20251008220000 -0500" stop="20251008225900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251008230000 -0500" stop="20251008225900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20251008230000 -0500" stop="20251009012900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20251009013000 -0500" stop="20251009022900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251009023000 -0500" stop="20251009035900 -0500" channel="L1Max">
+    <title lang="es">AD Tarma vs. Sporting Cristal : Fútbol Peruano Primera División - AD Tarma vs. Sporting Cristal</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. ADT se enfrenta a Sporting Crist</desc>
+  </programme>
+  <programme start="20251009040000 -0500" stop="20251009045900 -0500" channel="L1Max">
+    <title lang="es">AD Tarma vs. Sporting Cristal : Fútbol Peruano Primera División - AD Tarma vs. Sporting Cristal</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. ADT se enfrenta a Sporting Crist</desc>
+  </programme>
+  <programme start="20251009050000 -0500" stop="20251009072900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20251009073000 -0500" stop="20251009074400 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Mejores atajadas Apertura 2025</title>
+    <desc lang="es">Las acciones más destacadas de los arqueros durante el Torneo Apertura 2025 de l</desc>
+  </programme>
+  <programme start="20251009074500 -0500" stop="20251009075900 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Liga 1 Apertura 2025: Mejores goles</title>
+    <desc lang="es">Un especial con las mejores anotaciones de la Liga 1 del Torneo de Apertura 2025</desc>
+  </programme>
+  <programme start="20251009080000 -0500" stop="20251009085900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251009090000 -0500" stop="20251009095900 -0500" channel="L1Max">
+    <title lang="es">Match gol</title>
+    <desc lang="es">Resumen completo de los partidos y los mejores goles del fin de semana del campe</desc>
+  </programme>
+  <programme start="20251009100000 -0500" stop="20251009105900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251009110000 -0500" stop="20251009115900 -0500" channel="L1Max">
+    <title lang="es">Match gol</title>
+    <desc lang="es">Resumen completo de los partidos y los mejores goles del fin de semana del campe</desc>
+  </programme>
+  <programme start="20251009120000 -0500" stop="20251009125900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251009130000 -0500" stop="20251009135900 -0500" channel="L1Max">
+    <title lang="es">Hablemos de Max</title>
+  </programme>
+  <programme start="20251009140000 -0500" stop="20251009162900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20251009163000 -0500" stop="20251009172900 -0500" channel="L1Max">
+    <title lang="es">Hablemos de Max</title>
+  </programme>
+  <programme start="20251009173000 -0500" stop="20251009195900 -0500" channel="L1Max">
+    <title lang="es">Deportivo Garcilaso vs. Alianza Atlético : Fútbol Peruano Primera División - Deportivo Garcilaso vs. Alianza Atlético</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. Desde el estadio Inca Garcilaso</desc>
+  </programme>
+  <programme start="20251009200000 -0500" stop="20251009205900 -0500" channel="L1Max">
+    <title lang="es">Match gol</title>
+    <desc lang="es">Resumen completo de los partidos y los mejores goles del fin de semana del campe</desc>
+  </programme>
+  <programme start="20251009210000 -0500" stop="20251009215900 -0500" channel="L1Max">
+    <title lang="es">Hablemos de Max</title>
+  </programme>
+  <programme start="20251009220000 -0500" stop="20251009225900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251009230000 -0500" stop="20251009225900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20251009230000 -0500" stop="20251010012900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20251010013000 -0500" stop="20251010022900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251010023000 -0500" stop="20251010035900 -0500" channel="L1Max">
+    <title lang="es">Alianza Universidad de Huánuco vs. Alianza Lima : Fútbol Peruano Primera División - Alianza Universidad de Huánuco vs. Alianza Lima</title>
+    <desc lang="es">Acción de la fecha 13 del Torneo Clausura. Alianza Universidad enfrenta a Alianz</desc>
+  </programme>
+  <programme start="20251010040000 -0500" stop="20251010045900 -0500" channel="L1Max">
+    <title lang="es">Alianza Universidad de Huánuco vs. Alianza Lima : Fútbol Peruano Primera División - Alianza Universidad de Huánuco vs. Alianza Lima</title>
+    <desc lang="es">Acción de la fecha 13 del Torneo Clausura. Alianza Universidad enfrenta a Alianz</desc>
+  </programme>
+  <programme start="20251010050000 -0500" stop="20251010072900 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+  <programme start="20251010073000 -0500" stop="20251010074400 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Mejores atajadas Apertura 2025</title>
+    <desc lang="es">Las acciones más destacadas de los arqueros durante el Torneo Apertura 2025 de l</desc>
+  </programme>
+  <programme start="20251010074500 -0500" stop="20251010075900 -0500" channel="L1Max">
+    <title lang="es">Fillers L1 - Liga 1 Apertura 2025: Mejores goles</title>
+    <desc lang="es">Un especial con las mejores anotaciones de la Liga 1 del Torneo de Apertura 2025</desc>
+  </programme>
+  <programme start="20251010080000 -0500" stop="20251010085900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251010090000 -0500" stop="20251010095900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251010100000 -0500" stop="20251010105900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251010110000 -0500" stop="20251010115900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251010120000 -0500" stop="20251010142900 -0500" channel="L1Max">
+    <title lang="es">AD Tarma vs. Sporting Cristal : Fútbol Peruano Primera División - AD Tarma vs. Sporting Cristal</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. ADT se enfrenta a Sporting Crist</desc>
+  </programme>
+  <programme start="20251010143000 -0500" stop="20251010144400 -0500" channel="L1Max">
+    <title lang="es">Liga 1, la previa - Los Chankas vs. Cusco FC</title>
+    <desc lang="es">Todo el análisis e información de cara al partido de la jornada 13 del Torneo Cl</desc>
+  </programme>
+  <programme start="20251010144500 -0500" stop="20251010165900 -0500" channel="L1Max">
+    <title lang="es">Los Chankas vs. Cusco FC : Fútbol Peruano Primera División - Los Chankas vs. Cusco FC</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. Desde el Estadio Los Chankas, en</desc>
+  </programme>
+  <programme start="20251010170000 -0500" stop="20251010192900 -0500" channel="L1Max">
+    <title lang="es">Deportivo Garcilaso vs. Alianza Atlético : Fútbol Peruano Primera División - Deportivo Garcilaso vs. Alianza Atlético</title>
+    <desc lang="es">Fecha 13 del Torneo Clausura 2025 de la Liga 1. Desde el estadio Inca Garcilaso</desc>
+  </programme>
+  <programme start="20251010193000 -0500" stop="20251010215900 -0500" channel="L1Max">
+    <title lang="es">Alianza Universidad de Huánuco vs. Alianza Lima : Fútbol Peruano Primera División - Alianza Universidad de Huánuco vs. Alianza Lima</title>
+    <desc lang="es">Acción de la fecha 13 del Torneo Clausura. Alianza Universidad enfrenta a Alianz</desc>
+  </programme>
+  <programme start="20251010220000 -0500" stop="20251010225900 -0500" channel="L1Max">
+    <title lang="es">Liga 1 Radio</title>
+    <desc lang="es">Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análi</desc>
+  </programme>
+  <programme start="20251010230000 -0500" stop="20251011000000 -0500" channel="L1Max">
+    <title lang="es">El Chiringuito</title>
+    <desc lang="es">Programación deportiva que abarca toda la información reciente acerca de los equ</desc>
+  </programme>
+</tv>
