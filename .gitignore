@@ -3,7 +3,6 @@
 
 # Ignorar carpetas de caché de Python
 __pycache__/
-l1/
 
 # Ignorar archivos temporales de editor
 *.swp
