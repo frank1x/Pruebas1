@@ -13,23 +13,18 @@ epg_sources = [
         ["DSPORTS.(ARG).dtvsp"]  # Solo procesar este canal
     ],
     [
-        "https://www.open-epg.com/files/peru1.xml.gz",
-        "+0000",
-        ["TyC Sports.pe"]  # Solo procesar este canal
-    ],
-    [
-        "https://www.open-epg.com/files/peru2.xml.gz",
-        "+0000",
-        ["PANAMERICANA TELEVISION HD.pe", "TV PERU HD.pe", "ATV HD.pe", "GLOBAL TV.pe", "M DEPORTES.pe"]  # Solo procesar este canal
-    ],
-    [
         "https://epg.jesmann.com/iptv/Colombia.xml.gz",
         "+0000",
-        ["SonyMovies(SONYML).co", "CanalSony(SETLVHD).co", "CaracolTVCanal1HD(CARAHD).co", "WarnerChannel(WBLHD).co", "TyCSportsHD(TYCHD).co"]  # Solo procesar este canal
+        ["SonyMovies(SONYML).co", "CaracolTVCanal1HD(CARAHD).co"]  # Solo procesar este canal
     ],
     [
         "https://epg.jesmann.com/iptv/Chile.xml.gz",
         "+0000",
         ["ETCTV(ETCHILE).cl"]  # Solo procesar este canal
+    ],
+    [
+        "https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz",
+        "+0000",
+        ["DISCOVERY.HD.(DiscoveryHD).pe"]  # Solo procesar este canal
     ],
 ]
