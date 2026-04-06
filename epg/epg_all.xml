@@ -5,26 +5,6 @@
   <channel id="SonyMovies(SONYML).co"><lcn>123608</lcn><display-name>Sony Movies</display-name><display-name>SONYML</display-name><display-name>Sony Movies</display-name><icon src="https://emby.tmsimg.com/assets/s124605_ll_h15_aa.png" /></channel>
   <channel id="ETCTV(ETCHILE).cl"><lcn>47485</lcn><display-name>ETC TV</display-name><display-name>ETCHILE</display-name><display-name>ETC TV</display-name><icon src="https://emby.tmsimg.com/assets/s47485_ll_h15_aa.png" /></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20260404223000 +0000" stop="20260405000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260405000000 +0000" stop="20260405003000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Los mundiales de Lionel</title></programme>
-  <programme start="20260405003000 +0000" stop="20260405010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial: Italia 90</title></programme>
-  <programme start="20260405010000 +0000" stop="20260405020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">D Selección</title></programme>
-  <programme start="20260405020000 +0000" stop="20260405040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Real Betis vs. Espanyol</title></programme>
-  <programme start="20260405040000 +0000" stop="20260405053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260405053000 +0000" stop="20260405063000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">D Selección</title></programme>
-  <programme start="20260405063000 +0000" stop="20260405070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Zlatan Ibrahimovic</title></programme>
-  <programme start="20260405070000 +0000" stop="20260405090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Real Sociedad de Fútbol vs. Levante</title></programme>
-  <programme start="20260405090000 +0000" stop="20260405100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">D Selección</title></programme>
-  <programme start="20260405100000 +0000" stop="20260405113000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260405113000 +0000" stop="20260405133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">RCD Mallorca vs. Real Madrid</title></programme>
-  <programme start="20260405133000 +0000" stop="20260405134500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Simplemente Diego: El Pelusa de la Paternal</title></programme>
-  <programme start="20260405134500 +0000" stop="20260405141000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Valencia vs. Celta de Vigo</title></programme>
-  <programme start="20260405141000 +0000" stop="20260405161500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Valencia vs. RC Celta</title></programme>
-  <programme start="20260405161500 +0000" stop="20260405163000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Batacazos de la Copa Sudamericana</title></programme>
-  <programme start="20260405163000 +0000" stop="20260405183000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlético de Madrid vs. Barcelona</title></programme>
-  <programme start="20260405183000 +0000" stop="20260405190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Zinedine Zidane</title></programme>
-  <programme start="20260405190000 +0000" stop="20260405210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Valencia vs. RC Celta</title></programme>
-  <programme start="20260405210000 +0000" stop="20260405230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlético de Madrid vs. Barcelona</title></programme>
   <programme start="20260405230000 +0000" stop="20260406003000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
   <programme start="20260406003000 +0000" stop="20260406023000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Valencia vs. RC Celta</title></programme>
   <programme start="20260406023000 +0000" stop="20260406040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
@@ -65,6 +45,27 @@
   <programme start="20260407200000 +0000" stop="20260407210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
   <programme start="20260407210000 +0000" stop="20260407215000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Sudamericana: Barracas Central vs. Vasco</title></programme>
   <programme start="20260407215000 +0000" stop="20260408000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Barracas Central vs. Vasco da Gama</title></programme>
+  <programme start="20260408000000 +0000" stop="20260408002000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Sudamericana: Boston River vs. São Paulo</title></programme>
+  <programme start="20260408002000 +0000" stop="20260408023000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Boston River vs. São Paulo</title></programme>
+  <programme start="20260408023000 +0000" stop="20260408040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260408040000 +0000" stop="20260408043000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">World's Strongest Man</title></programme>
+  <programme start="20260408043000 +0000" stop="20260408050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Houston</title></programme>
+  <programme start="20260408050000 +0000" stop="20260408053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">LaLiga: Atlético de Madrid vs. Barcelona</title></programme>
+  <programme start="20260408053000 +0000" stop="20260408070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
+  <programme start="20260408070000 +0000" stop="20260408090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlético de Madrid vs. Barcelona</title></programme>
+  <programme start="20260408090000 +0000" stop="20260408100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260408100000 +0000" stop="20260408103000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Houston</title></programme>
+  <programme start="20260408103000 +0000" stop="20260408113000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260408113000 +0000" stop="20260408120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">World's Strongest Man</title></programme>
+  <programme start="20260408120000 +0000" stop="20260408123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">LaLiga: Valencia vs. Celta</title></programme>
+  <programme start="20260408123000 +0000" stop="20260408143000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Barracas Central vs. Vasco da Gama</title></programme>
+  <programme start="20260408143000 +0000" stop="20260408160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
+  <programme start="20260408160000 +0000" stop="20260408173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
+  <programme start="20260408173000 +0000" stop="20260408190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260408190000 +0000" stop="20260408200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
+  <programme start="20260408200000 +0000" stop="20260408213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
+  <programme start="20260408213000 +0000" stop="20260408230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
+  <programme start="20260408230000 +0000" stop="20260409002000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Sudamericana: Blooming vs. River Plate</title></programme>
   <programme start="20260406000000 +0000" stop="20260406013000 +0000" channel="CaracolTVCanal1HD(CARAHD).co"><title>Noticias Caracol: Edición central</title><desc>Los hechos que son noticia, en compañía de un excelente equipo periodístico.</desc><category>Show</category><category>Series</category><category>News</category><icon src="https://zpmc.tmsimg.com/assets/p22413592_b_h9_ac.jpg" /><series-id system="tms">22413592-es</series-id><previously-shown /><episode-num system="tms">SH043454760000-1775433600</episode-num><episode-num system="dd_progid">SH04345476.0000</episode-num><credits><actor>María Lucía Fernández</actor><actor>Javier Hernández</actor><actor>Camila Zuluaga</actor></credits><video><quality>HDTV</quality></video></programme>
   <programme start="20260406013000 +0000" stop="20260406023000 +0000" channel="CaracolTVCanal1HD(CARAHD).co"><title>Los informantes</title><desc>Un programa de análisis y opinión conformado por un excelente equipo periodístico.</desc><category>Show</category><category>Series</category><category>Newsmagazine</category><category>Talk</category><category>Public affairs</category><icon src="https://zpmc.tmsimg.com/assets/p10365632_b_h9_ae.jpg" /><series-id system="tms">10365632-es</series-id><date>20131203</date><previously-shown /><episode-num system="tms">SH018312900000-1775439000</episode-num><episode-num system="dd_progid">SH01831290.0000</episode-num><rating><value>TV-G</value></rating><credits><actor>María Elvira Arango</actor><actor>Andrés Sanín</actor><actor>Federico Benítez</actor></credits><video><quality>HDTV</quality></video></programme>
   <programme start="20260406023000 +0000" stop="20260406033000 +0000" channel="CaracolTVCanal1HD(CARAHD).co"><title>Séptimo día</title><desc>Un programa periodístico que trata temas de actualidad que causan controversia en Colombia.</desc><category>Show</category><category>Series</category><category>Newsmagazine</category><icon src="https://zpmc.tmsimg.com/assets/p8653943_b_h9_ae.jpg" /><series-id system="tms">8653943-es</series-id><date>20110501</date><previously-shown /><episode-num system="tms">SH014133910000-1775442600</episode-num><episode-num system="dd_progid">SH01413391.0000</episode-num><credits><actor>María Lucía Fernández</actor><actor>Manuel Teodoro</actor></credits><video><quality>HDTV</quality></video></programme>
