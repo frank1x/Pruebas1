@@ -5,25 +5,6 @@
   <channel id="SonyMovies(SONYML).co"><lcn>123608</lcn><display-name>Sony Movies</display-name><display-name>SONYML</display-name><display-name>Sony Movies</display-name><icon src="https://emby.tmsimg.com/assets/s124605_ll_h15_aa.png" /></channel>
   <channel id="ETCTV(ETCHILE).cl"><lcn>47485</lcn><display-name>ETC TV</display-name><display-name>ETCHILE</display-name><display-name>ETC TV</display-name><icon src="https://emby.tmsimg.com/assets/s47485_ll_h15_aa.png" /></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20260604010000 +0000" stop="20260604030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260604030000 +0000" stop="20260604040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Básquet</title></programme>
-  <programme start="20260604040000 +0000" stop="20260604043000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Millonarios vs. O'higgins</title></programme>
-  <programme start="20260604043000 +0000" stop="20260604053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
-  <programme start="20260604053000 +0000" stop="20260604070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
-  <programme start="20260604070000 +0000" stop="20260604090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Caracas FC vs. Botafogo</title></programme>
-  <programme start="20260604090000 +0000" stop="20260604110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260604110000 +0000" stop="20260604120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Básquet</title></programme>
-  <programme start="20260604120000 +0000" stop="20260604123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Goleadores en las Copas del Mundo</title></programme>
-  <programme start="20260604123000 +0000" stop="20260604130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Los Ángeles</title></programme>
-  <programme start="20260604130000 +0000" stop="20260604140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Básquet</title></programme>
-  <programme start="20260604140000 +0000" stop="20260604143000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Eliminatorias Copa Mundial: RD Congo vs. Jamaica</title></programme>
-  <programme start="20260604143000 +0000" stop="20260604160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
-  <programme start="20260604160000 +0000" stop="20260604173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
-  <programme start="20260604173000 +0000" stop="20260604190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260604190000 +0000" stop="20260604200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
-  <programme start="20260604200000 +0000" stop="20260604213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
-  <programme start="20260604213000 +0000" stop="20260604230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
-  <programme start="20260604230000 +0000" stop="20260605000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
   <programme start="20260605000000 +0000" stop="20260605003000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Las canciones de los mundiales</title></programme>
   <programme start="20260605003000 +0000" stop="20260605010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Bahía de San Francisco</title></programme>
   <programme start="20260605010000 +0000" stop="20260605030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
@@ -36,9 +17,7 @@
   <programme start="20260605090000 +0000" stop="20260605110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
   <programme start="20260605110000 +0000" stop="20260605120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Lo Mejor de DSPORTS Fight</title></programme>
   <programme start="20260605120000 +0000" stop="20260605123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Las canciones de los mundiales</title></programme>
-  <programme start="20260605123000 +0000" stop="20260605130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Kansas City</title></programme>
-  <programme start="20260605130000 +0000" stop="20260605140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Lo Mejor de DSPORTS Fight</title></programme>
-  <programme start="20260605140000 +0000" stop="20260605143000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">World Cup Qualifiers: Irak vs. Bolivia</title></programme>
+  <programme start="20260605123000 +0000" stop="20260605143000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Australia</title></programme>
   <programme start="20260605143000 +0000" stop="20260605160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
   <programme start="20260605160000 +0000" stop="20260605173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
   <programme start="20260605173000 +0000" stop="20260605190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
@@ -46,15 +25,14 @@
   <programme start="20260605200000 +0000" stop="20260605213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
   <programme start="20260605213000 +0000" stop="20260605230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
   <programme start="20260605230000 +0000" stop="20260606000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
-  <programme start="20260606000000 +0000" stop="20260606003000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puro Concepto</title></programme>
-  <programme start="20260606003000 +0000" stop="20260606010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">New York - New Jersey</title></programme>
+  <programme start="20260606000000 +0000" stop="20260606010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puro Concepto</title></programme>
   <programme start="20260606010000 +0000" stop="20260606020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial Total</title></programme>
   <programme start="20260606020000 +0000" stop="20260606030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
   <programme start="20260606030000 +0000" stop="20260606040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial Total</title></programme>
-  <programme start="20260606040000 +0000" stop="20260606060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260606060000 +0000" stop="20260606063000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial: Lionel Messi y Cristiano Ronaldo</title></programme>
-  <programme start="20260606063000 +0000" stop="20260606070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Batacazos en los Mundiales</title></programme>
-  <programme start="20260606070000 +0000" stop="20260606073000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Qatar 2022</title></programme>
+  <programme start="20260606040000 +0000" stop="20260606050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
+  <programme start="20260606050000 +0000" stop="20260606053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">World Cup Qualifiers: Irak vs. Bolivia</title></programme>
+  <programme start="20260606053000 +0000" stop="20260606070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
+  <programme start="20260606070000 +0000" stop="20260606073000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">São Paulo vs. Boston River</title></programme>
   <programme start="20260606073000 +0000" stop="20260606080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Goleadas en los Mundiales: Lionel Messi</title></programme>
   <programme start="20260606080000 +0000" stop="20260606110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Países Bajos vs. Argentina</title></programme>
   <programme start="20260606110000 +0000" stop="20260606130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial Total</title></programme>
@@ -62,12 +40,25 @@
   <programme start="20260606160000 +0000" stop="20260606180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
   <programme start="20260606180000 +0000" stop="20260606190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
   <programme start="20260606190000 +0000" stop="20260606193000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Batacazos en los Mundiales</title></programme>
-  <programme start="20260606193000 +0000" stop="20260606200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Qatar 2022</title></programme>
+  <programme start="20260606193000 +0000" stop="20260606200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Catar 2022</title></programme>
   <programme start="20260606200000 +0000" stop="20260606203000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Goleadas en los Mundiales: Lionel Messi</title></programme>
   <programme start="20260606203000 +0000" stop="20260606210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial: Lionel Messi y Cristiano Ronaldo</title></programme>
   <programme start="20260606210000 +0000" stop="20260606223000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
   <programme start="20260606223000 +0000" stop="20260606230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Filadelfia</title></programme>
   <programme start="20260606230000 +0000" stop="20260607000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Especial: Martín Palermo</title></programme>
+  <programme start="20260607000000 +0000" stop="20260607013000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260607013000 +0000" stop="20260607020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlanta</title></programme>
+  <programme start="20260607020000 +0000" stop="20260607023000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Goleadores en las Copas del Mundo</title></programme>
+  <programme start="20260607023000 +0000" stop="20260607030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial: Maradona en el 94</title></programme>
+  <programme start="20260607030000 +0000" stop="20260607040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Pedro Troglio</title></programme>
+  <programme start="20260607040000 +0000" stop="20260607053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260607053000 +0000" stop="20260607060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Miami</title></programme>
+  <programme start="20260607060000 +0000" stop="20260607063000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Catar 2022</title></programme>
+  <programme start="20260607063000 +0000" stop="20260607080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260607080000 +0000" stop="20260607100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Croacia</title></programme>
+  <programme start="20260607100000 +0000" stop="20260607130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Francia</title></programme>
+  <programme start="20260607130000 +0000" stop="20260607195000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
+  <programme start="20260607195000 +0000" stop="20260608040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Ecuador vs. Guatemala</title></programme>
   <programme start="20260604203000 +0000" stop="20260604214500 +0000" channel="CaracolTVCanal1HD(CARAHD).co"><title>Tormenta de pasiones</title><desc>La vida de una familia cambia para siempre cuando la infidelidad del esposo es descubierta.</desc><category>Show</category><category>Series</category><category>Soap</category><category>Drama</category><category>Romance</category><icon src="https://zpmc.tmsimg.com/assets/p11405153_b_h9_ad.jpg" /><series-id system="tms">11405153-es</series-id><date>20100914</date><previously-shown /><episode-num system="tms">SH021035230000-1780605000</episode-num><episode-num system="dd_progid">SH02103523.0000</episode-num><rating><value>TV-14</value></rating><credits><director>Zeynep Günay</director><actor>Ayca Bingöl</actor><actor>Erkan Petekkaya</actor><actor>Wilma Elles</actor></credits><video><quality>HDTV</quality></video></programme>
   <programme start="20260604214500 +0000" stop="20260604224500 +0000" channel="CaracolTVCanal1HD(CARAHD).co"><title>Efé, el nombre del amor</title><desc>Años después de entregar a su bebé, Akça lucha por protegerlo y lograr que sea feliz.</desc><category>Show</category><category>Series</category><category>Drama</category><icon src="https://zpmc.tmsimg.com/assets/p20717425_st_h9_aa.jpg" /><series-id system="tms">20717425-es</series-id><date>20211004</date><previously-shown /><episode-num system="tms">SH064240290000-1780609500</episode-num><episode-num system="dd_progid">SH06424029.0000</episode-num><rating><value>TV-14</value></rating><credits><director>Serkan Birinci</director><actor>Nazan Kesal</actor><actor>Ismail Hacioglu</actor><actor>Serhat Teoman</actor></credits><video><quality>HDTV</quality></video></programme>
   <programme start="20260604224500 +0000" stop="20260604234500 +0000" channel="CaracolTVCanal1HD(CARAHD).co"><title>El juego de mi destino</title><desc>Asiye decide dejar la ciudad junto a sus dos pequeños cuando un vecino intenta violar a su hija.</desc><category>Show</category><category>Series</category><category>Drama</category><icon src="https://zpmc.tmsimg.com/assets/p22925023_b_h9_ab.jpg" /><series-id system="tms">22925023-es-ES</series-id><date>20211203</date><previously-shown /><episode-num system="tms">SH046227940000-1780613100</episode-num><episode-num system="dd_progid">SH04622794.0000</episode-num><credits><director>Emre Kabakusak</director><actor>Öykü Karayel</actor><actor>Akin Akinözü</actor><actor>Sarp Apak</actor></credits><video><quality>HDTV</quality></video></programme>
