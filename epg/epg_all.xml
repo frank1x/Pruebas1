@@ -5,55 +5,59 @@
   <channel id="SonyMovies(SONYML).co"><lcn>123608</lcn><display-name>Sony Movies</display-name><display-name>SONYML</display-name><display-name>Sony Movies</display-name><icon src="https://emby.tmsimg.com/assets/s124605_ll_h15_aa.png" /></channel>
   <channel id="ETCTV(ETCHILE).cl"><lcn>47485</lcn><display-name>ETC TV</display-name><display-name>ETCHILE</display-name><display-name>ETC TV</display-name><icon src="https://emby.tmsimg.com/assets/s47485_ll_h15_aa.png" /></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20260606000000 +0000" stop="20260606010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puro Concepto</title></programme>
-  <programme start="20260606010000 +0000" stop="20260606020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial Total</title></programme>
-  <programme start="20260606020000 +0000" stop="20260606030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260606030000 +0000" stop="20260606040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial Total</title></programme>
-  <programme start="20260606040000 +0000" stop="20260606050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
-  <programme start="20260606050000 +0000" stop="20260606053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">World Cup Qualifiers: Irak vs. Bolivia</title></programme>
-  <programme start="20260606053000 +0000" stop="20260606070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
-  <programme start="20260606070000 +0000" stop="20260606073000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">São Paulo vs. Boston River</title></programme>
-  <programme start="20260606073000 +0000" stop="20260606080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Goleadas en los Mundiales: Lionel Messi</title></programme>
-  <programme start="20260606080000 +0000" stop="20260606110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Países Bajos vs. Argentina</title></programme>
-  <programme start="20260606110000 +0000" stop="20260606130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial Total</title></programme>
-  <programme start="20260606130000 +0000" stop="20260606160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
-  <programme start="20260606160000 +0000" stop="20260606180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
-  <programme start="20260606180000 +0000" stop="20260606190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
-  <programme start="20260606190000 +0000" stop="20260606193000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Batacazos en los Mundiales</title></programme>
-  <programme start="20260606193000 +0000" stop="20260606200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Catar 2022</title></programme>
-  <programme start="20260606200000 +0000" stop="20260606203000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Goleadas en los Mundiales: Lionel Messi</title></programme>
-  <programme start="20260606203000 +0000" stop="20260606210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial: Lionel Messi y Cristiano Ronaldo</title></programme>
-  <programme start="20260606210000 +0000" stop="20260606223000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260606223000 +0000" stop="20260606230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Filadelfia</title></programme>
-  <programme start="20260606230000 +0000" stop="20260607000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Especial: Martín Palermo</title></programme>
-  <programme start="20260607000000 +0000" stop="20260607013000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260607013000 +0000" stop="20260607020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlanta</title></programme>
-  <programme start="20260607020000 +0000" stop="20260607023000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Goleadores en las Copas del Mundo</title></programme>
-  <programme start="20260607023000 +0000" stop="20260607030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial: Maradona en el 94</title></programme>
-  <programme start="20260607030000 +0000" stop="20260607040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Pedro Troglio</title></programme>
-  <programme start="20260607040000 +0000" stop="20260607053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260607053000 +0000" stop="20260607060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Miami</title></programme>
-  <programme start="20260607060000 +0000" stop="20260607063000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Catar 2022</title></programme>
-  <programme start="20260607063000 +0000" stop="20260607080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260607080000 +0000" stop="20260607100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Croacia</title></programme>
-  <programme start="20260607100000 +0000" stop="20260607130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Francia</title></programme>
-  <programme start="20260607130000 +0000" stop="20260607195000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
-  <programme start="20260607195000 +0000" stop="20260608040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Ecuador vs. Guatemala</title></programme>
-  <programme start="20260608040000 +0000" stop="20260608060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260608060000 +0000" stop="20260608063000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Vancouver</title></programme>
-  <programme start="20260608063000 +0000" stop="20260608070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Catar 2022</title></programme>
-  <programme start="20260608070000 +0000" stop="20260608073000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Batacazos en los Mundiales</title></programme>
-  <programme start="20260608073000 +0000" stop="20260608080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Amistoso Internacional: Argentina vs. Honduras</title></programme>
-  <programme start="20260608080000 +0000" stop="20260608110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
-  <programme start="20260608110000 +0000" stop="20260608130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
-  <programme start="20260608130000 +0000" stop="20260608143000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260608143000 +0000" stop="20260608163000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
-  <programme start="20260608163000 +0000" stop="20260608170000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
-  <programme start="20260608170000 +0000" stop="20260608180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260608180000 +0000" stop="20260608193000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
-  <programme start="20260608193000 +0000" stop="20260608210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260608210000 +0000" stop="20260608225000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Países Bajos vs. Argentina</title></programme>
-  <programme start="20260608225000 +0000" stop="20260609000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Colombia vs. Jordania</title></programme>
+  <programme start="20260607000000 +0000" stop="20260607003000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Batacazos en los Mundiales</title></programme>
+  <programme start="20260607003000 +0000" stop="20260607010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Catar 2022</title></programme>
+  <programme start="20260607010000 +0000" stop="20260607013000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Goleadas en los Mundiales: Lionel Messi</title></programme>
+  <programme start="20260607013000 +0000" stop="20260607020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial: Lionel Messi y Cristiano Ronaldo</title></programme>
+  <programme start="20260607020000 +0000" stop="20260607033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260607033000 +0000" stop="20260607040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Filadelfia</title></programme>
+  <programme start="20260607040000 +0000" stop="20260607050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Especial: Martín Palermo</title></programme>
+  <programme start="20260607050000 +0000" stop="20260607063000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260607063000 +0000" stop="20260607070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlanta</title></programme>
+  <programme start="20260607070000 +0000" stop="20260607080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Goleadores en las Copas del Mundo</title></programme>
+  <programme start="20260607080000 +0000" stop="20260607083000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial: Maradona en el 94</title></programme>
+  <programme start="20260607083000 +0000" stop="20260607090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Pedro Troglio</title></programme>
+  <programme start="20260607090000 +0000" stop="20260607103000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260607103000 +0000" stop="20260607110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Miami</title></programme>
+  <programme start="20260607110000 +0000" stop="20260607113000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Catar 2022</title></programme>
+  <programme start="20260607113000 +0000" stop="20260607130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260607130000 +0000" stop="20260607150000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Croacia</title></programme>
+  <programme start="20260607150000 +0000" stop="20260607180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Francia</title></programme>
+  <programme start="20260607180000 +0000" stop="20260607195000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
+  <programme start="20260607195000 +0000" stop="20260607220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Ecuador vs. Guatemala</title></programme>
+  <programme start="20260607220000 +0000" stop="20260607225000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260607225000 +0000" stop="20260608010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Colombia vs. Jordania</title></programme>
+  <programme start="20260608010000 +0000" stop="20260608030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260608030000 +0000" stop="20260608050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Amistoso Internacional: Argentina vs. Honduras</title></programme>
+  <programme start="20260608050000 +0000" stop="20260608070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
+  <programme start="20260608070000 +0000" stop="20260608090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Amistoso Internacional: Argentina vs. Honduras</title></programme>
+  <programme start="20260608090000 +0000" stop="20260608110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260608110000 +0000" stop="20260608113000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Vancouver</title></programme>
+  <programme start="20260608113000 +0000" stop="20260608120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Catar 2022</title></programme>
+  <programme start="20260608120000 +0000" stop="20260608123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Batacazos en los Mundiales</title></programme>
+  <programme start="20260608123000 +0000" stop="20260608130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Amistoso Internacional: Argentina vs. Honduras</title></programme>
+  <programme start="20260608130000 +0000" stop="20260608160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
+  <programme start="20260608160000 +0000" stop="20260608180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
+  <programme start="20260608180000 +0000" stop="20260608193000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260608193000 +0000" stop="20260608213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
+  <programme start="20260608213000 +0000" stop="20260608230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
+  <programme start="20260608230000 +0000" stop="20260609000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
+  <programme start="20260609003000 +0000" stop="20260609020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260609020000 +0000" stop="20260609050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Países Bajos vs. Argentina</title></programme>
+  <programme start="20260609050000 +0000" stop="20260609063000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260609063000 +0000" stop="20260609070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Bahía de San Francisco</title></programme>
+  <programme start="20260609070000 +0000" stop="20260609073000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Los mundiales de Lionel</title></programme>
+  <programme start="20260609073000 +0000" stop="20260609090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
+  <programme start="20260609090000 +0000" stop="20260609103000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260609103000 +0000" stop="20260609110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Boston</title></programme>
+  <programme start="20260609110000 +0000" stop="20260609123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260609123000 +0000" stop="20260609130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Goleadores en las Copas del Mundo</title></programme>
+  <programme start="20260609130000 +0000" stop="20260609160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
+  <programme start="20260609160000 +0000" stop="20260609180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
+  <programme start="20260609180000 +0000" stop="20260609193000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260609193000 +0000" stop="20260609213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
+  <programme start="20260609213000 +0000" stop="20260609230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
+  <programme start="20260609230000 +0000" stop="20260610010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
   <programme start="20260606200000 +0000" stop="20260606230000 +0000" channel="CaracolTVCanal1HD(CARAHD).co"><title>La red</title><desc>Información de farándula, entretenimiento y todos los chismes nuevos.</desc><category>Show</category><category>Series</category><category>Entertainment</category><category>Newsmagazine</category><icon src="https://zpmc.tmsimg.com/assets/p9390778_b_h9_ad.jpg" /><series-id system="tms">9390778-es</series-id><date>20111126</date><previously-shown /><episode-num system="tms">SH015979150000-1780776000</episode-num><episode-num system="dd_progid">SH01597915.0000</episode-num><rating><value>TV-G</value></rating><credits><actor>Carlos Vargas</actor><actor>Carlos Giraldo</actor><actor>Mary Méndez</actor></credits><video><quality>HDTV</quality></video></programme>
   <programme start="20260606230000 +0000" stop="20260607000000 +0000" channel="CaracolTVCanal1HD(CARAHD).co"><title>Se dice de mí</title><desc>Un vistazo a la historia de vida de los famosos: su infancia, vida privada, éxitos y fracasos.</desc><category>Show</category><category>Series</category><category>Talk</category><category>Interview</category><category>Reality</category><icon src="https://zpmc.tmsimg.com/assets/p12423201_b_h9_ac.jpg" /><series-id system="tms">12423201-es</series-id><date>20150725</date><previously-shown /><episode-num system="tms">SH023285530000-1780786800</episode-num><episode-num system="dd_progid">SH02328553.0000</episode-num><credits><actor>Diva Jessurum</actor></credits><video><quality>HDTV</quality></video></programme>
   <programme start="20260607000000 +0000" stop="20260607010000 +0000" channel="CaracolTVCanal1HD(CARAHD).co"><title>Noticias Caracol: Edición central</title><desc>Los hechos que son noticia, en compañía de un excelente equipo periodístico.</desc><category>Show</category><category>Series</category><category>News</category><icon src="https://zpmc.tmsimg.com/assets/p22413592_b_h9_ad.jpg" /><series-id system="tms">22413592-es</series-id><previously-shown /><episode-num system="tms">SH043454760000-1780790400</episode-num><episode-num system="dd_progid">SH04345476.0000</episode-num><credits><actor>María Lucía Fernández</actor><actor>Javier Hernández</actor><actor>Camila Zuluaga</actor></credits><video><quality>HDTV</quality></video></programme>
