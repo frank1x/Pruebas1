@@ -5,31 +5,12 @@
   <channel id="SonyMovies(SONYML).co"><lcn>123608</lcn><display-name>Sony Movies</display-name><display-name>SONYML</display-name><display-name>Sony Movies</display-name><icon src="https://emby.tmsimg.com/assets/s124605_ll_h15_aa.png" /></channel>
   <channel id="ETCTV(ETCHILE).cl"><lcn>47485</lcn><display-name>ETC TV</display-name><display-name>ETCHILE</display-name><display-name>ETC TV</display-name><icon src="https://emby.tmsimg.com/assets/s47485_ll_h15_aa.png" /></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20260615011500 +0000" stop="20260615014800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Suecia vs. Túnez</title></programme>
-  <programme start="20260615014800 +0000" stop="20260615041500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo F: Suecia vs. Túnez</title></programme>
-  <programme start="20260615041500 +0000" stop="20260615060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Costa de Marfil vs. Ecuador</title></programme>
-  <programme start="20260615060000 +0000" stop="20260615080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Alemania vs Curazao</title></programme>
-  <programme start="20260615080000 +0000" stop="20260615083000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Catar vs. Suiza</title></programme>
-  <programme start="20260615083000 +0000" stop="20260615090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Brasil vs. Marruecos</title></programme>
-  <programme start="20260615090000 +0000" stop="20260615100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260615100000 +0000" stop="20260615120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Costa de Marfil vs. Ecuador</title></programme>
-  <programme start="20260615120000 +0000" stop="20260615123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Alemania vs. Curazao</title></programme>
-  <programme start="20260615123000 +0000" stop="20260615130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Costa De Marfil vs. Ecuador</title></programme>
-  <programme start="20260615130000 +0000" stop="20260615140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
-  <programme start="20260615140000 +0000" stop="20260615150000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
-  <programme start="20260615150000 +0000" stop="20260615154800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">España vs. Cabo Verde</title></programme>
-  <programme start="20260615154800 +0000" stop="20260615181500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo H: España vs. Cabo Verde</title></programme>
-  <programme start="20260615181500 +0000" stop="20260615183000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial Total</title></programme>
-  <programme start="20260615183000 +0000" stop="20260615193000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260615193000 +0000" stop="20260615210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así</title></programme>
-  <programme start="20260615210000 +0000" stop="20260615214800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Arabia Saudita vs. Uruguay</title></programme>
-  <programme start="20260615214800 +0000" stop="20260616001500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo H: Arabia Saudita vs. Uruguay</title></programme>
-  <programme start="20260616001500 +0000" stop="20260616004800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Previa: Copa Mundial de la FIFA 2026</title></programme>
-  <programme start="20260616004800 +0000" stop="20260616031500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Irán vs. Nueva Zelanda</title></programme>
+  <programme start="20260616001500 +0000" stop="20260616004800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Irán vs. Nueva Zelanda</title></programme>
+  <programme start="20260616004800 +0000" stop="20260616031500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo G: Irán vs. Nueva Zelanda</title></programme>
   <programme start="20260616031500 +0000" stop="20260616050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo H: Arabia Saudita vs. Uruguay</title></programme>
   <programme start="20260616050000 +0000" stop="20260616053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Alemania vs. Curazao</title></programme>
   <programme start="20260616053000 +0000" stop="20260616060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Costa De Marfil vs. Ecuador</title></programme>
-  <programme start="20260616060000 +0000" stop="20260616080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo H: España vs. Cabo Verde</title></programme>
+  <programme start="20260616060000 +0000" stop="20260616080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">España vs. Cabo Verde</title></programme>
   <programme start="20260616080000 +0000" stop="20260616083000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Alemania vs. Curazao</title></programme>
   <programme start="20260616083000 +0000" stop="20260616090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Costa De Marfil vs. Ecuador</title></programme>
   <programme start="20260616090000 +0000" stop="20260616100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
@@ -37,31 +18,51 @@
   <programme start="20260616120000 +0000" stop="20260616123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: España vs. Cabo Verde</title></programme>
   <programme start="20260616123000 +0000" stop="20260616130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Arabia Saudita vs. Uruguay</title></programme>
   <programme start="20260616130000 +0000" stop="20260616143000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
-  <programme start="20260616143000 +0000" stop="20260616160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
-  <programme start="20260616160000 +0000" stop="20260616180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260616180000 +0000" stop="20260616184800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Previa: Copa Mundial de la FIFA 2026</title></programme>
-  <programme start="20260616184800 +0000" stop="20260616210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo I: Francia vs. Senegal</title></programme>
-  <programme start="20260616210000 +0000" stop="20260616220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260616143000 +0000" stop="20260616160100 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
+  <programme start="20260616160100 +0000" stop="20260616180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260616180000 +0000" stop="20260616184800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Francia vs. Senegal</title></programme>
+  <programme start="20260616184800 +0000" stop="20260616211500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Francia vs. Senegal</title></programme>
+  <programme start="20260616211500 +0000" stop="20260616220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
   <programme start="20260616220000 +0000" stop="20260617000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así</title></programme>
   <programme start="20260617000000 +0000" stop="20260617004800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Argelia</title></programme>
-  <programme start="20260617004800 +0000" stop="20260617030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo J: Argentina vs. Argelia</title></programme>
-  <programme start="20260617030000 +0000" stop="20260617040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Previa: Copa Mundial de la FIFA 2026</title></programme>
-  <programme start="20260617040000 +0000" stop="20260617060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Austria vs. Jordania</title></programme>
-  <programme start="20260617060000 +0000" stop="20260617080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo J: Argentina vs. Argelia</title></programme>
+  <programme start="20260617004800 +0000" stop="20260617031500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Argelia</title></programme>
+  <programme start="20260617031500 +0000" stop="20260617034800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Austria vs. Jordania</title></programme>
+  <programme start="20260617034800 +0000" stop="20260617061500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Austria vs. Jordania</title></programme>
+  <programme start="20260617061500 +0000" stop="20260617080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Argelia</title></programme>
   <programme start="20260617080000 +0000" stop="20260617083000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: España vs. Cabo Verde</title></programme>
   <programme start="20260617083000 +0000" stop="20260617090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Arabia Saudita vs. Uruguay</title></programme>
   <programme start="20260617090000 +0000" stop="20260617100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260617100000 +0000" stop="20260617120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo J: Argentina vs. Argelia</title></programme>
+  <programme start="20260617100000 +0000" stop="20260617120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Argelia</title></programme>
   <programme start="20260617120000 +0000" stop="20260617123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Francia vs. Senegal</title></programme>
   <programme start="20260617123000 +0000" stop="20260617130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Argentina vs. Argelia</title></programme>
   <programme start="20260617130000 +0000" stop="20260617143000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
   <programme start="20260617143000 +0000" stop="20260617160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
-  <programme start="20260617160000 +0000" stop="20260617164800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Previa: Copa Mundial de la FIFA 2026</title></programme>
-  <programme start="20260617164800 +0000" stop="20260617190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Portugal vs. RD Congo</title></programme>
-  <programme start="20260617190000 +0000" stop="20260617194800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Previa: Copa Mundial de la FIFA 2026</title></programme>
-  <programme start="20260617194800 +0000" stop="20260617220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Inglaterra vs. Croacia</title></programme>
-  <programme start="20260617220000 +0000" stop="20260617230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
+  <programme start="20260617160000 +0000" stop="20260617164800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Portugal vs. RD Congo</title></programme>
+  <programme start="20260617164800 +0000" stop="20260617191500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Portugal vs. RD Congo</title></programme>
+  <programme start="20260617191500 +0000" stop="20260617194800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Inglaterra vs. Croacia</title></programme>
+  <programme start="20260617194800 +0000" stop="20260617221500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Inglaterra vs. Croacia</title></programme>
+  <programme start="20260617221500 +0000" stop="20260617230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
   <programme start="20260617230000 +0000" stop="20260618003000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así</title></programme>
+  <programme start="20260618003000 +0000" stop="20260618010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial Total</title></programme>
+  <programme start="20260618010000 +0000" stop="20260618020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Uzbekistán vs. Colombia</title></programme>
+  <programme start="20260618020000 +0000" stop="20260618040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo K: Uzbekistán vs. Colombia</title></programme>
+  <programme start="20260618040000 +0000" stop="20260618050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260618050000 +0000" stop="20260618070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo K: Uzbekistán vs. Colombia</title></programme>
+  <programme start="20260618070000 +0000" stop="20260618080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260618080000 +0000" stop="20260618083000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Francia vs. Senegal</title></programme>
+  <programme start="20260618083000 +0000" stop="20260618090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Argentina vs. Argelia</title></programme>
+  <programme start="20260618090000 +0000" stop="20260618100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260618100000 +0000" stop="20260618120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo K: Uzbekistán vs. Colombia</title></programme>
+  <programme start="20260618120000 +0000" stop="20260618123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Inglaterra vs. Croacia</title></programme>
+  <programme start="20260618123000 +0000" stop="20260618130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Uzbekistán vs. Colombia</title></programme>
+  <programme start="20260618130000 +0000" stop="20260618140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
+  <programme start="20260618140000 +0000" stop="20260618150000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
+  <programme start="20260618150000 +0000" stop="20260618154800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Previa: Copa Mundial de la FIFA 2026</title></programme>
+  <programme start="20260618154800 +0000" stop="20260618180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo A: Chequia vs. Sudáfrica</title></programme>
+  <programme start="20260618180000 +0000" stop="20260618184800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Suiza vs. Bosnia y Herzegovina</title></programme>
+  <programme start="20260618184800 +0000" stop="20260618210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo B: Suiza vs. Bosnia y Herzegovina</title></programme>
+  <programme start="20260618210000 +0000" stop="20260618214800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Previa: Copa Mundial de la FIFA 2026</title></programme>
+  <programme start="20260618214800 +0000" stop="20260619000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo B: Canadá vs. Catar</title></programme>
   <programme start="20260615200000 +0000" stop="20260615220000 +0000" channel="CaracolTVCanal1HD(CARAHD).co"><title>El paseo 7 (2023)</title><sub-title>Directed by: Ricardo Coral</sub-title><desc>Dos documentalistas deciden acompañar a la familia Cabello para descubrir la trama cerca del río.</desc><category>Movie</category><category>Feature Film</category><category>Comedy</category><category>Fantasy</category><icon src="https://zpmc.tmsimg.com/assets/p27034608_v_v8_aa.jpg" /><date>20230101</date><previously-shown /><episode-num system="tms">MV021857150000</episode-num><episode-num system="dd_progid">MV02185715.0000</episode-num><credits><director>Ricardo Coral</director><actor>Víctor Hugo Trespalacios</actor><actor>Aída Morales</actor><actor>Paula Estrada</actor></credits><video><quality>HDTV</quality></video></programme>
   <programme start="20260615220000 +0000" stop="20260616000000 +0000" channel="CaracolTVCanal1HD(CARAHD).co"><title>Memory (2022)</title><sub-title>Directed by: Martin Campbell</sub-title><desc>Alex, un sicario, se convierte en el objetivo de su organización por negarse a cumplir un trabajo.</desc><category>Movie</category><category>Feature Film</category><category>Action</category><category>Thriller</category><icon src="https://zpmc.tmsimg.com/assets/p19907444_v_v12_ab.jpg" /><date>20220428</date><previously-shown /><episode-num system="tms">MV018301270000</episode-num><episode-num system="dd_progid">MV01830127.0000</episode-num><rating><value>R</value></rating><credits><director>Martin Campbell</director><actor>Liam Neeson</actor><actor>Guy Pearce</actor><actor>Monica Bellucci</actor></credits><video><quality>HDTV</quality></video></programme>
   <programme start="20260616000000 +0000" stop="20260616013000 +0000" channel="CaracolTVCanal1HD(CARAHD).co"><title>Noticias 19:00 Caracol</title><desc>Una completa información de las noticias de Colombia y del mundo.</desc><category>Show</category><category>Series</category><category>News</category><icon src="https://zpmc.tmsimg.com/assets/p7953919_b_h9_ab.jpg" /><series-id system="tms">7953919-es</series-id><date>20091205</date><previously-shown /><episode-num system="tms">SH012172970000-1781568000</episode-num><episode-num system="dd_progid">SH01217297.0000</episode-num><video><quality>HDTV</quality></video></programme>
