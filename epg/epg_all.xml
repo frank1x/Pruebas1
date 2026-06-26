@@ -5,33 +5,13 @@
   <channel id="SonyMovies(SONYML).co"><lcn>123608</lcn><display-name>Sony Movies</display-name><display-name>SONYML</display-name><display-name>Sony Movies</display-name><icon src="https://emby.tmsimg.com/assets/s124605_ll_h15_aa.png" /></channel>
   <channel id="ETCTV(ETCHILE).cl"><lcn>47485</lcn><display-name>ETC TV</display-name><display-name>ETCHILE</display-name><display-name>ETC TV</display-name><icon src="https://emby.tmsimg.com/assets/s47485_ll_h15_aa.png" /></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20260625001500 +0000" stop="20260625004800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Chequia vs. México</title></programme>
-  <programme start="20260625004800 +0000" stop="20260625031500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Chequia vs. México</title></programme>
-  <programme start="20260625031500 +0000" stop="20260625040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260625040000 +0000" stop="20260625060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Chequia vs. México</title></programme>
-  <programme start="20260625060000 +0000" stop="20260625080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Marruecos vs. Haití</title></programme>
-  <programme start="20260625080000 +0000" stop="20260625083000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Inglaterra vs. Ghana</title></programme>
-  <programme start="20260625083000 +0000" stop="20260625090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Colombia vs. República Democrática del Congo</title></programme>
-  <programme start="20260625090000 +0000" stop="20260625100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260625100000 +0000" stop="20260625120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Escocia vs. Brasil</title></programme>
-  <programme start="20260625120000 +0000" stop="20260625123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Chequia vs. México</title></programme>
-  <programme start="20260625123000 +0000" stop="20260625130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Escocia vs. Brasil</title></programme>
-  <programme start="20260625130000 +0000" stop="20260625150000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
-  <programme start="20260625150000 +0000" stop="20260625163000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
-  <programme start="20260625163000 +0000" stop="20260625173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260625173000 +0000" stop="20260625180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial Total</title></programme>
-  <programme start="20260625180000 +0000" stop="20260625190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así</title></programme>
-  <programme start="20260625190000 +0000" stop="20260625194800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Ecuador vs. Alemania</title></programme>
-  <programme start="20260625194800 +0000" stop="20260625221500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo E: Ecuador vs. Alemania</title></programme>
-  <programme start="20260625221500 +0000" stop="20260625224800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Túnez vs. Países Bajos</title></programme>
-  <programme start="20260625224800 +0000" stop="20260626011500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo F: Túnez vs. Países Bajos</title></programme>
   <programme start="20260626011500 +0000" stop="20260626014800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Turquía vs. Estados Unidos</title></programme>
   <programme start="20260626014800 +0000" stop="20260626041500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Turquía vs. EE. UU.</title></programme>
   <programme start="20260626041500 +0000" stop="20260626050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
   <programme start="20260626050000 +0000" stop="20260626070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Turquía vs. EE. UU.</title></programme>
   <programme start="20260626070000 +0000" stop="20260626090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Curazao vs. Costa de Marfil</title></programme>
   <programme start="20260626090000 +0000" stop="20260626100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260626100000 +0000" stop="20260626120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo E: Ecuador vs. Alemania</title></programme>
+  <programme start="20260626100000 +0000" stop="20260626120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Ecuador vs. Alemania</title></programme>
   <programme start="20260626120000 +0000" stop="20260626123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Túnez vs. Países Bajos</title></programme>
   <programme start="20260626123000 +0000" stop="20260626130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Ecuador vs. Alemania</title></programme>
   <programme start="20260626130000 +0000" stop="20260626150000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
@@ -44,7 +24,7 @@
   <programme start="20260626230000 +0000" stop="20260626234800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Uruguay vs. España</title></programme>
   <programme start="20260626234800 +0000" stop="20260627021500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Uruguay vs. España</title></programme>
   <programme start="20260627021500 +0000" stop="20260627024800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Nueva Zelanda vs. Bélgica</title></programme>
-  <programme start="20260627024800 +0000" stop="20260627051500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Nueva Zelanda vs. Bélgica</title></programme>
+  <programme start="20260627024800 +0000" stop="20260627051500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo G: Nueva Zelanda vs. Bélgica</title></programme>
   <programme start="20260627051500 +0000" stop="20260627070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Uruguay vs. España</title></programme>
   <programme start="20260627070000 +0000" stop="20260627090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo G: Egipto vs. Irán</title></programme>
   <programme start="20260627090000 +0000" stop="20260627093000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial: Túnez vs. Países Bajos</title></programme>
@@ -59,6 +39,26 @@
   <programme start="20260627204800 +0000" stop="20260627231500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo L: Panamá vs. Inglaterra</title></programme>
   <programme start="20260627231500 +0000" stop="20260627231800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Colombia vs. Portugal</title></programme>
   <programme start="20260627231800 +0000" stop="20260628014500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo K: Colombia vs. Portugal</title></programme>
+  <programme start="20260628014500 +0000" stop="20260628020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Previa: Copa Mundial de la FIFA 2026</title></programme>
+  <programme start="20260628020000 +0000" stop="20260628040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo J: Jordania vs. Argentina</title></programme>
+  <programme start="20260628040000 +0000" stop="20260628050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Jordania vs. Argentina</title></programme>
+  <programme start="20260628050000 +0000" stop="20260628060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260628060000 +0000" stop="20260628080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo J: Jordania vs. Argentina</title></programme>
+  <programme start="20260628080000 +0000" stop="20260628083000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Uruguay vs. España</title></programme>
+  <programme start="20260628083000 +0000" stop="20260628090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Noruega vs. Francia</title></programme>
+  <programme start="20260628090000 +0000" stop="20260628093000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Uruguay vs. España</title></programme>
+  <programme start="20260628093000 +0000" stop="20260628100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Noruega vs. Francia</title></programme>
+  <programme start="20260628100000 +0000" stop="20260628120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo J: Jordania vs. Argentina</title></programme>
+  <programme start="20260628120000 +0000" stop="20260628123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Colombia vs. Portugal</title></programme>
+  <programme start="20260628123000 +0000" stop="20260628130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Jordania vs. Argentina</title></programme>
+  <programme start="20260628130000 +0000" stop="20260628143000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
+  <programme start="20260628143000 +0000" stop="20260628160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
+  <programme start="20260628160000 +0000" stop="20260628180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260628180000 +0000" stop="20260628184800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Previa: Copa Mundial de la FIFA 2026</title></programme>
+  <programme start="20260628184800 +0000" stop="20260628210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026</title></programme>
+  <programme start="20260628210000 +0000" stop="20260628223000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así</title></programme>
+  <programme start="20260628223000 +0000" stop="20260628230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial Total</title></programme>
+  <programme start="20260628230000 +0000" stop="20260629000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
   <programme start="20260623071500 +0000" stop="20260623090000 +0000" channel="CaracolTVCanal1HD(CARAHD).co"><title>También caerás</title><desc>Un programa alegre y espontáneo con cámaras escondidas que presentan situaciones muy divertidas.</desc><category>Show</category><category>Series</category><category>Comedy</category><category>Reality</category><icon src="https://zpmc.tmsimg.com/assets/p499258_b_h9_ad.jpg" /><series-id system="tms">499258-es</series-id><date>19990108</date><previously-shown /><episode-num system="tms">SH003588690000-1782198900</episode-num><episode-num system="dd_progid">SH00358869.0000</episode-num><rating><value>TV-G</value></rating><credits><actor>Omar Murillo</actor><actor>Carlos Martínez</actor><actor>Juan Carlos Villegas</actor></credits><video><quality>HDTV</quality></video></programme>
   <programme start="20260623090000 +0000" stop="20260623100000 +0000" channel="CaracolTVCanal1HD(CARAHD).co"><title>Televentas</title><category>Show</category><category>Paid Programming</category><category>Consumer</category><icon src="https://zpmc.tmsimg.com/assets/p24975207_st_h9_aa.jpg" /><series-id system="tms">24975207-es</series-id><previously-shown /><episode-num system="tms">SH047776810000-1782205200</episode-num><episode-num system="dd_progid">SH04777681.0000</episode-num><video><quality>HDTV</quality></video></programme>
   <programme start="20260623100000 +0000" stop="20260623101500 +0000" channel="CaracolTVCanal1HD(CARAHD).co"><title>La finca de hoy</title><desc>Programa dedicado a la producción agropecuaria y los temas relacionados con el campo y su gente.</desc><category>Show</category><category>Series</category><category>Agriculture</category><icon src="https://zpmc.tmsimg.com/assets/p767784_b_h9_ad.jpg" /><series-id system="tms">767784-es</series-id><date>20050410</date><previously-shown /><episode-num system="tms">SH007425440000-1782208800</episode-num><episode-num system="dd_progid">SH00742544.0000</episode-num><credits><actor>Erika Zapata</actor></credits><video><quality>HDTV</quality></video></programme>
