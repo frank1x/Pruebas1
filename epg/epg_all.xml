@@ -5,38 +5,22 @@
   <channel id="SonyMovies(SONYML).co"><lcn>123608</lcn><display-name>Sony Movies</display-name><display-name>SONYML</display-name><display-name>Sony Movies</display-name><icon src="https://emby.tmsimg.com/assets/s124605_ll_h15_aa.png" /></channel>
   <channel id="ETCTV(ETCHILE).cl"><lcn>47485</lcn><display-name>ETC TV</display-name><display-name>ETCHILE</display-name><display-name>ETC TV</display-name><icon src="https://emby.tmsimg.com/assets/s47485_ll_h15_aa.png" /></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20260704010000 +0000" stop="20260704011800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Colombia vs. Ghana</title></programme>
-  <programme start="20260704011800 +0000" stop="20260704043000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Colombia vs. Ghana</title></programme>
-  <programme start="20260704043000 +0000" stop="20260704063000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Colombia</title></programme>
-  <programme start="20260704063000 +0000" stop="20260704083000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Colombia vs. Ghana</title></programme>
-  <programme start="20260704083000 +0000" stop="20260704090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: España vs. Austria</title></programme>
-  <programme start="20260704090000 +0000" stop="20260704093000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: España vs. Austria</title></programme>
-  <programme start="20260704093000 +0000" stop="20260704100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Inglaterra vs. RD Congo</title></programme>
-  <programme start="20260704100000 +0000" stop="20260704120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Australia vs. Egipto</title></programme>
-  <programme start="20260704120000 +0000" stop="20260704123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Cabo Verde</title></programme>
-  <programme start="20260704123000 +0000" stop="20260704130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Colombia vs. Ghana</title></programme>
-  <programme start="20260704130000 +0000" stop="20260704143000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
-  <programme start="20260704143000 +0000" stop="20260704160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
-  <programme start="20260704160000 +0000" stop="20260704164800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Octavos de final: Canadá vs. Marruecos</title></programme>
-  <programme start="20260704164800 +0000" stop="20260704200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Octavos de final: Canadá vs. Marruecos</title></programme>
-  <programme start="20260704200000 +0000" stop="20260704204800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Paraguay vs. Francia</title></programme>
-  <programme start="20260704204800 +0000" stop="20260705000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Octavos de final: Paraguay vs. Francia</title></programme>
   <programme start="20260705000000 +0000" stop="20260705030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
   <programme start="20260705030000 +0000" stop="20260705033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Argentina vs. Cabo Verde</title></programme>
   <programme start="20260705033000 +0000" stop="20260705040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Colombia vs. Ghana</title></programme>
-  <programme start="20260705040000 +0000" stop="20260705060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Octavos de final: Canadá vs. Marruecos</title></programme>
-  <programme start="20260705060000 +0000" stop="20260705080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Octavos de final: Paraguay vs. Francia</title></programme>
+  <programme start="20260705040000 +0000" stop="20260705060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Canadá vs. Marruecos</title></programme>
+  <programme start="20260705060000 +0000" stop="20260705080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Paraguay vs. Francia</title></programme>
   <programme start="20260705080000 +0000" stop="20260705083000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Colombia vs. Ghana</title></programme>
   <programme start="20260705083000 +0000" stop="20260705090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Argentina vs. Cabo Verde</title></programme>
   <programme start="20260705090000 +0000" stop="20260705093000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Colombia vs. Ghana</title></programme>
   <programme start="20260705093000 +0000" stop="20260705100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Argentina vs. Cabo Verde</title></programme>
-  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Octavos de final: Paraguay vs. Francia</title></programme>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Paraguay vs. Francia</title></programme>
   <programme start="20260705120000 +0000" stop="20260705123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Canadá vs. Marruecos</title></programme>
   <programme start="20260705123000 +0000" stop="20260705130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Paraguay vs. Francia</title></programme>
   <programme start="20260705130000 +0000" stop="20260705150000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
   <programme start="20260705150000 +0000" stop="20260705170000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
   <programme start="20260705170000 +0000" stop="20260705190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así</title></programme>
-  <programme start="20260705190000 +0000" stop="20260705194800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Brasil vs. Noruega</title></programme>
+  <programme start="20260705190000 +0000" stop="20260705194800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Octavos de final: Brasil vs. Noruega</title></programme>
   <programme start="20260705194800 +0000" stop="20260705230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Octavos de final: Brasil vs. Noruega</title></programme>
   <programme start="20260705230000 +0000" stop="20260705234800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Octavos de final: México vs. Inglaterra</title></programme>
   <programme start="20260705234800 +0000" stop="20260706030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">México vs. Inglaterra</title></programme>
@@ -57,6 +41,24 @@
   <programme start="20260706210000 +0000" stop="20260706230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
   <programme start="20260706230000 +0000" stop="20260706234800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Octavos de final: Estados Unidos vs. Bélgica</title></programme>
   <programme start="20260706234800 +0000" stop="20260707020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Estados Unidos vs. Bélgica</title></programme>
+  <programme start="20260707020000 +0000" stop="20260707030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260707030000 +0000" stop="20260707033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Brasil vs. Noruega</title></programme>
+  <programme start="20260707033000 +0000" stop="20260707040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: México vs. Inglaterra</title></programme>
+  <programme start="20260707040000 +0000" stop="20260707060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Portugal vs. España</title></programme>
+  <programme start="20260707060000 +0000" stop="20260707080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Estados Unidos vs. Bélgica</title></programme>
+  <programme start="20260707080000 +0000" stop="20260707083000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: México vs. Inglaterra</title></programme>
+  <programme start="20260707083000 +0000" stop="20260707090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Canadá vs. Marruecos</title></programme>
+  <programme start="20260707090000 +0000" stop="20260707093000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Portugal vs. España</title></programme>
+  <programme start="20260707093000 +0000" stop="20260707100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Estados Unidos vs. Bélgica</title></programme>
+  <programme start="20260707100000 +0000" stop="20260707120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
+  <programme start="20260707120000 +0000" stop="20260707140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
+  <programme start="20260707140000 +0000" stop="20260707154800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Previa: Copa Mundial de la FIFA 2026</title></programme>
+  <programme start="20260707154800 +0000" stop="20260707180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026</title></programme>
+  <programme start="20260707180000 +0000" stop="20260707190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial FIFA 2026: Análisis</title></programme>
+  <programme start="20260707190000 +0000" stop="20260707194800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Previa: Copa Mundial de la FIFA 2026</title></programme>
+  <programme start="20260707194800 +0000" stop="20260707220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026</title></programme>
+  <programme start="20260707220000 +0000" stop="20260707230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial FIFA 2026: Análisis</title></programme>
+  <programme start="20260707230000 +0000" stop="20260708000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
   <programme start="20260623071500 +0000" stop="20260623090000 +0000" channel="CaracolTVCanal1HD(CARAHD).co"><title>También caerás</title><desc>Un programa alegre y espontáneo con cámaras escondidas que presentan situaciones muy divertidas.</desc><category>Show</category><category>Series</category><category>Comedy</category><category>Reality</category><icon src="https://zpmc.tmsimg.com/assets/p499258_b_h9_ad.jpg" /><series-id system="tms">499258-es</series-id><date>19990108</date><previously-shown /><episode-num system="tms">SH003588690000-1782198900</episode-num><episode-num system="dd_progid">SH00358869.0000</episode-num><rating><value>TV-G</value></rating><credits><actor>Omar Murillo</actor><actor>Carlos Martínez</actor><actor>Juan Carlos Villegas</actor></credits><video><quality>HDTV</quality></video></programme>
   <programme start="20260623090000 +0000" stop="20260623100000 +0000" channel="CaracolTVCanal1HD(CARAHD).co"><title>Televentas</title><category>Show</category><category>Paid Programming</category><category>Consumer</category><icon src="https://zpmc.tmsimg.com/assets/p24975207_st_h9_aa.jpg" /><series-id system="tms">24975207-es</series-id><previously-shown /><episode-num system="tms">SH047776810000-1782205200</episode-num><episode-num system="dd_progid">SH04777681.0000</episode-num><video><quality>HDTV</quality></video></programme>
   <programme start="20260623100000 +0000" stop="20260623101500 +0000" channel="CaracolTVCanal1HD(CARAHD).co"><title>La finca de hoy</title><desc>Programa dedicado a la producción agropecuaria y los temas relacionados con el campo y su gente.</desc><category>Show</category><category>Series</category><category>Agriculture</category><icon src="https://zpmc.tmsimg.com/assets/p767784_b_h9_ad.jpg" /><series-id system="tms">767784-es</series-id><date>20050410</date><previously-shown /><episode-num system="tms">SH007425440000-1782208800</episode-num><episode-num system="dd_progid">SH00742544.0000</episode-num><credits><actor>Erika Zapata</actor></credits><video><quality>HDTV</quality></video></programme>
