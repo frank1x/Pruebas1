@@ -2,28 +2,15 @@
 <tv generator-info-name="EPG Processor">
   <channel id="DSPORTS.(ARG).dtvsp"><display-name lang="en">DSPORTS (ARG)</display-name><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><url>http://www.directvsports.com</url></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20260711020000 +0000" stop="20260711040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Argelia</title></programme>
-  <programme start="20260711040000 +0000" stop="20260711060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grupo J: Argentina vs. Austria</title></programme>
-  <programme start="20260711060000 +0000" stop="20260711080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Jordania vs. Argentina</title></programme>
-  <programme start="20260711080000 +0000" stop="20260711083000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Cabo Verde</title></programme>
-  <programme start="20260711083000 +0000" stop="20260711090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Argentina vs. Egipto</title></programme>
-  <programme start="20260711090000 +0000" stop="20260711110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Cabo Verde</title></programme>
-  <programme start="20260711110000 +0000" stop="20260711130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Egipto</title></programme>
-  <programme start="20260711130000 +0000" stop="20260711150000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
-  <programme start="20260711150000 +0000" stop="20260711170000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Mundial</title></programme>
-  <programme start="20260711170000 +0000" stop="20260711183000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260711183000 +0000" stop="20260711200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
-  <programme start="20260711200000 +0000" stop="20260711204800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Noruega vs. Inglaterra</title></programme>
-  <programme start="20260711204800 +0000" stop="20260712000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Noruega vs. Inglaterra</title></programme>
   <programme start="20260712000000 +0000" stop="20260712004800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Suiza</title></programme>
-  <programme start="20260712004800 +0000" stop="20260712040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Cuartos de final: Argentina vs. Suiza</title></programme>
+  <programme start="20260712004800 +0000" stop="20260712040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Suiza</title></programme>
   <programme start="20260712040000 +0000" stop="20260712043000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Suiza</title></programme>
   <programme start="20260712043000 +0000" stop="20260712060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260712060000 +0000" stop="20260712080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Cuartos de final: Argentina vs. Suiza</title></programme>
+  <programme start="20260712060000 +0000" stop="20260712080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Suiza</title></programme>
   <programme start="20260712080000 +0000" stop="20260712090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
   <programme start="20260712090000 +0000" stop="20260712093000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: España vs. Bélgica</title></programme>
   <programme start="20260712093000 +0000" stop="20260712100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Francia vs. Marruecos</title></programme>
-  <programme start="20260712100000 +0000" stop="20260712120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Cuartos de final: Argentina vs. Suiza</title></programme>
+  <programme start="20260712100000 +0000" stop="20260712120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Suiza</title></programme>
   <programme start="20260712120000 +0000" stop="20260712123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Noruega vs. Inglaterra</title></programme>
   <programme start="20260712123000 +0000" stop="20260712130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Argentina vs. Suiza</title></programme>
   <programme start="20260712130000 +0000" stop="20260712150000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
@@ -34,7 +21,7 @@
   <programme start="20260712230000 +0000" stop="20260713000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
   <programme start="20260713000000 +0000" stop="20260713010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial Total</title></programme>
   <programme start="20260713010000 +0000" stop="20260713030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260713030000 +0000" stop="20260713050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Cuartos de final: Argentina vs. Suiza</title></programme>
+  <programme start="20260713030000 +0000" stop="20260713050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Suiza</title></programme>
   <programme start="20260713050000 +0000" stop="20260713070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Noruega vs. Inglaterra</title></programme>
   <programme start="20260713070000 +0000" stop="20260713090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">España vs. Bélgica</title></programme>
   <programme start="20260713090000 +0000" stop="20260713093000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Noruega vs. Inglaterra</title></programme>
@@ -48,4 +35,23 @@
   <programme start="20260713190000 +0000" stop="20260713210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así</title></programme>
   <programme start="20260713210000 +0000" stop="20260713230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
   <programme start="20260713230000 +0000" stop="20260714000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
+  <programme start="20260714000000 +0000" stop="20260714010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial Total</title></programme>
+  <programme start="20260714010000 +0000" stop="20260714020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260714020000 +0000" stop="20260714040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">España vs. Bélgica</title></programme>
+  <programme start="20260714040000 +0000" stop="20260714060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Suiza</title></programme>
+  <programme start="20260714060000 +0000" stop="20260714080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Francia vs. Marruecos</title></programme>
+  <programme start="20260714080000 +0000" stop="20260714083000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Argentina vs. Suiza</title></programme>
+  <programme start="20260714083000 +0000" stop="20260714090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Noruega vs. Inglaterra</title></programme>
+  <programme start="20260714090000 +0000" stop="20260714093000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: España vs. Bélgica</title></programme>
+  <programme start="20260714093000 +0000" stop="20260714100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Noruega vs. Inglaterra</title></programme>
+  <programme start="20260714100000 +0000" stop="20260714120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Francia vs. Marruecos</title></programme>
+  <programme start="20260714120000 +0000" stop="20260714123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026: Argentina vs. Suiza</title></programme>
+  <programme start="20260714123000 +0000" stop="20260714130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Francia vs. Marruecos</title></programme>
+  <programme start="20260714130000 +0000" stop="20260714150000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
+  <programme start="20260714150000 +0000" stop="20260714163000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
+  <programme start="20260714163000 +0000" stop="20260714180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así</title></programme>
+  <programme start="20260714180000 +0000" stop="20260714184800 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Previa: Copa Mundial de la FIFA 2026</title></programme>
+  <programme start="20260714184800 +0000" stop="20260714210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026</title></programme>
+  <programme start="20260714210000 +0000" stop="20260714230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
+  <programme start="20260714230000 +0000" stop="20260715000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Mundial Total</title></programme>
 </tv>
