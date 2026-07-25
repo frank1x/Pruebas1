@@ -2,25 +2,6 @@
 <tv generator-info-name="EPG Processor">
   <channel id="DSPORTS.(ARG).dtvsp"><display-name lang="en">DSPORTS (ARG)</display-name><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><url>http://www.directvsports.com</url></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20260724000000 +0000" stop="20260724002000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Independiente Santa Fe vs. Caracas FC</title></programme>
-  <programme start="20260724002000 +0000" stop="20260724023000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Independiente Santa Fe vs. Caracas</title></programme>
-  <programme start="20260724023000 +0000" stop="20260724043000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260724043000 +0000" stop="20260724063000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Independiente Santa Fe vs. Caracas</title></programme>
-  <programme start="20260724063000 +0000" stop="20260724070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Lanús vs. Cienciano</title></programme>
-  <programme start="20260724070000 +0000" stop="20260724090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Nacional vs. Tigre</title></programme>
-  <programme start="20260724090000 +0000" stop="20260724100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260724100000 +0000" stop="20260724120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Nacional vs. Tigre</title></programme>
-  <programme start="20260724120000 +0000" stop="20260724123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Lanús vs. Cienciano</title></programme>
-  <programme start="20260724123000 +0000" stop="20260724133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260724133000 +0000" stop="20260724140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Boca Juniors vs. O'higgins</title></programme>
-  <programme start="20260724140000 +0000" stop="20260724160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260724160000 +0000" stop="20260724163000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Boca Juniors vs. O'higgins</title></programme>
-  <programme start="20260724163000 +0000" stop="20260724170000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Lanús vs. Cienciano</title></programme>
-  <programme start="20260724170000 +0000" stop="20260724173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Nacional vs. Tigre</title></programme>
-  <programme start="20260724173000 +0000" stop="20260724180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Boca Juniors vs. O'higgins</title></programme>
-  <programme start="20260724180000 +0000" stop="20260724200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260724200000 +0000" stop="20260724220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Nacional vs. Tigre</title></programme>
-  <programme start="20260724220000 +0000" stop="20260725000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Lanús vs. Cienciano</title></programme>
   <programme start="20260725000000 +0000" stop="20260725010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Magazine CONMEBOL Sudamericana</title></programme>
   <programme start="20260725010000 +0000" stop="20260725030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
   <programme start="20260725030000 +0000" stop="20260725050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Boca Juniors vs. O'Higgins</title></programme>
@@ -30,22 +11,42 @@
   <programme start="20260725090000 +0000" stop="20260725100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
   <programme start="20260725100000 +0000" stop="20260725120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Nacional vs. Tigre</title></programme>
   <programme start="20260725120000 +0000" stop="20260725130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260725130000 +0000" stop="20260725140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Todo en 30</title></programme>
-  <programme start="20260725140000 +0000" stop="20260725180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026</title></programme>
-  <programme start="20260725180000 +0000" stop="20260725210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Final: España vs. Argentina</title></programme>
-  <programme start="20260725210000 +0000" stop="20260725213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlas, la otra pasión</title></programme>
-  <programme start="20260725213000 +0000" stop="20260725220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Las canciones de los mundiales</title></programme>
-  <programme start="20260725220000 +0000" stop="20260726000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Nacional vs. Tigre</title></programme>
-  <programme start="20260726000000 +0000" stop="20260726013000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260726013000 +0000" stop="20260726033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Lanús vs. Cienciano</title></programme>
-  <programme start="20260726033000 +0000" stop="20260726050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260726050000 +0000" stop="20260726070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Nacional vs. Tigre</title></programme>
+  <programme start="20260725130000 +0000" stop="20260725150000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Lanús vs. Cienciano</title></programme>
+  <programme start="20260725150000 +0000" stop="20260725160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Magazine CONMEBOL Sudamericana</title></programme>
+  <programme start="20260725160000 +0000" stop="20260725163000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana 2014: River Plate vs. Boca Juniors</title></programme>
+  <programme start="20260725163000 +0000" stop="20260725183000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Nacional vs. Tigre</title></programme>
+  <programme start="20260725183000 +0000" stop="20260725193000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Magazine CONMEBOL Sudamericana</title></programme>
+  <programme start="20260725193000 +0000" stop="20260725213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Boca Juniors vs. O'Higgins</title></programme>
+  <programme start="20260725213000 +0000" stop="20260725220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlas, la otra pasión</title></programme>
+  <programme start="20260725220000 +0000" stop="20260725230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260725230000 +0000" stop="20260726023000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">BKFC Fight Night Uruguay</title></programme>
+  <programme start="20260726023000 +0000" stop="20260726033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260726033000 +0000" stop="20260726053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Nacional vs. Tigre</title></programme>
+  <programme start="20260726053000 +0000" stop="20260726060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlas, la otra pasión</title></programme>
+  <programme start="20260726060000 +0000" stop="20260726070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
   <programme start="20260726070000 +0000" stop="20260726090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Lanús vs. Cienciano</title></programme>
-  <programme start="20260726090000 +0000" stop="20260726103000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260726103000 +0000" stop="20260726123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Lanús vs. Cienciano</title></programme>
-  <programme start="20260726123000 +0000" stop="20260726140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260726140000 +0000" stop="20260726160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Nacional vs. Tigre</title></programme>
-  <programme start="20260726160000 +0000" stop="20260726170000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Todo en 30</title></programme>
-  <programme start="20260726170000 +0000" stop="20260726210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Mundial de la FIFA 2026</title></programme>
-  <programme start="20260726210000 +0000" stop="20260727000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Final: España vs. Argentina</title></programme>
+  <programme start="20260726090000 +0000" stop="20260726110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Boca Juniors vs. O'Higgins</title></programme>
+  <programme start="20260726110000 +0000" stop="20260726120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260726120000 +0000" stop="20260726130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Magazine CONMEBOL Sudamericana</title></programme>
+  <programme start="20260726130000 +0000" stop="20260726150000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Nacional vs. Tigre</title></programme>
+  <programme start="20260726150000 +0000" stop="20260726170000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Boca Juniors vs. O'Higgins</title></programme>
+  <programme start="20260726170000 +0000" stop="20260726180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Magazine CONMEBOL Sudamericana</title></programme>
+  <programme start="20260726180000 +0000" stop="20260726200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Lanús vs. Cienciano</title></programme>
+  <programme start="20260726200000 +0000" stop="20260727003000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Washington, D.C.</title></programme>
+  <programme start="20260727003000 +0000" stop="20260727020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260727020000 +0000" stop="20260727040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Lanús vs. Cienciano</title></programme>
+  <programme start="20260727040000 +0000" stop="20260727070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260727070000 +0000" stop="20260727090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Nacional vs. Tigre</title></programme>
+  <programme start="20260727090000 +0000" stop="20260727103000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260727103000 +0000" stop="20260727113000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Magazine CONMEBOL Sudamericana</title></programme>
+  <programme start="20260727113000 +0000" stop="20260727120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Boca Juniors vs. O'higgins</title></programme>
+  <programme start="20260727120000 +0000" stop="20260727133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260727133000 +0000" stop="20260727140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Todo en 30</title></programme>
+  <programme start="20260727140000 +0000" stop="20260727160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260727160000 +0000" stop="20260727173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
+  <programme start="20260727173000 +0000" stop="20260727190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260727190000 +0000" stop="20260727200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
+  <programme start="20260727200000 +0000" stop="20260727220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
+  <programme start="20260727220000 +0000" stop="20260727230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
+  <programme start="20260727230000 +0000" stop="20260728010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Lanús vs. Cienciano</title></programme>
 </tv>
