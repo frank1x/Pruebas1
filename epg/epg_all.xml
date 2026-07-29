@@ -2,26 +2,6 @@
 <tv generator-info-name="EPG Processor">
   <channel id="DSPORTS.(ARG).dtvsp"><display-name lang="en">DSPORTS (ARG)</display-name><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><url>http://www.directvsports.com</url></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20260728010000 +0000" stop="20260728020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Magazine CONMEBOL Sudamericana</title></programme>
-  <programme start="20260728020000 +0000" stop="20260728030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260728030000 +0000" stop="20260728033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana 2014: River Plate vs. Boca Juniors</title></programme>
-  <programme start="20260728033000 +0000" stop="20260728040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Independiente Medellín vs. Vasco Da Gama</title></programme>
-  <programme start="20260728040000 +0000" stop="20260728060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Nacional vs. Tigre</title></programme>
-  <programme start="20260728060000 +0000" stop="20260728070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260728070000 +0000" stop="20260728090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Lanús vs. Cienciano</title></programme>
-  <programme start="20260728090000 +0000" stop="20260728110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260728110000 +0000" stop="20260728130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Boca Juniors vs. O'Higgins</title></programme>
-  <programme start="20260728130000 +0000" stop="20260728133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Creencias, mitos y cábalas en el fútbol</title></programme>
-  <programme start="20260728133000 +0000" stop="20260728140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Independiente Medellín vs. Vasco Da Gama</title></programme>
-  <programme start="20260728140000 +0000" stop="20260728160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260728160000 +0000" stop="20260728173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
-  <programme start="20260728173000 +0000" stop="20260728190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260728190000 +0000" stop="20260728200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
-  <programme start="20260728200000 +0000" stop="20260728220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
-  <programme start="20260728220000 +0000" stop="20260728230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
-  <programme start="20260728230000 +0000" stop="20260728233000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Jugadores con redención</title></programme>
-  <programme start="20260728233000 +0000" stop="20260729000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Independiente Santa Fe vs. Caracas</title></programme>
-  <programme start="20260729000000 +0000" stop="20260729002000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Santos vs. Universidad Central</title></programme>
   <programme start="20260729002000 +0000" stop="20260729023000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Santos vs. Universidad Central</title></programme>
   <programme start="20260729023000 +0000" stop="20260729033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
   <programme start="20260729033000 +0000" stop="20260729040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Independiente Santa Fe vs. Caracas</title></programme>
@@ -56,4 +36,21 @@
   <programme start="20260730190000 +0000" stop="20260730200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
   <programme start="20260730200000 +0000" stop="20260730230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Especial Conmebol Sudamericana 2026</title></programme>
   <programme start="20260730230000 +0000" stop="20260731000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Boca Juniors vs. O'Higgins</title></programme>
+  <programme start="20260731000000 +0000" stop="20260731002000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: O'Higgins vs. Boca Juniors</title></programme>
+  <programme start="20260731002000 +0000" stop="20260731023000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">O'Higgins vs. Boca Juniors</title></programme>
+  <programme start="20260731023000 +0000" stop="20260731040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260731040000 +0000" stop="20260731060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">O'Higgins vs. Boca Juniors</title></programme>
+  <programme start="20260731060000 +0000" stop="20260731070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260731070000 +0000" stop="20260731090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">O'Higgins vs. Boca Juniors</title></programme>
+  <programme start="20260731090000 +0000" stop="20260731110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260731110000 +0000" stop="20260731130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">O'Higgins vs. Boca Juniors</title></programme>
+  <programme start="20260731130000 +0000" stop="20260731133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Batacazos de la Copa Sudamericana</title></programme>
+  <programme start="20260731133000 +0000" stop="20260731140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: O'higgins vs. Boca Juniors</title></programme>
+  <programme start="20260731140000 +0000" stop="20260731160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
+  <programme start="20260731160000 +0000" stop="20260731173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
+  <programme start="20260731173000 +0000" stop="20260731190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260731190000 +0000" stop="20260731200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
+  <programme start="20260731200000 +0000" stop="20260731220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
+  <programme start="20260731220000 +0000" stop="20260731230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
+  <programme start="20260731230000 +0000" stop="20260801000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
 </tv>
