@@ -2,23 +2,6 @@
 <tv generator-info-name="EPG Processor">
   <channel id="DSPORTS.(ARG).dtvsp"><display-name lang="en">DSPORTS (ARG)</display-name><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><url>http://www.directvsports.com</url></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20260729002000 +0000" stop="20260729023000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Santos vs. Universidad Central</title></programme>
-  <programme start="20260729023000 +0000" stop="20260729033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260729033000 +0000" stop="20260729040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Independiente Santa Fe vs. Caracas</title></programme>
-  <programme start="20260729040000 +0000" stop="20260729060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Santos vs. Universidad Central</title></programme>
-  <programme start="20260729060000 +0000" stop="20260729070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260729070000 +0000" stop="20260729090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Santos vs. Universidad Central</title></programme>
-  <programme start="20260729090000 +0000" stop="20260729110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260729110000 +0000" stop="20260729130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Santos vs. Universidad Central</title></programme>
-  <programme start="20260729130000 +0000" stop="20260729133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Creencias, mitos y cábalas en el fútbol, parte 2</title></programme>
-  <programme start="20260729133000 +0000" stop="20260729140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Tigre vs. Nacional</title></programme>
-  <programme start="20260729140000 +0000" stop="20260729160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260729160000 +0000" stop="20260729173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
-  <programme start="20260729173000 +0000" stop="20260729190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260729190000 +0000" stop="20260729200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
-  <programme start="20260729200000 +0000" stop="20260729213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
-  <programme start="20260729213000 +0000" stop="20260729215000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Vasco da Gama vs. Independiente Medellín</title></programme>
-  <programme start="20260729215000 +0000" stop="20260730000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Vasco da Gama vs. Independiente Medellín</title></programme>
   <programme start="20260730000000 +0000" stop="20260730002000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: RB Bragantino vs. Sporting Cristal</title></programme>
   <programme start="20260730002000 +0000" stop="20260730023000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Red Bull Bragantino vs. Sporting Cristal</title></programme>
   <programme start="20260730023000 +0000" stop="20260730033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
@@ -53,4 +36,22 @@
   <programme start="20260731200000 +0000" stop="20260731220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
   <programme start="20260731220000 +0000" stop="20260731230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
   <programme start="20260731230000 +0000" stop="20260801000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260801000000 +0000" stop="20260801010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Magazine CONMEBOL Sudamericana</title></programme>
+  <programme start="20260801010000 +0000" stop="20260801013000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Jugadores con redención</title></programme>
+  <programme start="20260801013000 +0000" stop="20260801033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">O'Higgins vs. Boca Juniors</title></programme>
+  <programme start="20260801033000 +0000" stop="20260801053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Santos vs. Universidad Central</title></programme>
+  <programme start="20260801053000 +0000" stop="20260801060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: O'higgins vs. Boca Juniors</title></programme>
+  <programme start="20260801060000 +0000" stop="20260801070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260801070000 +0000" stop="20260801090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Brasil vs. Italia</title></programme>
+  <programme start="20260801090000 +0000" stop="20260801110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260801110000 +0000" stop="20260801112500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Messi blaugrana: El baile del siglo</title></programme>
+  <programme start="20260801112500 +0000" stop="20260801133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Semifinal 2: Equipos por confirmar</title></programme>
+  <programme start="20260801133000 +0000" stop="20260801153000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Santos vs. Universidad Central</title></programme>
+  <programme start="20260801153000 +0000" stop="20260801160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Juan Fernando Quintero</title></programme>
+  <programme start="20260801160000 +0000" stop="20260801180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Red Bull Bragantino vs. Sporting Cristal</title></programme>
+  <programme start="20260801180000 +0000" stop="20260801183000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlas, la otra pasión</title></programme>
+  <programme start="20260801183000 +0000" stop="20260801202500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">O'Higgins vs. Boca Juniors</title></programme>
+  <programme start="20260801202500 +0000" stop="20260801223000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Vasco da Gama vs. Fluminense</title></programme>
+  <programme start="20260801223000 +0000" stop="20260801235500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260801235500 +0000" stop="20260802020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Santos vs. Remo</title></programme>
 </tv>
