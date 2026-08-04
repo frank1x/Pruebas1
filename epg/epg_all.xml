@@ -2,24 +2,6 @@
 <tv generator-info-name="EPG Processor">
   <channel id="DSPORTS.(ARG).dtvsp"><display-name lang="en">DSPORTS (ARG)</display-name><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><url>http://www.directvsports.com</url></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20260803003000 +0000" stop="20260803013000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260803013000 +0000" stop="20260803020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Definiciones Agónicas En La CONMEBOL Sudamericana 2024, Parte 1</title></programme>
-  <programme start="20260803020000 +0000" stop="20260803030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260803030000 +0000" stop="20260803053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">PSV vs. AZ</title></programme>
-  <programme start="20260803053000 +0000" stop="20260803060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Racing campeón de la Copa Sudamericana 2024</title></programme>
-  <programme start="20260803060000 +0000" stop="20260803070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260803070000 +0000" stop="20260803090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Internacional vs. Corinthians</title></programme>
-  <programme start="20260803090000 +0000" stop="20260803110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260803110000 +0000" stop="20260803130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Internacional vs. Corinthians</title></programme>
-  <programme start="20260803130000 +0000" stop="20260803133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Independiente Campeón Copa Sudamericana 2010</title></programme>
-  <programme start="20260803133000 +0000" stop="20260803140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Supercopa Países Bajos: PSV vs. Az Alkmaar</title></programme>
-  <programme start="20260803140000 +0000" stop="20260803160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
-  <programme start="20260803160000 +0000" stop="20260803173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
-  <programme start="20260803173000 +0000" stop="20260803190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260803190000 +0000" stop="20260803200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
-  <programme start="20260803200000 +0000" stop="20260803220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
-  <programme start="20260803220000 +0000" stop="20260803230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
-  <programme start="20260803230000 +0000" stop="20260804000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Más que fútbol</title></programme>
   <programme start="20260804000000 +0000" stop="20260804020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Internacional vs. Corinthians</title></programme>
   <programme start="20260804020000 +0000" stop="20260804030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
   <programme start="20260804030000 +0000" stop="20260804040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Más que fútbol</title></programme>
@@ -55,4 +37,23 @@
   <programme start="20260805200000 +0000" stop="20260805220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
   <programme start="20260805220000 +0000" stop="20260805230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
   <programme start="20260805230000 +0000" stop="20260806002500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260806002500 +0000" stop="20260806023000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fluminense vs. Vasco da Gama</title></programme>
+  <programme start="20260806023000 +0000" stop="20260806033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260806033000 +0000" stop="20260806040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa De Brasil: Remo vs. Santos</title></programme>
+  <programme start="20260806040000 +0000" stop="20260806050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260806050000 +0000" stop="20260806053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Perlas en la CONMEBOL Sudamericana</title></programme>
+  <programme start="20260806053000 +0000" stop="20260806060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa De Brasil: Remo vs. Santos</title></programme>
+  <programme start="20260806060000 +0000" stop="20260806070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260806070000 +0000" stop="20260806090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fluminense vs. Vasco da Gama</title></programme>
+  <programme start="20260806090000 +0000" stop="20260806110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260806110000 +0000" stop="20260806130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fluminense vs. Vasco da Gama</title></programme>
+  <programme start="20260806130000 +0000" stop="20260806133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana 2014: River Plate vs. Boca Juniors</title></programme>
+  <programme start="20260806133000 +0000" stop="20260806140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Amistoso italiano: Milan vs. Inter</title></programme>
+  <programme start="20260806140000 +0000" stop="20260806160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
+  <programme start="20260806160000 +0000" stop="20260806173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
+  <programme start="20260806173000 +0000" stop="20260806190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260806190000 +0000" stop="20260806200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
+  <programme start="20260806200000 +0000" stop="20260806220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
+  <programme start="20260806220000 +0000" stop="20260806225500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
+  <programme start="20260806225500 +0000" stop="20260807010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Corinthians vs. Internacional</title></programme>
 </tv>
