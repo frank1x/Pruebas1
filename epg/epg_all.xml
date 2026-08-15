@@ -2,21 +2,6 @@
 <tv generator-info-name="EPG Processor">
   <channel id="DSPORTS.(ARG).dtvsp"><display-name lang="en">DSPORTS (ARG)</display-name><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><url>http://www.directvsports.com</url></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20260814000000 +0000" stop="20260814003000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Goleadas en Copa Sudamericana</title></programme>
-  <programme start="20260814003000 +0000" stop="20260814010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Gabriela Sabatini</title></programme>
-  <programme start="20260814010000 +0000" stop="20260814030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260814030000 +0000" stop="20260814050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Boca Juniors vs. Recoleta FC</title></programme>
-  <programme start="20260814050000 +0000" stop="20260814070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Santos vs. Macará</title></programme>
-  <programme start="20260814070000 +0000" stop="20260814090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Bolívar vs. São Paulo</title></programme>
-  <programme start="20260814090000 +0000" stop="20260814110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260814110000 +0000" stop="20260814130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Boca Juniors vs. Recoleta FC</title></programme>
-  <programme start="20260814130000 +0000" stop="20260814133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Racing campeón de la Copa Sudamericana 2024</title></programme>
-  <programme start="20260814133000 +0000" stop="20260814140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Summer Friendlies: Deportivo La Coruña vs. Real Madrid</title></programme>
-  <programme start="20260814140000 +0000" stop="20260814155500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
-  <programme start="20260814155500 +0000" stop="20260814180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Parma vs. A confirmar</title></programme>
-  <programme start="20260814180000 +0000" stop="20260814191000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
-  <programme start="20260814191000 +0000" stop="20260814211500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fiorentina vs. A confirmar</title></programme>
-  <programme start="20260814211500 +0000" stop="20260814230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
   <programme start="20260814230000 +0000" stop="20260815000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
   <programme start="20260815000000 +0000" stop="20260815010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Magazine CONMEBOL Sudamericana</title></programme>
   <programme start="20260815010000 +0000" stop="20260815013000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Enzo Francescoli</title></programme>
@@ -29,15 +14,14 @@
   <programme start="20260815090000 +0000" stop="20260815110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
   <programme start="20260815110000 +0000" stop="20260815130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Parma vs. A confirmar</title></programme>
   <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grajeas del fútbol argentino</title></programme>
-  <programme start="20260815133000 +0000" stop="20260815152500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Boca Juniors vs. Recoleta FC</title></programme>
+  <programme start="20260815133000 +0000" stop="20260815152500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Sporting Club de Portugal vs. Vitória SC</title></programme>
   <programme start="20260815152500 +0000" stop="20260815173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Borussia Dortmund vs. Roma</title></programme>
   <programme start="20260815173000 +0000" stop="20260815183000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Magazine CONMEBOL Sudamericana</title></programme>
   <programme start="20260815183000 +0000" stop="20260815190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Jugadores con redención</title></programme>
-  <programme start="20260815190000 +0000" stop="20260815191000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Perlas En La Sudamericana: Parte 2</title></programme>
-  <programme start="20260815191000 +0000" stop="20260815211500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Torino vs. Carrarese</title></programme>
-  <programme start="20260815211500 +0000" stop="20260815213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Independiente Campeón Copa Sudamericana 2010</title></programme>
-  <programme start="20260815213000 +0000" stop="20260815220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Simplemente Diego: El Pelusa vs. El virrey del Fortín</title></programme>
-  <programme start="20260815220000 +0000" stop="20260816000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Venezia vs. Modena</title></programme>
+  <programme start="20260815190000 +0000" stop="20260815192500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Simplemente Diego: El Pelusa vs. El virrey del Fortín</title></programme>
+  <programme start="20260815192500 +0000" stop="20260815213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Rio Ave FC vs. FC Porto</title></programme>
+  <programme start="20260815213000 +0000" stop="20260815220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Los mundiales de Cristiano Ronaldo</title></programme>
+  <programme start="20260815220000 +0000" stop="20260816000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Tottenham Hotspur vs. TSG 1899 Hoffenheim</title></programme>
   <programme start="20260816000000 +0000" stop="20260816021500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Platense vs. Boca Juniors</title></programme>
   <programme start="20260816021500 +0000" stop="20260816033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
   <programme start="20260816033000 +0000" stop="20260816053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Borussia Dortmund vs. Roma</title></programme>
@@ -45,11 +29,30 @@
   <programme start="20260816054500 +0000" stop="20260816070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
   <programme start="20260816070000 +0000" stop="20260816090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Torino vs. Carrarese</title></programme>
   <programme start="20260816090000 +0000" stop="20260816113000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260816113000 +0000" stop="20260816133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Tottenham Hotspur vs. TSG 1899 Hoffenheim</title></programme>
+  <programme start="20260816113000 +0000" stop="20260816133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Rio Ave FC vs. FC Porto</title></programme>
   <programme start="20260816133000 +0000" stop="20260816143000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Magazine CONMEBOL Sudamericana</title></programme>
   <programme start="20260816143000 +0000" stop="20260816163000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Borussia Dortmund vs. Roma</title></programme>
   <programme start="20260816163000 +0000" stop="20260816165500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">LaLiga: Espanyol vs. Levante</title></programme>
   <programme start="20260816165500 +0000" stop="20260816205500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Espanyol vs. Levante</title></programme>
   <programme start="20260816205500 +0000" stop="20260816230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">River Plate vs. Argentinos Jrs</title></programme>
   <programme start="20260816230000 +0000" stop="20260817003000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260817003000 +0000" stop="20260817023000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Lazio vs. Mantova</title></programme>
+  <programme start="20260817023000 +0000" stop="20260817040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260817040000 +0000" stop="20260817060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Espanyol vs. Levante</title></programme>
+  <programme start="20260817060000 +0000" stop="20260817063000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Jugadores con redención</title></programme>
+  <programme start="20260817063000 +0000" stop="20260817070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Goleadas en Copa Sudamericana</title></programme>
+  <programme start="20260817070000 +0000" stop="20260817090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Genoa vs. A confirmar</title></programme>
+  <programme start="20260817090000 +0000" stop="20260817093000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Jugadores con redención</title></programme>
+  <programme start="20260817093000 +0000" stop="20260817110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260817110000 +0000" stop="20260817130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Espanyol vs. Levante</title></programme>
+  <programme start="20260817130000 +0000" stop="20260817133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Diego Simeone en Atlético de Madrid: Copas temporada 3</title></programme>
+  <programme start="20260817133000 +0000" stop="20260817140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Todo en 30</title></programme>
+  <programme start="20260817140000 +0000" stop="20260817160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
+  <programme start="20260817160000 +0000" stop="20260817173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
+  <programme start="20260817173000 +0000" stop="20260817183000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
+  <programme start="20260817183000 +0000" stop="20260817185500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">LaLiga: Deportivo La Coruña vs. Elche</title></programme>
+  <programme start="20260817185500 +0000" stop="20260817210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Deportivo de La Coruña vs. Elche</title></programme>
+  <programme start="20260817210000 +0000" stop="20260817220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
+  <programme start="20260817220000 +0000" stop="20260817230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
+  <programme start="20260817230000 +0000" stop="20260818000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
 </tv>
