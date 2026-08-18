@@ -2,25 +2,6 @@
 <tv generator-info-name="EPG Processor">
   <channel id="DSPORTS.(ARG).dtvsp"><display-name lang="en">DSPORTS (ARG)</display-name><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><url>http://www.directvsports.com</url></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20260817003000 +0000" stop="20260817023000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Lazio vs. Mantova</title></programme>
-  <programme start="20260817023000 +0000" stop="20260817040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260817040000 +0000" stop="20260817060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Espanyol vs. Levante</title></programme>
-  <programme start="20260817060000 +0000" stop="20260817063000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Juan Fernando Quintero</title></programme>
-  <programme start="20260817063000 +0000" stop="20260817070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Goleadas en Copa Sudamericana</title></programme>
-  <programme start="20260817070000 +0000" stop="20260817090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Genoa vs. Ascoli</title></programme>
-  <programme start="20260817090000 +0000" stop="20260817093000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Jugadores con redención</title></programme>
-  <programme start="20260817093000 +0000" stop="20260817110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260817110000 +0000" stop="20260817130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Espanyol vs. Levante</title></programme>
-  <programme start="20260817130000 +0000" stop="20260817133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Diego Simeone en Atlético de Madrid: Copas temporada 3</title></programme>
-  <programme start="20260817133000 +0000" stop="20260817140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Liga de Portugal: Rio Ave vs. Porto</title></programme>
-  <programme start="20260817140000 +0000" stop="20260817160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
-  <programme start="20260817160000 +0000" stop="20260817173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
-  <programme start="20260817173000 +0000" stop="20260817183000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
-  <programme start="20260817183000 +0000" stop="20260817185500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">LaLiga: Deportivo La Coruña vs. Elche</title></programme>
-  <programme start="20260817185500 +0000" stop="20260817210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Deportivo de La Coruña vs. Elche</title></programme>
-  <programme start="20260817210000 +0000" stop="20260817220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
-  <programme start="20260817220000 +0000" stop="20260817230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
-  <programme start="20260817230000 +0000" stop="20260818000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
   <programme start="20260818000000 +0000" stop="20260818010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Más que fútbol</title></programme>
   <programme start="20260818010000 +0000" stop="20260818020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
   <programme start="20260818020000 +0000" stop="20260818040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Deportivo de La Coruña vs. Elche</title></programme>
@@ -58,4 +39,23 @@
   <programme start="20260819210000 +0000" stop="20260819220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
   <programme start="20260819220000 +0000" stop="20260819230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
   <programme start="20260819230000 +0000" stop="20260820000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
+  <programme start="20260820000000 +0000" stop="20260820002000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Torque vs. Tigre</title></programme>
+  <programme start="20260820002000 +0000" stop="20260820023000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Montevideo City Torque vs. Tigre</title></programme>
+  <programme start="20260820023000 +0000" stop="20260820040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260820040000 +0000" stop="20260820043000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Liga de Portugal: Casa Pia vs. Benfica</title></programme>
+  <programme start="20260820043000 +0000" stop="20260820053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260820053000 +0000" stop="20260820060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Liga de Portugal: Casa Pia vs. Benfica</title></programme>
+  <programme start="20260820060000 +0000" stop="20260820070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Básquet</title></programme>
+  <programme start="20260820070000 +0000" stop="20260820090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Montevideo City Torque vs. Tigre</title></programme>
+  <programme start="20260820090000 +0000" stop="20260820110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20260820110000 +0000" stop="20260820130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Montevideo City Torque vs. Tigre</title></programme>
+  <programme start="20260820130000 +0000" stop="20260820133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grajeas del fútbol argentino</title></programme>
+  <programme start="20260820133000 +0000" stop="20260820140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Laliga: Atlético de Madrid vs. Málaga</title></programme>
+  <programme start="20260820140000 +0000" stop="20260820160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
+  <programme start="20260820160000 +0000" stop="20260820173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
+  <programme start="20260820173000 +0000" stop="20260820190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260820190000 +0000" stop="20260820200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
+  <programme start="20260820200000 +0000" stop="20260820213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
+  <programme start="20260820213000 +0000" stop="20260820230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
+  <programme start="20260820230000 +0000" stop="20260821000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
 </tv>
