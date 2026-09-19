@@ -2,23 +2,6 @@
 <tv generator-info-name="EPG Processor">
   <channel id="DSPORTS.(ARG).dtvsp"><display-name lang="en">DSPORTS (ARG)</display-name><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><url>http://www.directvsports.com</url></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20260918000000 +0000" stop="20260918003000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Los goles de Cristiano Ronaldo al Atlético de Madrid</title></programme>
-  <programme start="20260918003000 +0000" stop="20260918010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Manu Ginóbili</title></programme>
-  <programme start="20260918010000 +0000" stop="20260918030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260918030000 +0000" stop="20260918050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlético de Madrid vs. Osasuna</title></programme>
-  <programme start="20260918050000 +0000" stop="20260918053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Vasco Da Gama vs. Independiente Santa Fe</title></programme>
-  <programme start="20260918053000 +0000" stop="20260918070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
-  <programme start="20260918070000 +0000" stop="20260918090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Real Betis vs. Getafe CF</title></programme>
-  <programme start="20260918090000 +0000" stop="20260918110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260918110000 +0000" stop="20260918130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">São Paulo vs. Boca Juniors</title></programme>
-  <programme start="20260918130000 +0000" stop="20260918133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Zinedine Zidane</title></programme>
-  <programme start="20260918133000 +0000" stop="20260918140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Atlético Mineiro vs. Santos</title></programme>
-  <programme start="20260918140000 +0000" stop="20260918170000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">XIII Juegos Suramericanos Santa Fe 2026</title></programme>
-  <programme start="20260918170000 +0000" stop="20260918183000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">XIII Juegos Suramericanos Santa Fe 2026</title></programme>
-  <programme start="20260918183000 +0000" stop="20260918185500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">LaLiga: Espanyol vs. Elche</title></programme>
-  <programme start="20260918185500 +0000" stop="20260918210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Espanyol vs. Elche</title></programme>
-  <programme start="20260918210000 +0000" stop="20260918230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
-  <programme start="20260918230000 +0000" stop="20260919000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
   <programme start="20260919000000 +0000" stop="20260919003000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Magazine CONMEBOL Sudamericana</title></programme>
   <programme start="20260919003000 +0000" stop="20260919010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Final Liguilla 1988/89: San Lorenzo vs. Boca</title></programme>
   <programme start="20260919010000 +0000" stop="20260919020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Dsports Total</title></programme>
@@ -33,13 +16,18 @@
   <programme start="20260919113000 +0000" stop="20260919120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Guga Kuerten</title></programme>
   <programme start="20260919120000 +0000" stop="20260919150000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">República Checa vs. Estados Unidos</title></programme>
   <programme start="20260919150000 +0000" stop="20260919180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">República Checa vs. Estados Unidos</title></programme>
-  <programme start="20260919180000 +0000" stop="20260919183000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">República Checa vs. Estados Unidos</title></programme>
+  <programme start="20260919180000 +0000" stop="20260919183000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Canadá vs. Francia</title></programme>
   <programme start="20260919183000 +0000" stop="20260919185500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">LaLiga: Sevilla vs. Barcelona</title></programme>
   <programme start="20260919185500 +0000" stop="20260919215500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Sevilla vs. Barcelona</title></programme>
-  <programme start="20260919215500 +0000" stop="20260920005500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Sevilla vs. Barcelona</title></programme>
-  <programme start="20260920005500 +0000" stop="20260920035500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Sevilla vs. Barcelona</title></programme>
-  <programme start="20260920035500 +0000" stop="20260920065500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Sevilla vs. Barcelona</title></programme>
-  <programme start="20260920065500 +0000" stop="20260920090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Sevilla vs. Barcelona</title></programme>
+  <programme start="20260919215500 +0000" stop="20260920000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Sevilla vs. Barcelona</title></programme>
+  <programme start="20260920000000 +0000" stop="20260920013000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260920013000 +0000" stop="20260920020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puro Concepto</title></programme>
+  <programme start="20260920020000 +0000" stop="20260920023000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Magazine CONMEBOL Sudamericana</title></programme>
+  <programme start="20260920023000 +0000" stop="20260920030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Los goles de Cristiano Ronaldo al Atlético de Madrid</title></programme>
+  <programme start="20260920030000 +0000" stop="20260920033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puro Concepto</title></programme>
+  <programme start="20260920033000 +0000" stop="20260920053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Sevilla vs. Barcelona</title></programme>
+  <programme start="20260920053000 +0000" stop="20260920070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260920070000 +0000" stop="20260920090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Athletic de Bilbao vs. Deportivo Alavés</title></programme>
   <programme start="20260920090000 +0000" stop="20260920103000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
   <programme start="20260920103000 +0000" stop="20260920110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Alessandro del Piero</title></programme>
   <programme start="20260920110000 +0000" stop="20260920130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Sevilla vs. Barcelona</title></programme>
@@ -47,9 +35,22 @@
   <programme start="20260920133000 +0000" stop="20260920140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Magazine CONMEBOL Sudamericana</title></programme>
   <programme start="20260920140000 +0000" stop="20260920143000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Simplemente Diego: El Pelusa de la Paternal</title></programme>
   <programme start="20260920143000 +0000" stop="20260920144000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Serena Williams</title></programme>
-  <programme start="20260920144000 +0000" stop="20260920170000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Chile vs. España</title></programme>
-  <programme start="20260920170000 +0000" stop="20260920200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Canadá vs. Francia</title></programme>
-  <programme start="20260920200000 +0000" stop="20260920210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Canadá vs. Francia</title></programme>
+  <programme start="20260920144000 +0000" stop="20260920174000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Chile vs. España</title></programme>
+  <programme start="20260920174000 +0000" stop="20260920204000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Chile vs. España</title></programme>
+  <programme start="20260920204000 +0000" stop="20260920210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Chile vs. España</title></programme>
   <programme start="20260920210000 +0000" stop="20260920230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260920230000 +0000" stop="20260921000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">FC Porto vs. Benfica</title></programme>
+  <programme start="20260920230000 +0000" stop="20260921010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">FC Porto vs. Benfica</title></programme>
+  <programme start="20260921010000 +0000" stop="20260921030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260921030000 +0000" stop="20260921050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Deportivo de La Coruña vs. Real Betis</title></programme>
+  <programme start="20260921050000 +0000" stop="20260921070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260921070000 +0000" stop="20260921090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">FC Porto vs. Benfica</title></programme>
+  <programme start="20260921090000 +0000" stop="20260921110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260921110000 +0000" stop="20260921130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlético de Madrid vs. Real Madrid</title></programme>
+  <programme start="20260921130000 +0000" stop="20260921133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Messi vs. Cristiano, Temporada 5: Liga-copas 2013/14, parte 2</title></programme>
+  <programme start="20260921133000 +0000" stop="20260921140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Todo en 30</title></programme>
+  <programme start="20260921140000 +0000" stop="20260921170000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">XIII Juegos Suramericanos Santa Fe 2026</title></programme>
+  <programme start="20260921170000 +0000" stop="20260921200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">XIII Juegos Suramericanos Santa Fe 2026</title></programme>
+  <programme start="20260921200000 +0000" stop="20260921213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
+  <programme start="20260921213000 +0000" stop="20260921230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
+  <programme start="20260921230000 +0000" stop="20260922000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
 </tv>
