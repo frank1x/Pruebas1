@@ -2,27 +2,6 @@
 <tv generator-info-name="EPG Processor">
   <channel id="DSPORTS.(ARG).dtvsp"><display-name lang="en">DSPORTS (ARG)</display-name><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><url>http://www.directvsports.com</url></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20260924230000 +0000" stop="20260925000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
-  <programme start="20260925000000 +0000" stop="20260925003000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Supercopa Internacional 2023: River vs. Talleres</title></programme>
-  <programme start="20260925003000 +0000" stop="20260925010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Manu Ginóbili</title></programme>
-  <programme start="20260925010000 +0000" stop="20260925030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260925030000 +0000" stop="20260925033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Supercopa Internacional 2023: River vs. Talleres</title></programme>
-  <programme start="20260925033000 +0000" stop="20260925040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Manu Ginóbili</title></programme>
-  <programme start="20260925040000 +0000" stop="20260925050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260925050000 +0000" stop="20260925053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Laliga: Deportivo La Coruña vs. Betis</title></programme>
-  <programme start="20260925053000 +0000" stop="20260925070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
-  <programme start="20260925070000 +0000" stop="20260925090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Athletic de Bilbao vs. Deportivo Alavés</title></programme>
-  <programme start="20260925090000 +0000" stop="20260925110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20260925110000 +0000" stop="20260925130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlético de Madrid vs. Real Madrid</title></programme>
-  <programme start="20260925130000 +0000" stop="20260925133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Cristiano vs. Messi, temporada 9</title></programme>
-  <programme start="20260925133000 +0000" stop="20260925140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Laliga: Valencia vs. Real Sociedad</title></programme>
-  <programme start="20260925140000 +0000" stop="20260925170000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">XIII Juegos Suramericanos Santa Fe 2026</title></programme>
-  <programme start="20260925170000 +0000" stop="20260925200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">XIII Juegos Suramericanos Santa Fe 2026</title></programme>
-  <programme start="20260925200000 +0000" stop="20260925213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
-  <programme start="20260925213000 +0000" stop="20260925230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
-  <programme start="20260925230000 +0000" stop="20260926000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
-  <programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Supercopa Internacional 2024: Vélez vs. Estudiantes</title></programme>
-  <programme start="20260926003000 +0000" stop="20260926010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puro Concepto</title></programme>
   <programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Dsports Total</title></programme>
   <programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
   <programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Manu Ginóbili</title></programme>
@@ -40,18 +19,39 @@
   <programme start="20260926180000 +0000" stop="20260926185500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol: Previa</title></programme>
   <programme start="20260926185500 +0000" stop="20260926210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Estudiantes (LP) vs. Rosario Central</title></programme>
   <programme start="20260926210000 +0000" stop="20260926220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol: Post</title></programme>
-  <programme start="20260926220000 +0000" stop="20260926233000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260926233000 +0000" stop="20260927023000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Ceremonia de clausura</title></programme>
-  <programme start="20260927023000 +0000" stop="20260927040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260927040000 +0000" stop="20260927053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina Sub-20 vs. Ecuador Sub-20</title></programme>
+  <programme start="20260926220000 +0000" stop="20260926233000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Ceremonia de clausura</title></programme>
+  <programme start="20260926233000 +0000" stop="20260927010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260927010000 +0000" stop="20260927030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">FC Barcelona vs. Leyma Coruña</title></programme>
+  <programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Manu Ginóbili</title></programme>
+  <programme start="20260927033000 +0000" stop="20260927053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Estudiantes (LP) vs. Rosario Central</title></programme>
   <programme start="20260927053000 +0000" stop="20260927070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
   <programme start="20260927070000 +0000" stop="20260927090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Tercer lugar: Italia Sub-20 vs. Colombia Sub-20</title></programme>
-  <programme start="20260927090000 +0000" stop="20260927120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260927120000 +0000" stop="20260927140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Estudiantes (LP) vs. Rosario Central</title></programme>
-  <programme start="20260927140000 +0000" stop="20260927155000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Tercer lugar: Italia Sub-20 vs. Colombia Sub-20</title></programme>
-  <programme start="20260927155000 +0000" stop="20260927183000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Final: España Sub-20 vs. Corea del Norte Sub-20</title></programme>
+  <programme start="20260927090000 +0000" stop="20260927093000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Pau Gasol</title></programme>
+  <programme start="20260927093000 +0000" stop="20260927095500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Manu Ginóbili: The last dance en la selección</title></programme>
+  <programme start="20260927095500 +0000" stop="20260927120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Río Breogán vs. Asisa Joventut</title></programme>
+  <programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Lebron James</title></programme>
+  <programme start="20260927123000 +0000" stop="20260927140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260927140000 +0000" stop="20260927155000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Estudiantes (LP) vs. Rosario Central</title></programme>
+  <programme start="20260927155000 +0000" stop="20260927183000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Spain U20 vs. Korea DPR U20</title></programme>
   <programme start="20260927183000 +0000" stop="20260927202000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Sevilla vs. Barcelona</title></programme>
   <programme start="20260927202000 +0000" stop="20260927223000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Bolivia vs. Paraguay</title></programme>
-  <programme start="20260927223000 +0000" stop="20260927233000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20260927233000 +0000" stop="20260928020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Final: España Sub-20 vs. Corea del Norte Sub-20</title></programme>
+  <programme start="20260927223000 +0000" stop="20260928000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260928000000 +0000" stop="20260928023000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Spain U20 vs. Korea DPR U20</title></programme>
+  <programme start="20260928023000 +0000" stop="20260928040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Chile vs. Argentina: Chile Sub-20 vs. Argentina Sub-20</title></programme>
+  <programme start="20260928040000 +0000" stop="20260928053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260928053000 +0000" stop="20260928060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Rivaldo</title></programme>
+  <programme start="20260928060000 +0000" stop="20260928063000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Supercopa Internacional 2024: Vélez vs. Estudiantes</title></programme>
+  <programme start="20260928063000 +0000" stop="20260928090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Spain U20 vs. Korea DPR U20</title></programme>
+  <programme start="20260928090000 +0000" stop="20260928103000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260928103000 +0000" stop="20260928110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Supercopa Internacional 2024: Vélez vs. Estudiantes</title></programme>
+  <programme start="20260928110000 +0000" stop="20260928130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Estudiantes (LP) vs. Rosario Central</title></programme>
+  <programme start="20260928130000 +0000" stop="20260928133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Supercopa Internacional 2023: River vs. Talleres</title></programme>
+  <programme start="20260928133000 +0000" stop="20260928140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Todo en 30</title></programme>
+  <programme start="20260928140000 +0000" stop="20260928160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
+  <programme start="20260928160000 +0000" stop="20260928173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
+  <programme start="20260928173000 +0000" stop="20260928190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20260928190000 +0000" stop="20260928200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
+  <programme start="20260928200000 +0000" stop="20260928213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
+  <programme start="20260928213000 +0000" stop="20260928230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
+  <programme start="20260928230000 +0000" stop="20260929000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
 </tv>
