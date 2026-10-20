@@ -2,24 +2,7 @@
 <tv generator-info-name="EPG Processor">
   <channel id="DSPORTS.(ARG).dtvsp"><display-name lang="en">DSPORTS (ARG)</display-name><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><url>http://www.directvsports.com</url></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20261019010000 +0000" stop="20261019040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20261019040000 +0000" stop="20261019060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">RC Celta vs. Deportivo Alavés</title></programme>
-  <programme start="20261019060000 +0000" stop="20261019063000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Historiales Sudamericanos: Boca Juniors vs. Vasco Da Gama</title></programme>
-  <programme start="20261019063000 +0000" stop="20261019070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Magazine CONMEBOL Sudamericana</title></programme>
-  <programme start="20261019070000 +0000" stop="20261019090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlético Mineiro vs. Montevideo City Torque</title></programme>
-  <programme start="20261019090000 +0000" stop="20261019103000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20261019103000 +0000" stop="20261019110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Blindar la Joya</title></programme>
-  <programme start="20261019110000 +0000" stop="20261019130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Real Madrid vs. Sevilla</title></programme>
-  <programme start="20261019130000 +0000" stop="20261019133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Historiales Sudamericanos: Boca Juniors vs. Vasco Da Gama</title></programme>
-  <programme start="20261019133000 +0000" stop="20261019140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Laliga: Espanyol vs. Atl. De Madrid</title></programme>
-  <programme start="20261019140000 +0000" stop="20261019160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
-  <programme start="20261019160000 +0000" stop="20261019173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
-  <programme start="20261019173000 +0000" stop="20261019183000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20261019183000 +0000" stop="20261019185500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">LaLiga: Getafe CF vs. Rayo Vallecano</title></programme>
-  <programme start="20261019185500 +0000" stop="20261019210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Getafe CF vs. Rayo Vallecano</title></programme>
-  <programme start="20261019210000 +0000" stop="20261019230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
-  <programme start="20261019230000 +0000" stop="20261020000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
-  <programme start="20261020000000 +0000" stop="20261020010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Dsports Total</title></programme>
+  <programme start="20261019230000 +0000" stop="20261020010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
   <programme start="20261020010000 +0000" stop="20261020030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
   <programme start="20261020030000 +0000" stop="20261020040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Dsports Total</title></programme>
   <programme start="20261020040000 +0000" stop="20261020070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
@@ -50,4 +33,19 @@
   <programme start="20261021200000 +0000" stop="20261021213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
   <programme start="20261021213000 +0000" stop="20261021215000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Montevideo City Torque vs. Atlético Mineiro</title></programme>
   <programme start="20261021215000 +0000" stop="20261022000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Montevideo City Torque vs. Atlético Mineiro</title></programme>
+  <programme start="20261022000000 +0000" stop="20261022010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
+  <programme start="20261022010000 +0000" stop="20261022030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261022030000 +0000" stop="20261022050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Montevideo City Torque vs. Atlético Mineiro</title></programme>
+  <programme start="20261022050000 +0000" stop="20261022080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261022080000 +0000" stop="20261022110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261022110000 +0000" stop="20261022130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Montevideo City Torque vs. Atlético Mineiro</title></programme>
+  <programme start="20261022130000 +0000" stop="20261022133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Palermo: Ocaso y Rendición</title></programme>
+  <programme start="20261022133000 +0000" stop="20261022140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Montevideo City Torque vs. Atlético Mineiro</title></programme>
+  <programme start="20261022140000 +0000" stop="20261022160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
+  <programme start="20261022160000 +0000" stop="20261022173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
+  <programme start="20261022173000 +0000" stop="20261022190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20261022190000 +0000" stop="20261022200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
+  <programme start="20261022200000 +0000" stop="20261022213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
+  <programme start="20261022213000 +0000" stop="20261022230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
+  <programme start="20261022230000 +0000" stop="20261023000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
 </tv>
