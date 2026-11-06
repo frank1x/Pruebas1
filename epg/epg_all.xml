@@ -2,19 +2,6 @@
 <tv generator-info-name="EPG Processor">
   <channel id="DSPORTS.(ARG).dtvsp"><display-name lang="en">DSPORTS (ARG)</display-name><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><url>http://www.directvsports.com</url></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20261105000000 +0000" stop="20261105020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20261105020000 +0000" stop="20261105040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grêmio vs. Atlético Mineiro</title></programme>
-  <programme start="20261105040000 +0000" stop="20261105070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20261105070000 +0000" stop="20261105100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20261105100000 +0000" stop="20261105110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20261105110000 +0000" stop="20261105130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Grêmio vs. Atlético Mineiro</title></programme>
-  <programme start="20261105130000 +0000" stop="20261105133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El origen de un romance</title></programme>
-  <programme start="20261105133000 +0000" stop="20261105140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa de Brasil: Palmeiras vs. Vasco Da Gama</title></programme>
-  <programme start="20261105140000 +0000" stop="20261105160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
-  <programme start="20261105160000 +0000" stop="20261105170000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
-  <programme start="20261105170000 +0000" stop="20261105200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20261105200000 +0000" stop="20261105230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20261105230000 +0000" stop="20261106020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
   <programme start="20261106020000 +0000" stop="20261106050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
   <programme start="20261106050000 +0000" stop="20261106080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
   <programme start="20261106080000 +0000" stop="20261106110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
@@ -41,9 +28,9 @@
   <programme start="20261107033000 +0000" stop="20261107040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El verdugo del colchonero</title></programme>
   <programme start="20261107040000 +0000" stop="20261107090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
   <programme start="20261107090000 +0000" stop="20261107110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20261107110000 +0000" stop="20261107113000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Simplemente Diego: Maradona DT De Mandiyú</title></programme>
-  <programme start="20261107113000 +0000" stop="20261107120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Diego Maradona</title></programme>
-  <programme start="20261107120000 +0000" stop="20261107123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El verdugo del colchonero</title></programme>
+  <programme start="20261107110000 +0000" stop="20261107113000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El origen de un romance</title></programme>
+  <programme start="20261107113000 +0000" stop="20261107120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Boca campeón sudamericana 2004</title></programme>
+  <programme start="20261107120000 +0000" stop="20261107123000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Boca Juniors: Campeón de la Copa Sudamericana 2005</title></programme>
   <programme start="20261107123000 +0000" stop="20261107125500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol: Previa</title></programme>
   <programme start="20261107125500 +0000" stop="20261107150000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Málaga CF vs. Real Racing</title></programme>
   <programme start="20261107150000 +0000" stop="20261107151000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol: Previa</title></programme>
@@ -52,7 +39,24 @@
   <programme start="20261107173000 +0000" stop="20261107193000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Málaga CF vs. Real Racing</title></programme>
   <programme start="20261107193000 +0000" stop="20261107195500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">LaLiga: Valencia vs. Real Madrid</title></programme>
   <programme start="20261107195500 +0000" stop="20261107220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Valencia vs. Real Madrid</title></programme>
-  <programme start="20261107220000 +0000" stop="20261107223000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El Inicio de La era post Maradona en 1994</title></programme>
-  <programme start="20261107223000 +0000" stop="20261107230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Hilos</title></programme>
-  <programme start="20261107230000 +0000" stop="20261108010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Valencia vs. Real Madrid</title></programme>
+  <programme start="20261107220000 +0000" stop="20261108000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20261108000000 +0000" stop="20261108020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Valencia vs. Real Madrid</title></programme>
+  <programme start="20261108020000 +0000" stop="20261108040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlético Mineiro vs. Grêmio</title></programme>
+  <programme start="20261108040000 +0000" stop="20261108060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20261108060000 +0000" stop="20261108063000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El verdugo del colchonero</title></programme>
+  <programme start="20261108063000 +0000" stop="20261108070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Jamie Vardy</title></programme>
+  <programme start="20261108070000 +0000" stop="20261108090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Valencia vs. Real Madrid</title></programme>
+  <programme start="20261108090000 +0000" stop="20261108110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20261108110000 +0000" stop="20261108113000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Jamie Vardy</title></programme>
+  <programme start="20261108113000 +0000" stop="20261108115500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El Inicio de La era post Maradona en 1994</title></programme>
+  <programme start="20261108115500 +0000" stop="20261108140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">La Laguna Tenerife vs. Asisa Joventut</title></programme>
+  <programme start="20261108140000 +0000" stop="20261108143000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Manu Ginóbili</title></programme>
+  <programme start="20261108143000 +0000" stop="20261108163000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlético Mineiro vs. Grêmio</title></programme>
+  <programme start="20261108163000 +0000" stop="20261108170000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El origen de un romance</title></programme>
+  <programme start="20261108170000 +0000" stop="20261108172500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">LaLiga: Villarreal vs. Getafe</title></programme>
+  <programme start="20261108172500 +0000" stop="20261108193000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Villarreal CF vs. Getafe CF</title></programme>
+  <programme start="20261108193000 +0000" stop="20261108195500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol: Previa</title></programme>
+  <programme start="20261108195500 +0000" stop="20261108220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Vasco da Gama vs. Palmeiras</title></programme>
+  <programme start="20261108220000 +0000" stop="20261108233000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20261108233000 +0000" stop="20261109013000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Villarreal CF vs. Getafe CF</title></programme>
 </tv>
