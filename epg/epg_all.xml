@@ -2,21 +2,6 @@
 <tv generator-info-name="EPG Processor">
   <channel id="DSPORTS.(ARG).dtvsp"><display-name lang="en">DSPORTS (ARG)</display-name><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><url>http://www.directvsports.com</url></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20261112020000 +0000" stop="20261112023000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Liga de Portugal: Estrela De Amadora vs. Benfica</title></programme>
-  <programme start="20261112023000 +0000" stop="20261112030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El Inicio de La era post Maradona en 1994</title></programme>
-  <programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
-  <programme start="20261112040000 +0000" stop="20261112070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20261112070000 +0000" stop="20261112100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20261112100000 +0000" stop="20261112110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20261112110000 +0000" stop="20261112133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Vasco da Gama vs. Palmeiras</title></programme>
-  <programme start="20261112133000 +0000" stop="20261112140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Brasil: Atlético Mineiro vs. Gremio</title></programme>
-  <programme start="20261112140000 +0000" stop="20261112160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
-  <programme start="20261112160000 +0000" stop="20261112173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
-  <programme start="20261112173000 +0000" stop="20261112190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20261112190000 +0000" stop="20261112200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
-  <programme start="20261112200000 +0000" stop="20261112213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
-  <programme start="20261112213000 +0000" stop="20261112230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
-  <programme start="20261112230000 +0000" stop="20261113013000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
   <programme start="20261113013000 +0000" stop="20261113020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El clásico del Río de La Plata</title></programme>
   <programme start="20261113020000 +0000" stop="20261113023000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Luis Suárez</title></programme>
   <programme start="20261113023000 +0000" stop="20261113033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
@@ -49,4 +34,21 @@
   <programme start="20261114190000 +0000" stop="20261114213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">FInal: Huirapuca vs. Tucumán Rugby Club</title></programme>
   <programme start="20261114213000 +0000" stop="20261114234500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Final: Tala RC vs. La Tablada</title></programme>
   <programme start="20261114234500 +0000" stop="20261115020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Final: Estudiantes de Paraná vs. Duendes RC</title></programme>
+  <programme start="20261115020000 +0000" stop="20261115030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20261115030000 +0000" stop="20261115033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puro Concepto</title></programme>
+  <programme start="20261115033000 +0000" stop="20261115053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Colombia vs. Chile</title></programme>
+  <programme start="20261115053000 +0000" stop="20261115063000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20261115063000 +0000" stop="20261115090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Vasco da Gama vs. Palmeiras</title></programme>
+  <programme start="20261115090000 +0000" stop="20261115110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20261115110000 +0000" stop="20261115130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Valencia vs. Real Madrid</title></programme>
+  <programme start="20261115130000 +0000" stop="20261115133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Sudamericana 2002: San Lorenzo campeón</title></programme>
+  <programme start="20261115133000 +0000" stop="20261115153000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Colombia vs. Chile</title></programme>
+  <programme start="20261115153000 +0000" stop="20261115155500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Kobe Bryant</title></programme>
+  <programme start="20261115155500 +0000" stop="20261115175500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">FC Barcelona vs. Monbus Obradoiro</title></programme>
+  <programme start="20261115175500 +0000" stop="20261115200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Kosner Baskonia vs. Real Madrid</title></programme>
+  <programme start="20261115200000 +0000" stop="20261115203000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">River Plate Campeón Copa Sudamericana 2014</title></programme>
+  <programme start="20261115203000 +0000" stop="20261115210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Luis Suárez</title></programme>
+  <programme start="20261115210000 +0000" stop="20261115230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Será anunciado</title></programme>
+  <programme start="20261115230000 +0000" stop="20261115233000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Racing campeón de la Copa Sudamericana 2024</title></programme>
+  <programme start="20261115233000 +0000" stop="20261116000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Magazine CONMEBOL Sudamericana</title></programme>
 </tv>
