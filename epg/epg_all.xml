@@ -2,49 +2,34 @@
 <tv generator-info-name="EPG Processor">
   <channel id="DSPORTS.(ARG).dtvsp"><display-name lang="en">DSPORTS (ARG)</display-name><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><url>http://www.directvsports.com</url></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20261114030000 +0000" stop="20261114050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Uruguay</title></programme>
-  <programme start="20261114050000 +0000" stop="20261114070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Colombia vs. Chile</title></programme>
-  <programme start="20261114070000 +0000" stop="20261114080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20261114080000 +0000" stop="20261114090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20261114090000 +0000" stop="20261114110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20261114110000 +0000" stop="20261114130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Colombia vs. Chile</title></programme>
-  <programme start="20261114130000 +0000" stop="20261114133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Sudamericana 2019, final: Independiente del Valle vs. Colón</title></programme>
-  <programme start="20261114133000 +0000" stop="20261114140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">LaLiga Free Tour</title></programme>
-  <programme start="20261114140000 +0000" stop="20261114160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlético de Madrid vs. Barcelona</title></programme>
-  <programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Sudamericana 2022: Final</title></programme>
-  <programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Magazine CONMEBOL Sudamericana</title></programme>
-  <programme start="20261114170000 +0000" stop="20261114190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Colombia vs. Chile</title></programme>
-  <programme start="20261114190000 +0000" stop="20261114213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">FInal: Huirapuca vs. Tucumán Rugby Club</title></programme>
-  <programme start="20261114213000 +0000" stop="20261114234500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Final: Tala RC vs. La Tablada</title></programme>
-  <programme start="20261114234500 +0000" stop="20261115020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Final: Duendes RC vs. Estudiantes de Paraná</title></programme>
-  <programme start="20261115020000 +0000" stop="20261115030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20261115030000 +0000" stop="20261115033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puro Concepto</title></programme>
-  <programme start="20261115033000 +0000" stop="20261115053000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Colombia vs. Chile</title></programme>
-  <programme start="20261115053000 +0000" stop="20261115063000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20261115000000 +0000" stop="20261115013000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20261115013000 +0000" stop="20261115020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puro Concepto</title></programme>
+  <programme start="20261115020000 +0000" stop="20261115040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Real Madrid vs. Barcelona 19/11/05</title></programme>
+  <programme start="20261115040000 +0000" stop="20261115043000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">River Plate Campeón Copa Sudamericana 2014</title></programme>
+  <programme start="20261115043000 +0000" stop="20261115060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20261115060000 +0000" stop="20261115063000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puro Concepto</title></programme>
   <programme start="20261115063000 +0000" stop="20261115090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Vasco da Gama vs. Palmeiras</title></programme>
-  <programme start="20261115090000 +0000" stop="20261115110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20261115110000 +0000" stop="20261115130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Valencia vs. Real Madrid</title></programme>
-  <programme start="20261115130000 +0000" stop="20261115133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Copa Sudamericana 2002: San Lorenzo campeón</title></programme>
-  <programme start="20261115133000 +0000" stop="20261115153000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Colombia vs. Chile</title></programme>
-  <programme start="20261115153000 +0000" stop="20261115155500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Kobe Bryant</title></programme>
-  <programme start="20261115155500 +0000" stop="20261115175500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">FC Barcelona vs. Monbus Obradoiro</title></programme>
-  <programme start="20261115175500 +0000" stop="20261115200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Kosner Baskonia vs. Real Madrid</title></programme>
-  <programme start="20261115200000 +0000" stop="20261115203000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">River Plate Campeón Copa Sudamericana 2014</title></programme>
-  <programme start="20261115203000 +0000" stop="20261115210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Luis Suárez</title></programme>
-  <programme start="20261115210000 +0000" stop="20261115230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Será anunciado</title></programme>
-  <programme start="20261115230000 +0000" stop="20261115233000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Racing campeón de la Copa Sudamericana 2024</title></programme>
-  <programme start="20261115233000 +0000" stop="20261116000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Magazine CONMEBOL Sudamericana</title></programme>
+  <programme start="20261115090000 +0000" stop="20261115103000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20261115103000 +0000" stop="20261115120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20261115120000 +0000" stop="20261115135500 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Real Madrid vs. Barcelona 19/11/05</title></programme>
+  <programme start="20261115135500 +0000" stop="20261115160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Internazionale vs. Juventus</title></programme>
+  <programme start="20261115160000 +0000" stop="20261115162000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Simplemente Diego: El partido</title></programme>
+  <programme start="20261115162000 +0000" stop="20261115183000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Ravenna vs. Forlì</title></programme>
+  <programme start="20261115183000 +0000" stop="20261115190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">River Plate Campeón Copa Sudamericana 2014</title></programme>
+  <programme start="20261115190000 +0000" stop="20261115193000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Luis Suárez</title></programme>
+  <programme start="20261115193000 +0000" stop="20261115213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Uruguay</title></programme>
+  <programme start="20261115213000 +0000" stop="20261115220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Magazine CONMEBOL Sudamericana</title></programme>
+  <programme start="20261115220000 +0000" stop="20261116000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Ravenna vs. Forlì</title></programme>
   <programme start="20261116000000 +0000" stop="20261116010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20261116010000 +0000" stop="20261116030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlético de Madrid vs. Barcelona</title></programme>
+  <programme start="20261116010000 +0000" stop="20261116030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Colombia vs. Chile</title></programme>
   <programme start="20261116030000 +0000" stop="20261116040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20261116040000 +0000" stop="20261116060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Valencia vs. Real Madrid</title></programme>
+  <programme start="20261116040000 +0000" stop="20261116060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Ravenna vs. Forlì</title></programme>
   <programme start="20261116060000 +0000" stop="20261116070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
   <programme start="20261116070000 +0000" stop="20261116090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlético Mineiro vs. Grêmio</title></programme>
   <programme start="20261116090000 +0000" stop="20261116110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
-  <programme start="20261116110000 +0000" stop="20261116130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Será anunciado</title></programme>
-  <programme start="20261116130000 +0000" stop="20261116133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Lanús campeón Sudamericana 2013</title></programme>
-  <programme start="20261116133000 +0000" stop="20261116140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Todo en 30</title></programme>
+  <programme start="20261116110000 +0000" stop="20261116130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Ravenna vs. Forlì</title></programme>
+  <programme start="20261116130000 +0000" stop="20261116133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">River Plate Campeón Copa Sudamericana 2014</title></programme>
+  <programme start="20261116133000 +0000" stop="20261116140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Amistoso Internacional: Argentina vs. Uruguay</title></programme>
   <programme start="20261116140000 +0000" stop="20261116160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
   <programme start="20261116160000 +0000" stop="20261116173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
   <programme start="20261116173000 +0000" stop="20261116190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
@@ -52,4 +37,26 @@
   <programme start="20261116200000 +0000" stop="20261116213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
   <programme start="20261116213000 +0000" stop="20261116230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
   <programme start="20261116230000 +0000" stop="20261117000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
+  <programme start="20261117000000 +0000" stop="20261117010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Más que fútbol</title></programme>
+  <programme start="20261117010000 +0000" stop="20261117020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Dsports Total</title></programme>
+  <programme start="20261117020000 +0000" stop="20261117030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261117030000 +0000" stop="20261117040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Más que fútbol</title></programme>
+  <programme start="20261117040000 +0000" stop="20261117050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261117050000 +0000" stop="20261117060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261117060000 +0000" stop="20261117070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261117070000 +0000" stop="20261117080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261117080000 +0000" stop="20261117090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261117090000 +0000" stop="20261117100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261117100000 +0000" stop="20261117110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261117110000 +0000" stop="20261117130000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Uruguay</title></programme>
+  <programme start="20261117130000 +0000" stop="20261117133000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Racing campeón de la Copa Sudamericana 2024</title></programme>
+  <programme start="20261117133000 +0000" stop="20261117140000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Amistoso Internacional: Colombia vs. Chile</title></programme>
+  <programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
+  <programme start="20261117160000 +0000" stop="20261117173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">De Fútbol Se Habla Así Argentina</title></programme>
+  <programme start="20261117173000 +0000" stop="20261117190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20261117190000 +0000" stop="20261117200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
+  <programme start="20261117200000 +0000" stop="20261117210000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
+  <programme start="20261117210000 +0000" stop="20261117220000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
+  <programme start="20261117220000 +0000" stop="20261117225000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Argentina vs. Costa Rica</title></programme>
+  <programme start="20261117225000 +0000" stop="20261118010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Chile vs. Colombia</title></programme>
 </tv>
