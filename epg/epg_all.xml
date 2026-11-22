@@ -2,28 +2,6 @@
 <tv generator-info-name="EPG Processor">
   <channel id="DSPORTS.(ARG).dtvsp"><display-name lang="en">DSPORTS (ARG)</display-name><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" /><url>http://www.directvsports.com</url></channel>
   <channel id="DISCOVERY.HD.(DiscoveryHD).pe"><display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name><icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" /><url>http://www.movistar.com.pe</url></channel>
-  <programme start="20261121010000 +0000" stop="20261121030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20261121030000 +0000" stop="20261121033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Martín Palermo</title></programme>
-  <programme start="20261121033000 +0000" stop="20261121040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Historial Boca Juniors vs. Atlético Mineiro</title></programme>
-  <programme start="20261121040000 +0000" stop="20261121050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20261121050000 +0000" stop="20261121060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20261121060000 +0000" stop="20261121070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20261121070000 +0000" stop="20261121080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
-  <programme start="20261121080000 +0000" stop="20261121083000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Boca Juniors vs. O'higgins</title></programme>
-  <programme start="20261121083000 +0000" stop="20261121090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: O'higgins vs. Boca Juniors</title></programme>
-  <programme start="20261121090000 +0000" stop="20261121093000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Boca Juniors vs. Recoleta</title></programme>
-  <programme start="20261121093000 +0000" stop="20261121100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Recoleta vs. Boca Juniors</title></programme>
-  <programme start="20261121100000 +0000" stop="20261121103000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Boca Juniors vs. São Paulo</title></programme>
-  <programme start="20261121103000 +0000" stop="20261121110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: São Paulo vs. Boca Juniors</title></programme>
-  <programme start="20261121110000 +0000" stop="20261121113000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Boca Juniors vs. Vasco Da Gama</title></programme>
-  <programme start="20261121113000 +0000" stop="20261121120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana: Vasco Da Gama vs. Boca Juniors</title></programme>
-  <programme start="20261121120000 +0000" stop="20261121150000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Boca vs. Mineiro</title></programme>
-  <programme start="20261121150000 +0000" stop="20261121160000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Boca vs. Mineiro</title></programme>
-  <programme start="20261121160000 +0000" stop="20261121180000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Boca vs. Mineiro</title></programme>
-  <programme start="20261121180000 +0000" stop="20261121200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Boca vs. Mineiro, La Gran Final</title></programme>
-  <programme start="20261121200000 +0000" stop="20261121221000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">CONMEBOL Sudamericana Final: Atlético Mineiro vs. Boca Juniors</title></programme>
-  <programme start="20261121221000 +0000" stop="20261122011000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlético Mineiro vs. Boca Juniors</title></programme>
-  <programme start="20261122011000 +0000" stop="20261122013000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlético Mineiro vs. Boca Juniors</title></programme>
   <programme start="20261122013000 +0000" stop="20261122033000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
   <programme start="20261122033000 +0000" stop="20261122060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Atlético Mineiro vs. Boca Juniors</title></programme>
   <programme start="20261122060000 +0000" stop="20261122080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
@@ -57,4 +35,25 @@
   <programme start="20261123200000 +0000" stop="20261123213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
   <programme start="20261123213000 +0000" stop="20261123230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
   <programme start="20261123230000 +0000" stop="20261124000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
+  <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Más que fútbol</title></programme>
+  <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Dsports Total</title></programme>
+  <programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261124030000 +0000" stop="20261124040000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Más que fútbol</title></programme>
+  <programme start="20261124040000 +0000" stop="20261124050000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261124050000 +0000" stop="20261124060000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261124060000 +0000" stop="20261124070000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261124070000 +0000" stop="20261124080000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261124080000 +0000" stop="20261124090000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261124090000 +0000" stop="20261124100000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261124110000 +0000" stop="20261124120000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Nite</title></programme>
+  <programme start="20261124120000 +0000" stop="20261124122000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Final Supercopa Internacional 2023: Racing vs. Boca</title></programme>
+  <programme start="20261124122000 +0000" stop="20261124143000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Venezuela Sub-17 vs. Rumania Sub-17</title></programme>
+  <programme start="20261124143000 +0000" stop="20261124152000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite</title></programme>
+  <programme start="20261124152000 +0000" stop="20261124173000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Honduras Sub-17 vs. Colombia Sub-17</title></programme>
+  <programme start="20261124173000 +0000" stop="20261124190000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias</title></programme>
+  <programme start="20261124190000 +0000" stop="20261124200000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Puede pasar</title></programme>
+  <programme start="20261124200000 +0000" stop="20261124213000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">DSPORTS Noticias Lite Tarde</title></programme>
+  <programme start="20261124213000 +0000" stop="20261124230000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">Fútbol Total</title></programme>
+  <programme start="20261124230000 +0000" stop="20261125000000 +0000" channel="DSPORTS.(ARG).dtvsp"><title lang="en">El juego</title></programme>
 </tv>
